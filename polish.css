@@ -41,3 +41,8 @@ button:not(:disabled),summary{cursor:pointer}
  .site-header .nav{display:flex;opacity:0;visibility:hidden;pointer-events:none;transform:translateY(-8px);transition:opacity .24s var(--ease-out),transform .3s var(--ease-out),visibility 0s .3s;box-shadow:0 20px 45px #0005}
  .site-header.menu-open .nav{opacity:1;visibility:visible;pointer-events:auto;transform:none;transition-delay:0s}
 }
+
+/* 首屏恢复参考站的轻字重与较松字距。 */
+.hero h1{letter-spacing:-.02em;line-height:1.1;font-synthesis:none}
+.hero-line-left{font-family:var(--display);font-weight:250}
+.hero h1 strong{font-weight:800}
