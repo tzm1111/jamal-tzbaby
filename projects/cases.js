@@ -40,6 +40,7 @@ const SCENARIOS={
 };
 const slug=document.body.dataset.slug,p=PROJECTS[slug];
 if(!p)throw new Error('项目不存在');
+if(document.body.dataset.prerendered!=='true'){
 document.body.classList.add(`case-${slug}`);
 document.title=`${p.title.replace('\n',' ')} — Jamal`;
 document.querySelector('#pMark').textContent=p.mark;
@@ -52,6 +53,8 @@ document.querySelectorAll('.project-section').forEach(x=>x.remove());
 document.querySelector('.project-next').insertAdjacentHTML('beforebegin',CASES[slug]);
 document.querySelector('#pNext').href=p.next==='aurora-music'?'../../posts/why-build-aurora/':`../${p.next}/`;
 document.querySelector('#pNext').textContent=`${p.nextName} →`;
+}
+
 function setupTabs(selector,callback){
   const buttons=[...document.querySelectorAll(selector)];
   const select=button=>{buttons.forEach(x=>{x.setAttribute('aria-selected',String(x===button));x.tabIndex=x===button?0:-1;});callback(button);};

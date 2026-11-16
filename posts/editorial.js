@@ -92,6 +92,7 @@ const POSTS={
 Object.assign(POSTS,window.PRACTICE_NOTES||{});
 const slug=document.body.dataset.slug,post=POSTS[slug];
 if(!post)throw new Error('文章不存在');
+if(document.body.dataset.prerendered!=='true'){
 document.body.classList.add(`editorial-${slug}`);
 document.title=`${post.title} — Jamal`;
 document.querySelector('#postMark').textContent=post.mark;
@@ -105,6 +106,8 @@ const cover=document.querySelector('.article-cover');
 cover.classList.add('has-image');cover.insertAdjacentHTML('afterbegin',`<img src="../../assets/${post.visual}" alt="${post.title}">`);
 document.querySelector('#postBody').innerHTML=post.body;
 document.querySelector('#year').textContent=new Date().getFullYear();
+}
+
 
 // 在文章内切换真实界面，键盘与鼠标共享同一选择状态。
 const auroraViews={player:['aurora-player.png','Aurora 今日推荐界面','城市天气与当下心情提供进入音乐的线索。'],discover:['aurora-discover.png','Aurora 发现与频谱界面','频谱、波形与粒子共同构成声音的空间感。'],search:['aurora-search.png','Aurora 曲库与搜索界面','知道想听什么时，可以从曲库与搜索直接进入。']};

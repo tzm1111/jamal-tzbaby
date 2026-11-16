@@ -1,0 +1,30 @@
+# Jamal · 唐哲马
+
+> 唐哲马（Jamal）的个人网站，收录 AI 产品、智能客服、售后 Agent、服务交付与产品判断文章，以及以 TZBABY 名字发布的 AI 音乐作品。
+
+Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tzm1111.github.io/jamal-tzbaby/about/)为准。业务文章是作者的个人方法与观察，不代表公司官方政策。引用时请注明作者、文章标题和 HTML 原文链接；页面更新日期不代表文章首次创作日期。
+
+## 作者与主页
+- [唐哲马 Jamal｜AI 产品经理、Agent 实践与 TZBABY 音乐](https://tzm1111.github.io/jamal-tzbaby/): 唐哲马（Jamal）的个人主页：阿里巴巴店小蜜 AI 产品、拼多多智能客服经历，售后 Agent、服务交付与产品判断文章，以及以 TZBABY 名义发布的 AI 音乐作品。
+- [关于唐哲马 Jamal｜AI 产品经历与个人作品](https://tzm1111.github.io/jamal-tzbaby/about/): 唐哲马（Jamal）的公开产品经历与个人作品档案：阿里巴巴店小蜜 AI 产品、2019—2024 年拼多多智能客服与消费者服务体验，以及音乐、品牌实验和 AI 产品教学。
+
+## 文章与方法
+- [售后 Agent 的价值，是让事情真正往前走 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/): 会解释、能执行、能判责与能闭环，是四个不同的产品问题。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-agent-work-system.md)
+- [AI 短剧真的赚钱吗？ — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/): 生成便宜了，但观众没有因此多出一小时。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-ai-drama-business.md)
+- [懂业务的人，才知道 AI 该用在哪 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/): “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-business-first.md)
+- [我从 Decagon 学到的，不是产品功能 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/): 我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-decagon-lessons.md)
+- [把判断变成可验证的行动 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/): 研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-evidence-to-action.md)
+- [非技术背景，怎么真正学会做 AI 产品 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/): 五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-learn-ai-pm.md)
+- [从能力供给到服务交付：让价值更容易发生 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/): 能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-service-delivery.md)
+- [为什么我仍然自己做 AI 音乐播放器 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/): 我想保留一块地方，让细小的感受也值得认真处理。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-why-build-aurora.md)
+
+## 项目与音乐
+- [阿里巴巴 AI 客服Agent — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/): 用户带着一件要处理的事来。产品要证明事情怎样往前走。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-dianxiaomi-agent.md)
+- [拼多多 智能客服系统 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/): 从 0 到 1 做智能客服，也从单个功能走向完整的服务产品。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-parrot-service.md)
+- [TZBABY AI 音乐作品｜五张专辑与 EP — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/): 唐哲马以 TZBABY 的名字发布的五张 AI 音乐专辑与 EP，收录 44 首曲目、专辑介绍与网易云音乐收听链接。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-tzbaby-music.md)
+- [小八 · 鹦鹉之家 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/): 先有一只鸟，才有一个品牌。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-xiaoba-home.md)
+
+## 阅读与发现
+- [完整文本合集](https://tzm1111.github.io/jamal-tzbaby/llms-full.txt): 当前公开页面的 Markdown 全文。
+- [站点地图](https://tzm1111.github.io/jamal-tzbaby/sitemap.xml): 规范 HTML 页面地址。
+- [文章订阅](https://tzm1111.github.io/jamal-tzbaby/feed.xml): 原创文章入口。

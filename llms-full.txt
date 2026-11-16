@@ -1,0 +1,1718 @@
+# 关于唐哲马 Jamal｜AI 产品经历与个人作品
+
+> 唐哲马（Jamal）的公开产品经历与个人作品档案：阿里巴巴店小蜜 AI 产品、2019—2024 年拼多多智能客服与消费者服务体验，以及音乐、品牌实验和 AI 产品教学。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/about/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+# Jamal
+
+## 唐哲马
+
+AI 产品经理 · 业务翻译者。
+
+[↗ 一些 Vibe](https://tzm1111.github.io/jamal-tzbaby/#projects)[✳ 我的思考](https://tzm1111.github.io/jamal-tzbaby/#notes)
+
+**◇ 教育** **西北工业大学** 能源与动力工程 · 学士2019 毕业
+
+**▱ 经历** 
+
+20192024现在
+
+**拼多多 PDD** 
+
+### 智能客服与服务体验
+
+鹦鹉智能客服系统 · 从 0 到 1
+
+**Alibaba阿里巴巴** 
+
+### AI 产品经理
+
+店小蜜 · 商家 AI 客服智能体
+
+**♧ 关注** 业务理解AI 产品数据与判断创造与教学
+
+![唐哲马骑马，透明背景](https://tzm1111.github.io/jamal-tzbaby/assets/jamal-riding-cutout.png)
+
+[⌄向下滑动，进入我的经历](https://tzm1111.github.io/jamal-tzbaby/about/#life)
+
+↗**成长与履历足迹** 从东乡，到杭州
+
+GANSU / HOMETOWNDONGXIANG
+
+01 / ROOTS
+
+## 甘肃 · 东乡族自治县
+
+出生地 · 小学
+
+02 / PINDUODUO · 2019—2024
+
+## 从 0 到 1，
+搭一套智能客服系统。
+
+负责智能客服与消费者服务体验产品。
+把算法能力接入完整的服务链路，
+连接问题识别、策略决策与服务行动。
+
+[查看拼多多智能客服系统 ↗](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/)
+
+童年
+
+****
+
+现在
+
+**阶段** 出生 · 小学
+
+**地点** 东乡族自治县
+
+**足迹节点** 1 / 6
+
+地理边界：DataV · 阿里云
+
+✳**店小蜜** AI 客服智能体
+
+这个售后问题，该怎么处理？
+
+✳
+
+先确认订单状态，
+再核对商家的售后规则。
+
+AGENT WORKFLOW
+
+- **✓**  核实事实
+
+- **✓**  确认授权
+
+- **✓**  推进任务
+
+- **✓**  核验状态
+
+✳
+
+让每一次服务，
+都有依据，也有下一步。
+
+输入问题 ↑
+
+交互概念示意
+
+03 / ALIBABA · HANGZHOU
+
+## 从智能客服，
+走向 AI Agent。
+
+在阿里巴巴店小蜜，我负责面向淘宝、天猫商家的 AI 客服智能体，关注售后、退款协商和发货物流。
+
+我会分开理解、执行与判责，也分开草稿、提交和完成。用业务数据找到问题，再把证据接到产品动作与验收。
+
+**业务** 从用户要办的事出发
+
+**产品** 核对授权与真实状态
+
+**评估** 让结论进入责任与验收
+
+[查看项目档案 ↗](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/)
+
+AI PM / FIELD NOTES
+
+### 学会做产品，
+从完成一个产品开始。
+
+- 01业务洞察
+
+- 02方案取舍
+
+- 03原型交付
+
+- 04指标设计
+
+- 05追问验收
+
+DEFINE · BASELINE · EXPLAIN
+
+**5** WEEKS / 1 ON 1
+
+04 / AI PM CAMP
+
+## 不接受“听懂了”，
+只接受做出来。
+
+我设计并讲授五周、1 对 1 的 AI 产品经理模拟实习训练营，面向非技术背景的转行者。
+
+验收时，用 15 分钟追问三件事：定义是什么、基线在哪里、为什么发生。用能经得起追问的交付物，检验真正的理解。
+
+[阅读我的教学方法 ↗](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
+
+VIBE
+
+## 一些 Vibe
+
+[![TZBABY 的 NIGHT 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360135978.jpg)
+AI MUSIC / TZBABY
+
+### 我的音乐作品
+
+五张专辑与 EP，把想象做成唱片。
+
+**↗**](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)[![小八鹦鹉之家原创品牌视觉](https://tzm1111.github.io/jamal-tzbaby/assets/xiaoba-brand.svg)
+CHARACTER IP
+
+### 小八 · 鹦鹉之家
+
+从一只鹦鹉，开始一个创造实验。
+
+**↗**](https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/)[![业务与 AI 之间的桥梁](https://tzm1111.github.io/jamal-tzbaby/assets/evidence-action.svg)
+IDEAS / EXPERIMENTS
+
+### 思考与方法
+
+把判断变成可验证的行动。
+
+**↗**](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/)
+
+BUSINESS FIRST, AI WHERE IT MATTERS.
+
+## Jamal
+
+[回到一些 Vibe ↗](https://tzm1111.github.io/jamal-tzbaby/#projects)
+
+
+---
+
+# 唐哲马 Jamal｜AI 产品经理、Agent 实践与 TZBABY 音乐
+
+> 唐哲马（Jamal）的个人主页：阿里巴巴店小蜜 AI 产品、拼多多智能客服经历，售后 Agent、服务交付与产品判断文章，以及以 TZBABY 名义发布的 AI 音乐作品。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+JAMAL  /  AI 产品经理 · 阿里巴巴 · 拼多多 · 业务翻译者 · 创造者
+
+# Business first.
+
+**AI where it matters.**
+
+我是唐哲马（Jamal），一名 AI 产品经理。懂业务的人，才知道 AI 该用在哪。从用户要办的事出发，把事实、规则与行动连起来，再用真实结果验证价值。
+
+[看看 Vibe ↓](https://tzm1111.github.io/jamal-tzbaby/#projects)
+[读我的思考 →](https://tzm1111.github.io/jamal-tzbaby/#notes)
+
+**04**  PROJECTS  /  **08**  NOTES
+[SCROLL](https://tzm1111.github.io/jamal-tzbaby/#projects)
+
+01
+
+VIBE
+
+## 一些 Vibe
+
+[WORK · AI AGENT01
+
+![](https://tzm1111.github.io/jamal-tzbaby/assets/agent-loop.svg)
+
+### 阿里巴巴 AI 客服Agent
+
+安装咨询、质量判责、工单接续。看我如何区分执行、授权和完成，让服务真正往前走。
+
+AI Agent电商客服产品策略](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/)
+[PRODUCT · 0 TO 102
+
+![](https://tzm1111.github.io/jamal-tzbaby/assets/parrot-system.svg)
+
+### 拼多多智能客服系统
+
+2019—2024，上海。从一句“怎么还没到”，看智能客服如何连接表达、判断和服务行动。
+
+0 to 1智能客服消费者体验](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/)
+[CREATIVE · BRAND03
+
+![](https://tzm1111.github.io/jamal-tzbaby/assets/xiaoba-brand.svg)
+
+### 小八 · 鹦鹉之家
+
+先有一只鸟，才有一个品牌。从楼下的相遇，到角色、贴纸、手办概念与短片。
+
+品牌实验角色 IP动物保护](https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/)
+
+01 / 03
+
+TZBABY / AI MUSIC
+
+### 我也把想象，做成了唱片。
+
+以 TZBABY 的名字，用 AI 创作音乐。五张专辑与 EP，已发布在网易云音乐。
+
+[走进我的音乐作品 ↗](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
+
+[![NIGHT 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360135978.jpg)
+查看曲目 ↗
+
+#### NIGHT
+
+Lo-fi R&B 与城市环境声，陪伴十段从孤独走向和解的夜晚。
+
+10 TRACKS](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360135978)[![HORIZON 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360369484.jpg)
+查看曲目 ↗
+
+#### HORIZON
+
+世界音乐与空灵电子交织，从山川与星空走向内心的归属。
+
+10 TRACKS](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360369484)[![Midnight Pulse 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360369939.jpg)
+查看曲目 ↗
+
+#### Midnight Pulse
+
+多风格、多语言的夜行声音地图，从黄昏独处到破晓重启。
+
+11 TRACKS](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360369939)[![Chuchotements Nocturnes 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360370124.jpg)
+查看曲目 ↗
+
+#### Chuchotements Nocturnes
+
+全法语低语与深夜氛围，讲述初遇、分离和记忆的回响。
+
+06 TRACKS](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360370124)[![NEON AFRO DRIVE 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360382028.jpg)
+查看曲目 ↗
+
+#### NEON AFRO DRIVE
+
+Afrobeats 的都市行程，从街头与舞池，回到文化根源与归属。
+
+07 TRACKS](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360382028)
+
+02
+
+PERSPECTIVES
+
+## 思考与方法
+
+[![判断到可验证行动的工作链](https://tzm1111.github.io/jamal-tzbaby/assets/evidence-action.svg)
+
+方法 · 实践工作方法
+
+### 把判断变成可验证的行动
+
+研究不是把问题再描述一遍。证据怎样支持选择，选择怎样进入实现，结果怎样被验证？
+
+证据与行动**→**](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/)
+[![通用底座、行业组合与商家差异](https://tzm1111.github.io/jamal-tzbaby/assets/delivery-assets.svg)
+
+业务 · 产品服务交付
+
+### 从能力供给到服务交付：让价值更容易发生
+
+看得懂、敢授权、配得完。让商家把能力用起来，也让下一次交付少一些不可复用的工作。
+
+客户与增长**→**](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/)
+[![业务与 AI 之间的桥梁示意图](https://tzm1111.github.io/jamal-tzbaby/assets/business-bridge.svg)
+
+Agent · 方法场景拆解
+
+### 懂业务的人，才知道 AI 该用在哪
+
+“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。
+
+退款案例**→**](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/)
+[![Agent 工作系统示意图](https://tzm1111.github.io/jamal-tzbaby/assets/aop-system.svg)
+
+产品 · 方法产品观察
+
+### 我从 Decagon 学到的，不是产品功能
+
+我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。
+
+AOP**→**](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/)
+[![AI 短剧商业结构示意图](https://tzm1111.github.io/jamal-tzbaby/assets/ai-drama-economics.svg)
+
+行业 · 产品商业评论
+
+### AI 短剧真的赚钱吗？
+
+生成便宜了，但观众没有因此多出一小时。拆开做作品、做制作服务和做 IP 三种生意。
+
+内容经济**→**](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/)
+[![从事实到接续的服务闭环](https://tzm1111.github.io/jamal-tzbaby/assets/service-closure.svg)
+
+Agent · 方法任务说明
+
+### 售后 Agent 的价值，是让事情真正往前走
+
+会解释、会执行、能判责与能闭环，是四个不同的问题。用安装、凭证与工单拆开它们。
+
+任务设计**→**](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)
+[![Aurora Music 发现页](https://tzm1111.github.io/jamal-tzbaby/assets/aurora-discover.png)
+
+产品 · 创造创造随笔
+
+### 为什么我仍然自己做 AI 音乐播放器
+
+频谱怎样呼吸，画面怎样跟上第一次播放。我想让细小的感受也值得认真处理。
+
+声音与视觉**→**](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/)
+[![AI 产品经理训练营课程示意图](https://tzm1111.github.io/jamal-tzbaby/assets/ai-pm-curriculum.svg)
+
+产品 · 教学五周实战
+
+### 非技术背景，怎么真正学会做 AI 产品
+
+五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。
+
+面试验收**→**](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
+
+ABOUT
+
+## Jamal
+
+我是唐哲马，在阿里巴巴店小蜜做 AI 产品。关注售后、发货物流、商家配置与辅助服务——能力怎样被允许执行，结果怎样被确认。
+
+2019 至 2024 年，我在拼多多负责智能客服与消费者服务体验产品，并从 0 到 1 搭建鹦鹉智能客服系统。
+
+我把自己看作业务与 AI 之间的翻译者：先问清楚要支持什么判断，再建立证据、拆开场景，让结论进入可执行和可验证的行动。工作之外，我以 TZBABY 的名字发布 AI 音乐专辑，也做播客、品牌实验，教授 AI 产品实战。
+
+[完整档案：用我做过的产品讲我自己**→**](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+[履历地图 ↗](https://tzm1111.github.io/jamal-tzbaby/about/#life)[GitHub ↗](https://github.com/tzm1111)[Email ↗](mailto:zhemrl@outlook.com)
+
+![唐哲马骑马，透明背景](https://tzm1111.github.io/jamal-tzbaby/assets/jamal-riding-cutout.png)
+
+PRINCIPLES
+
+### 我相信的事
+
+- 01
+
+#### 业务优先
+
+先理解真实业务，再判断 AI 在哪里能产生价值。
+
+- 02
+
+#### 让数字可追溯
+
+先分清一轮交互、一通会话和一次执行，再谈数字。系统记录、模型推断与事实要分开。
+
+- 03
+
+#### 状态证明完成
+
+保存草稿、申请提交与处理完成，需要不同证据。聊天承诺不能代替业务状态。
+
+- 04
+
+#### 行动产生判断
+
+研究要回答问题，结论要接到责任和验收。把失败条件也留下，下一次才更可靠。
+
+PERSONAL
+
+### 行事原则
+
+- 01
+
+#### 真实比好听重要
+
+宁愿听尖锐的实话，也不要漂亮的敷衍。
+
+- 02
+
+#### 有自己的判断
+
+不因为流行就接受，也不因为别人说好就降低标准。
+
+- 03
+
+#### 看行动，也看结果
+
+说得再好，最终还是要看有没有做出来、做到位。
+
+- 04
+
+#### 保持好奇，也守住边界
+
+愿意尝试新东西，但重要的决定要自己做。
+
+PROFILE & WORK
+
+## 关于我与我的作品
+
+**Jamal 是谁？** 
+
+Jamal 是唐哲马的个人网站。他在阿里巴巴店小蜜做 AI 产品，关注电商智能客服、售后 Agent、商家配置与服务交付；2019 至 2024 年在拼多多负责智能客服与消费者服务体验产品。 [查看完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+**这里有哪些 AI Agent 产品方法？** 
+
+文章围绕业务事实、适用规则、商家授权、执行动作和完成证据拆解 Agent 任务，也讨论服务交付、证据驱动的产品判断和 AI 产品训练。 [阅读售后 Agent 方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)
+
+**TZBABY 和 Jamal 是什么关系？** 
+
+TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专辑与 EP：NIGHT、HORIZON、Midnight Pulse、Chuchotements Nocturnes、NEON AFRO DRIVE，并提供网易云音乐曲目入口。 [查看音乐作品 →](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
+
+**非技术背景怎样学习 AI 产品？** 
+
+唐哲马的五周 AI PM 模拟实习训练以同一个项目贯穿需求洞察、方案选择、关键原型、指标评估和项目验收，重点是解释每次选择及其证据。 [阅读训练方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
+
+
+---
+
+# 售后 Agent 的价值，是让事情真正往前走 — 唐哲马 Jamal
+
+> 会解释、能执行、能判责与能闭环，是四个不同的产品问题。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+售后 Agent 需要区分解释、执行、判责与闭环。安装咨询、质量凭证与工单接续分别要求不同事实、授权和完成证据；草稿、提交与处理完成应保留各自的状态。
+
+## 本文内容
+
+- [先分清当前承担哪一段任务](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-01)
+- [安装咨询与预约办理，走两条轨道](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-02)
+- [看见破损，还没有完成判责](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-03)
+- [草稿、提交与完成，需要各自的证据](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-04)
+- [归因的目的，是找到谁能改变问题](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-05)
+- [自主解决的代理口径，不等于任务完成](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-06)
+
+
+任务拆解 / 售后 · 判责 · 可信闭环
+
+# 售后 Agent 的价值，是让事情真正往前走
+
+会解释、能执行、能判责与能闭环，是四个不同的产品问题。
+
+**内容摘要**  会解释、能执行、能判责与能闭环，是四个不同的产品问题。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟任务拆解
+
+“已帮您催促”不等于创建了催办记录；展示预约入口，不等于完成预约；收集完凭证，也不等于完成责任判断。
+
+用户问的是一句话，产品要处理的是一件事。我更愿意把售后 Agent 理解为：在适用规则与商家授权内，基于可核验事实，完成下一步，并让处理状态能够被查询和接续。
+
+## 先分清当前承担哪一段任务
+
+“申请退款”可能是引导用户进入申请，也可能是获授权后执行处理。名字相似，操作主体、权限和完成证据却不同。自动化程度应由这些事实决定，不能由功能名字决定。
+
+同样，能编排流程不等于有业务动作；有动作不等于当前已授权；已授权也不等于业务系统已经接通。“可执行”需要业务允许、系统可达、结果可核验同时成立。
+
+![识别诉求到核验状态的服务链与必要接续](https://tzm1111.github.io/jamal-tzbaby/assets/service-closure.svg)
+证明当前承担的任务，让下一位处理者可以继续
+
+## 安装咨询与预约办理，走两条轨道
+
+规则与资料咨询 | 依赖订单的办理 |
+
+是否包安装、收费方式、型号视频、尺寸与拆旧说明 | 核对订单、安装权益与当前服务状态，进入适用的办理流程 |
+
+未必需要先选择订单 | 需要业务对象和执行授权 |
+
+知识与办理共同服务用户，不是有了智能策略就要把知识轨道全部替换。收费、权益与联系时效还必须保持一致，不能知识解释一种、执行流程又采用另一种。
+
+## 看见破损，还没有完成判责
+
+识别图片里的现象，与作出有业务后果的责任判断，是不同能力。发生时间、物流状态、商品特点、售后规则和凭证完整性，都可能影响后续处理。
+
+流程优化可以减少重复确认、补齐步骤，但不能提供缺失的事实。证据不足、规则不清和需要人工判断，都应该是系统可以保留的真实状态。
+
+**证据不足** 
+
+说明还缺什么，整理已有材料，再进入补充或接续。不要为了走完流程补出一个确定结论。
+
+**没有执行授权** 
+
+完成能够承担的查询和说明，把后续任务交给有权限的处理者。不能从历史处理习惯推断退款或补偿权限。
+
+**无法确认执行结果** 
+
+先核对实际业务状态，再判断是否重试。没有收到返回，不等于没有执行。
+
+## 草稿、提交与完成，需要各自的证据
+
+**草稿** 信息已准备，尚未正式提交
+
+**已提交** 申请已创建，可能仍在等待处理
+
+**处理中** 按真实状态继续接续
+
+**已完成** 承担的任务达到可确认结果
+
+通知只是提醒，不能代替订单或工单结果；聊天里说“成功”也不是业务证据。重复进入服务时，需要从现有状态继续，避免重复创建和重复承诺。
+
+人工接续也属于闭环。查到了什么、收集了什么、尝试了什么、为什么不能继续，都应随未完成任务一起交接。
+
+## 归因的目的，是找到谁能改变问题
+
+用户一开始就要求人工，与回答多轮仍未解决，应分开观察。配置拦截、知识缺失、已有知识未被召回、执行失败和必要人工判断，也不能交给同一种修复动作。
+
+分析完整会话要检查相关轮次，定位触发原因要回到触发轮次与此前上下文。知识是否存在，还要检查答案、生效条件、实际版本与召回记录，不能只凭最后一句文本猜原因。
+
+## 自主解决的代理口径，不等于任务完成
+
+如果“自主解决”仅以未转人工估算，它仍然只是代理指标。没有转交的会话，可能仍未完成任务。我要继续看能力是否触发、动作是否成功、状态能否确认，以及满意度、重复进线和风险有没有恶化。
+
+策略迭代也一样。历史问题可以形成候选修正，但还需要适用条件、证据、冲突检查与回放验证，不能因为文字像正式规则就直接生效。
+
+先把能够承担的部分做可靠，把不能承担的部分交接清楚，再用真实结果扩大可信服务的范围。
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# AI 短剧真的赚钱吗？ — 唐哲马 Jamal
+
+> 生成便宜了，但观众没有因此多出一小时。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+AI 降低生成成本，但不自动增加内容收入。作品、制作服务和 IP 是三种不同生意，应分别核算制作、分发与返工成本，并通过有限实验验证受众、叙事和交付能力。
+
+## 本文内容
+
+- [最容易漏算的是“没被看见”](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-01)
+- [三种生意，三套要求](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-02)
+- [我会怎样验证一个起步项目](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-06)
+
+
+商业评论 / 内容生意 · AI 短剧
+
+# AI 短剧真的赚钱吗？
+
+生成便宜了，但观众没有因此多出一小时。
+
+**内容摘要**  生成便宜了，但观众没有因此多出一小时。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 3 分钟商业评论
+
+“一个人也能做短剧”解决的是生产资格，不是赚钱资格。我研究 AI 短剧时，最想拆开的就是这两个常被混在一起的问题。
+
+画面生成更快、团队可以更小，这些变化确实有意义。但观众是否点开、是否看完、是否愿意继续看，仍然取决于内容和分发。制作成本下降，并不会自动提高一部作品的吸引力。
+
+一门内容生意
+
+收入 − 制作 − 分发 − 返工
+
+成本里省下的一部分，不能直接当作利润。
+
+## 最容易漏算的是“没被看见”
+
+创作者往往能算出生成一个镜头用了多少工具成本，却不容易算清为一个选题做了多少轮尝试。镜头能用，不代表故事成立；成片完成，不代表能进入有效分发。
+
+还有一些成本不会消失，只会换位置。角色跨镜头不一致，要返工；人物动机说不通，要重写；画面漂亮但节奏拖沓，要重新剪辑。效率提高之后，瓶颈可能从生成转移到判断和审核。
+
+![从内容生产到收益的链路](https://tzm1111.github.io/jamal-tzbaby/assets/ai-drama-economics.svg)
+观众的注意力，仍然需要经过选题、叙事与分发才能获得
+
+## 三种生意，三套要求
+
+### 做作品
+
+靠付费、平台分成或广告获得收入。核心是持续获得观看，不能只证明一条片子能做出来。
+
+### 做制作服务
+
+承接品牌或客户的内容需求。比起爆款概率，更需要交付稳定、角色统一和返工可控。
+
+### 做 IP
+
+积累人物与世界观，再探索授权和衍生。单条视频的热度，需要沉淀成被记住的资产。
+
+这三条路不能用同一种“低成本生成”叙事解释。选哪种生意，决定了要建立哪种能力，也决定了应该验证什么。
+
+## 我会怎样验证一个起步项目
+
+先确定题材和受众，再做一个有限的内容实验。观察开头是否能留住人、人物是否值得继续看、同一题材能否稳定产出。把制作与分发的实际投入记下来，避免用想象中的成功作品摊薄失败成本。
+
+我更看重能否解释一次失败：是选题没有吸引力，还是故事推进慢，或者分发没有触达？这些结论能改变下一部作品，才构成可复用的内容能力。
+
+我对这门生意的判断仍然谨慎。会出现成功者，但“人人能制作”远远不等于“人人能赚钱”。
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# 懂业务的人，才知道 AI 该用在哪 — 唐哲马 Jamal
+
+> “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/business-first/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+识别退款意图不等于能处理退款。先核实订单事实与适用规则，再确定授权动作；用业务状态确认结果，并提前定义错误承诺、过期状态与执行未完成等失败条件。
+
+## 本文内容
+
+- [把一句话，翻译成一个待判断的问题](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-01)
+- [不是所有步骤都需要模型判断](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-02)
+- [立项前，先写清楚失败长什么样](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-03)
+
+
+场景笔记 / 业务判断 · AI 产品
+
+# 懂业务的人，才知道 AI 该用在哪
+
+“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。
+
+**内容摘要**  “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟场景笔记
+
+如果一个模型能识别“退款意图”，是否意味着它已经能处理退款？我的答案是：还没有。识别出用户说了什么，只解决了服务链路的开头。
+
+一个常见售后例子
+
+“东西还没收到，我想退款。”
+
+这句话可以进入完全不同的路径。订单尚未发货，需要确认取消规则；已经在运输中，需要核对拦截或拒收流程；显示已签收，用户却说没收到，则需要先处理状态冲突。用户表达相同，产品动作不同。
+
+## 把一句话，翻译成一个待判断的问题
+
+在这样的任务里，我会先拆开三件事：用户想要的结果是什么，当前事实是什么，哪些处理方式适用。不能因为用户表达了一个目标，就跳过事实核实和适用条件。
+
+**表达** 我要退款告诉我们目标
+
+**事实** 订单与履约状态决定现在能做什么
+
+**规则** 平台要求与商家授权决定哪些动作适用
+
+产品设计需要把这三层组织起来。比如先查询订单，再辨认是否存在状态冲突，最后选择可用路径。每个步骤都应有明确输入，缺少输入时也要知道该补问什么。
+
+## 不是所有步骤都需要模型判断
+
+用户的诉求表达有歧义，模型可以帮助理解；订单状态有明确字段，应从业务系统读取；金额与规则可以计算，就不应该让模型凭语言估计。把不同性质的问题分配给合适的机制，比让一个模型包办整条流程更重要。
+
+我会反问：如果这个步骤不使用 AI，最直接的做法是什么？这个问题能暴露很多被包装成“智能化”的普通查询和规则判断，也能帮助找到真正需要语义理解的部分。
+
+![业务判断到产品行动的翻译关系](https://tzm1111.github.io/jamal-tzbaby/assets/business-bridge.svg)
+把诉求、事实、规则和行动连接起来
+
+## 立项前，先写清楚失败长什么样
+
+只写成功 Demo，很容易漏掉关键条件。对于退款任务，错误承诺、读取过期状态、执行没有完成却宣告成功，都是不同的失败。定义这些失败之后，才知道要补哪些验证和恢复路径。
+
+“懂业务”不是会使用行业术语，而是能辨认这些差异。我的工作是把差异变成产品结构：什么时候获取事实，什么时候做判断，什么时候行动，以及结果如何被确认。
+
+我也会把能力存在、商家开启、真实触发、执行成功和任务解决分开。高咨询量不自动代表高改善空间，低接待量也不证明需求少。需要理解服务进入了哪里，为什么没有进入，以及什么条件会改变结果。
+
+AI 应该出现在哪里，答案往往藏在业务里最容易被省略的那一步。
+
+[把能力变成可交付的价值 →](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/)[让判断进入可验证的行动 →](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/)
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# 我从 Decagon 学到的，不是产品功能 — 唐哲马 Jamal
+
+> 我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+借鉴 Decagon AOP 时，重点检查谁能修改流程、如何验证修改，以及如何追溯运行行为。自然语言编排还需要业务动作、商家授权和系统接入才能进入真实服务。
+
+## 本文内容
+
+- [AOP 让工作流成为可维护的东西](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-01)
+- [我会用三个问题拆产品](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-02)
+- [流程编排不能跳过办事的前提](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-06)
+- [映射到电商售后，要重新设计什么](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-07)
+
+
+产品观察 / Agent · 产品研究
+
+# 我从 Decagon 学到的，不是产品功能
+
+我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。
+
+**内容摘要**  我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟产品观察
+
+看一个 Agent 产品，我会先问：上线之后，业务规则变了，谁来改？如果一个小变化还要在业务、产品和工程之间反复翻译，团队就很难持续经营它的行为。
+
+## AOP 让工作流成为可维护的东西
+
+Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自然语言流程与代码控制结合在一起。它吸引我的地方，是业务流程可以被阅读、检查和修改，同时保留工程上的控制能力。
+
+这里要分开两个问题：让配置更容易，和让修改更可靠。自然语言降低了表达门槛，但不自动保证规则正确。一个真正可经营的系统，还需要测试、运行轨迹和版本管理，把“改了什么”连接到“发生了什么”。
+
+![Agent 工作流的维护闭环](https://tzm1111.github.io/jamal-tzbaby/assets/aop-system.svg)
+定义流程只是开始，测试、观测和更新才让它持续运转
+
+## 我会用三个问题拆产品
+
+谁能改？
+
+### 流程的表达权
+
+业务能否直接说明条件和动作？工程能否检查它的执行方式？两者应该共享一份可理解的描述。
+
+怎么知道改对了？
+
+### 修改的验证方式
+
+一次退款规则调整，要能回放相关任务，也要覆盖未命中条件、工具失败和用户改口的情况。
+
+出了问题找哪里？
+
+### 运行的可观察性
+
+看到最终回答还不够。需要知道当时读取了什么、选择了什么路径，以及哪个动作没有完成。
+
+## 流程编排不能跳过办事的前提
+
+我在竞品研究里会继续追问：即使能发现对话中的流程缺口并生成新策略，如果缺少业务动作、商家授权和系统接入，策略还能推进什么？有了流程表达，并不自动具备执行和判责能力。
+
+同样的功能名，也可能指引用户自行操作，或直接执行获授权动作。比较之前，要先核对操作主体、输入输出和完成证据。不能因为竞品给模块起了名字，就推断自己的产品没有对应能力。
+
+## 映射到电商售后，要重新设计什么
+
+我正在把这套思路映射到店小蜜售后场景。可以借鉴的是流程维护与验证机制，具体的订单状态、商家授权和处理阈值，必须回到本地业务重新定义。
+
+可以借鉴 | 需要重新定义 |
+
+自然语言表达工作流程 | 哪些条件允许进入协商或处理 |
+
+修改后先测试与回放 | 本场景里的典型失败和异常样本 |
+
+用轨迹解释 Agent 行为 | 订单、知识与工具返回之间的证据关系 |
+
+关键阈值还需要校准。我不会把“流程能写出来”当作“流程已经可以稳定运行”。产品能力应该让业务判断更清晰，而不是让复杂判断藏在更漂亮的配置界面里。
+
+功能可以被复制。持续拥有和改进 Agent 行为的方式，更值得研究。
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# 把判断变成可验证的行动 — 唐哲马 Jamal
+
+> 研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+研究结论需要接到选择、实现与验收。先明确证据支持哪项判断，再定义改进机制、责任与失败条件；用可追溯结果验证行动，并保留尚未成立的解释。
+
+## 本文内容
+
+- [研究的对象，要具体到机制](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-01)
+- [把证据放到正确的层级](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-02)
+- [像写测试用例一样澄清需求](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-03)
+- [验证，必须与实现一起设计](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-04)
+- [从问题到任务，还差一次责任转换](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-05)
+- [让 AI 扩大执行与检查能力](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-06)
+
+
+工作方法 / 证据 · 需求 · 验证
+
+# 把判断变成可验证的行动
+
+研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。
+
+**内容摘要**  研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟工作方法
+
+我曾在一版研究里看到自己的问题被扩写成了完整章节，却没有得到答案。我又强调了一次：“这是我提出的问题，不是让你又描述一遍。”
+
+这句话也提醒我：报告、PRD、对比表和 Demo 是承载判断的形式。开始工作前，更值得先问，谁要据此做什么决定，什么证据能支持决定，哪些未知会改变选择。
+
+## 研究的对象，要具体到机制
+
+一个竞品可以生成服务策略，我要继续问：它调用什么动作，谁授权，系统是否接通，结果如何确认？有了一个命名完整的模块，不代表机制已经回答这些问题，也不能直接据此判断自己的产品缺少能力。
+
+材料不足时，把未知保留下来。愿景、机制与效果是不同层次，不能通过一段流畅描述把它们连成已经成立的结论。
+
+![问题、证据、场景、行动与验证的工作链](https://tzm1111.github.io/jamal-tzbaby/assets/evidence-action.svg)
+每一步，都要给下一步留下能使用的东西
+
+## 把证据放到正确的层级
+
+**原始事实与可复算结果** 
+
+先明确时间、样本、统计单位和定义。
+
+**系统记录与人工复核** 
+
+解释当时发生的行为，再与配置、上下文和执行事实核对。
+
+**模型推断与个人解释** 
+
+提出可检查的假设，不能直接升级为业务根因。
+
+一轮交互与一通会话，不能共用去重逻辑；接口调用次数与被服务的会话数，也不是同一种规模。先找对分析单位，再讨论数字变化，否则算得精确，也可能回答了另一个问题。
+
+只有文本的记录，不足以解释图片触发的判断；离线相似度，也不能直接证明线上没有召回已有知识。需要的证据应与要判断的问题对应。“还不能证明”应该进一步说明，补什么之后可以继续判断。
+
+## 像写测试用例一样澄清需求
+
+“支持 AI 建单”只是开始。谁在什么条件下进入，缺信息如何补，重复进入怎么办，失败由谁接续，什么时候能说成功，才会改变最终用户的结果。
+
+两个看似相近的操作
+
+保存草稿 ≠ 正式提交
+
+字段预填完成了，可能仍需检查和提交。申请创建成功了，通知或备注失败，也不能随意把整个申请说成失败。主动作与副作用要分开，完成状态也要按承担的任务定义。
+
+## 验证，必须与实现一起设计
+
+不能在方案末尾写一句“做实验”，就把实现难题留给研发。需要知道改了什么、谁实际受到变化、生效时点与版本怎样对应、观察多久，以及能否回退。
+
+如果只保存最新配置，就无法继续运行原配置作为比较；如果知识、权限和路由同时变化，也很难解释哪个变化产生作用。实验、分批上线与观察性分析各有条件，选择方式需要结合产品实现。
+
+简单前后变化可以提供线索，却不自动构成因果证明。样本构成、其他发布和统计定义的变化，都可能影响读数。
+
+## 从问题到任务，还差一次责任转换
+
+一个行动至少说清楚
+
+问题与证据 → 可改变的环节 → 责任人和动作 → 验收结果
+
+同样是“无法解决”，可能需要补知识、修召回、改对话推进，也可能依赖外部系统或必要人工判断。优先级也不只按问题量排序，还要考虑后果、证据把握、可改变程度和实施成本。
+
+## 让 AI 扩大执行与检查能力
+
+我会让 AI 读取资料、复算数据、整理初稿、枚举分支和寻找矛盾，同时写清输入、允许的动作、不能推断的事实和停止条件。先完成一个可检查的版本，再追加内容，能够更早暴露方向偏差。
+
+验证要落到最终产物：脚本没报错，不等于没有重复计数；文档保存了，不等于正文没遗漏；页面能打开，也不等于排版没有溢出。
+
+沉淀方法时，除了结果，还要保留适用条件、被推翻的解释、异常处理与核验办法。下一次才能知道方法为什么这样设计，什么时候需要重新检查。
+
+生成越来越容易。我的注意力，更应该留给事实是否成立、行动是否发生，以及结果怎样被确认。
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# 非技术背景，怎么真正学会做 AI 产品 — 唐哲马 Jamal
+
+> 五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+五周 AI PM 训练让同一个项目贯穿需求、方案、原型、评估与验收。通过指标定义、可比基线和变化原因三层追问，检查学员能否用证据解释产品选择。
+
+## 本文内容
+
+- [每周，都给下一周留下一个东西](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-01)
+- [十五分钟，不问背了多少名词](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-07)
+- [非技术背景，先补判断接口](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-08)
+
+
+教学实战 / 模拟实习 · 产品训练
+
+# 非技术背景，怎么真正学会做 AI 产品
+
+五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。
+
+**内容摘要**  五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟教学实战
+
+学员交来一份完整 PRD，我并不会立刻认为他学会了。文字可以被润色，结构可以被套用。更有区分度的问题是：为什么这样选？如果证据换了，方案还成立吗？
+
+我的五周 1 对 1 AI PM 模拟实习训练营，让同一个项目贯穿需求、方案、原型和评估。下一次交付必须使用上一次的判断，避免作业各自漂亮，却接不到一起。
+
+## 每周，都给下一周留下一个东西
+
+- WEEK 01
+
+### 找到值得解决的问题
+
+交付需求洞察。分开用户的表达、真实问题和已有处理方式，说明为什么值得做。
+
+- WEEK 02
+
+### 做方案，也做取舍
+
+交付方案选择。保留替代方案，说明哪些环节使用模型，哪些使用规则或人工确认。
+
+- WEEK 03
+
+### 让判断变成可操作的原型
+
+交付关键路径。用户怎么进入、系统怎么反馈、异常时如何接续，都要在界面里看得见。
+
+- WEEK 04
+
+### 给结果一把尺子
+
+交付指标与评估。明确分子、分母、基线和数据来源，写清楚哪些变化能支持产品判断。
+
+- WEEK 05
+
+### 解释完整项目
+
+交付项目总结并参加验收。把问题、选择、证据和结果接成一条完整的链路。
+
+## 十五分钟，不问背了多少名词
+
+我围绕一个指标做三层追问。下面用“任务完成率”演示这套验收方式。
+
+****01**  定义是什么？** 
+
+什么算完成？部分完成算不算？一次对话有多个诉求时，以哪个任务为单位？如果分母含混，后面的数字就无法解释。
+
+****02**  基线在哪里？** 
+
+与什么结果比较？比较的是同一批任务、同一段流程和同一种条件吗？没有可比基线，变化不能直接归因给新方案。
+
+****03**  为什么发生？** 
+
+是模型判断改善、知识补齐，还是任务构成发生变化？能不能找到支持解释的样本，以及不支持解释的样本？
+
+真正做过判断的人，不一定回答得很顺，却能说出证据在哪里、当时放弃了什么、还有什么没有验证。只背过文档的人，常常会在第二层停住。
+
+## 非技术背景，先补判断接口
+
+不必先把自己训练成后端工程师。但要知道模型需要什么输入、工具能执行什么动作、结果怎样检查，以及什么时候需要工程师一起判断。这些知识要跟着项目使用，才能变成产品能力。
+
+验收也要检查最终产物：文档保存了，正文是否遗漏；脚本跑完了，统计是否重复；原型能打开，异常路径是否有出口。讨论里说清楚的条件，需要进入需求与验收。
+
+我更愿意教判断过程：同一现象为何可能有不同根因，哪些证据还不足，目标测算为何不能直接成为承诺。把没有成立的解释和失败条件也保留下来，才能复用方法。
+
+课程的终点，是能独立解释自己的选择。
+不是交出一份“像产品经理写的”文档。
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# 从能力供给到服务交付：让价值更容易发生 — 唐哲马 Jamal
+
+> 能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+能力存在、商家开通、真实触发、执行成功与任务解决是五种不同状态。产品规划应分别处理覆盖、优化和共建投入，并把通用底座、行业组合与商家差异沉淀为可复用交付。
+
+## 本文内容
+
+- [先找到客户，再讨论能力](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-01)
+- [开通、使用与效果，分别设计](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-02)
+- [三种投入，不放进同一张待办表](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-06)
+- [每次深度交付，要留下可复用的资产](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-07)
+- [诊断的终点，不是一份报告](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-08)
+
+
+业务理解 / 客户价值 · 规模化交付
+
+# 从能力供给到服务交付：让价值更容易发生
+
+能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。
+
+**内容摘要**  能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟业务理解
+
+我越来越认为，智能客服业务不能只从模型和功能清单理解。客户是谁、为什么愿意使用，能力怎样进入真实服务，单店交付能否被复用，才是一个完整的业务问题。
+
+## 先找到客户，再讨论能力
+
+一份物流查询、加急和工单能力清单，看起来很完整。可它还没有回答：哪些商家真正需要？问题来自能力缺口、配置不足，还是服务没有进入对应场景？商家是否愿意接入，又需要投入什么？
+
+咨询量大，不等于改善空间大；愿意使用，也不等于具备接入条件。目标客户要结合问题结构、已有系统、配置能力和使用意愿判断。接待量少的场景，也不能直接推断需求少，还要检查分配链路和使用前提。
+
+我更愿意先讲清楚“为谁解决什么问题”，再组织能力与投入。否则，一份丰富的功能表可能只是把没有验证的需求包装得更像机会。
+
+## 开通、使用与效果，分别设计
+
+开通问题
+
+### 找得到入口，理解授权
+
+减少重复配置，同时把授权对象与后果说清楚。操作步骤变少，不等于执行权限可以含糊。
+
+使用问题
+
+### 看懂场景，配得完条件
+
+模板需要展示实际对话、业务前提与商家差异。更多选项不一定让使用更容易。
+
+效果问题
+
+### 触发之后，任务真的前进
+
+先检查能力是否进入真实服务，再检查执行与结果。开关已经开启，不能代替效果验证。
+
+研究商家意愿时，我会把具体体验放进调研材料。展示授权、模板和升级后的对话，商家才更容易指出哪些动作可以接受、哪些需要检查。看到 Demo 表达认可，是研究线索；还不是使用与收益的证明。
+
+## 三种投入，不放进同一张待办表
+
+投入类型 | 改变什么 | 验收什么 |
+
+已有能力扩覆盖 | 入口、配置和适用条件 | 真实启用与触发 |
+
+现有能力优化 | 理解、召回与服务推进 | 对应问题是否改善 |
+
+跨团队共建 | 业务事实、权限与系统链路 | 输入、动作、状态和接续 |
+
+配置问题不能默认等待新增功能；能力已经开启，却没有解决问题，也不能只交给运营继续推广。规划应该说明每类投入通过什么机制产生价值，谁能够改变它，以及什么结果算完成。
+
+## 每次深度交付，要留下可复用的资产
+
+重点商家交付如果只留下一个定制结果，下一家就可能重新理解业务、重新配置、重新联调。我希望从交付中留下三层资产：
+
+![通用底座、行业组合与商家差异三层交付资产](https://tzm1111.github.io/jamal-tzbaby/assets/delivery-assets.svg)
+共性沉淀为底座，差异留在规则与配置
+
+订单定位、信息收集、状态查询和接续可以寻找通用底座；安装、赠品、排障可以形成行业组合；商品、收费和执行授权则保留商家差异。行业模板不是换一套话术，而是复用共性路径，明确需要商家确认的部分。
+
+接入过程也值得做成产品：需要准备什么、当前处在哪一步、下一步由谁处理，都应该清楚。自助准备与常见答疑减少重复工作，专业协作再进入真正需要联调的环节。
+
+## 诊断的终点，不是一份报告
+
+我希望面向商家的诊断与运营工具连接一条路径：识别问题，提供证据，解释建议，经过授权完成配置，再检查生效与结果。已经开启的能力不应反复推荐，无法确认的事实应继续核验。
+
+采纳建议与证明建议有效之间，还隔着版本、生效范围和验证设计。不能把采纳前后的简单变化，直接写成建议带来的收益。
+
+我理解的增长，是让商家更容易理解、使用和验证价值，也让每次交付少一些不可复用的工作。
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# 为什么我仍然自己做 AI 音乐播放器 — 唐哲马 Jamal
+
+> 我想保留一块地方，让细小的感受也值得认真处理。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+## 内容摘要
+
+Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合成音频，并让频谱、波形与粒子回应真实播放。关键原型包括持续播放栏、本地音乐导入与多视角界面。
+
+## 本文内容
+
+- [Aurora：把感受做成一个界面](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-gallery)
+- [画面要回应正在发生的声音](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-02)
+- [限制，会把注意力拉回来](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-03)
+
+
+创造手记 / 音乐 · 个人实验
+
+# 为什么我仍然自己做 AI 音乐播放器
+
+我想保留一块地方，让细小的感受也值得认真处理。
+
+**内容摘要**  我想保留一块地方，让细小的感受也值得认真处理。 本文结合具体场景说明判断条件、行动与验证方式。
+
+[唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 3 分钟创造手记
+
+世界上不缺音乐播放器。缺的也许是一个完全按自己的感受搭起来的小空间。
+
+我喜欢看声音怎样变成画面：低频推开一圈频谱，波形跟着振幅起伏，粒子在屏幕里留下呼吸感。这些细节不一定改变听歌效率，却能改变“正在听音乐”的感觉。
+
+所以 Aurora 的起点不是多做一张歌曲列表。我想把城市天气、当下心情、封面颜色和声音放在一起，看它们能否组成一个有氛围的界面。
+
+## Aurora：把感受做成一个界面
+
+从城市天气和当下心情进入，也保留直接找歌的路径。下面是这个个人项目的实际界面。
+
+![Aurora 今日推荐界面](https://tzm1111.github.io/jamal-tzbaby/assets/aurora-player.png)
+城市天气与当下心情提供进入音乐的线索。
+
+## 画面要回应正在发生的声音
+
+如果音乐暂停了，画面还按同样的速度跳动，那只是一个漂亮的循环。我要的是声音和视觉之间真实的联系。
+
+频域数据适合驱动频谱，时域数据适合表现波形，粒子负责更松弛的空间感。它们不需要每一刻都很热闹，也应该允许安静、停顿和变化。
+
+一个交互细节
+
+播放器留在底部。
+浏览和对话可以变化，正在听的音乐不用重新开始。
+
+另一部分是普通但不可少的功能：播放进度、音量、队列、收藏、本地 MP3 与 LRC 歌词导入。它们让氛围有了可以日常使用的骨架。
+
+## 限制，会把注意力拉回来
+
+演示音频由 Web Audio 在浏览器本地合成，不依赖外部音源 CDN。少了现成歌曲的帮助，就要直接面对音色、节奏和层次的问题。
+
+这种限制也让我发现，界面的流畅感经常出现在第一次使用里：用户点击播放时有没有响应，声音开始的瞬间画面是否跟上，切换视图有没有打断听感。我仍然在打磨这些衔接。
+
+做兴趣项目，不必每次都证明一个市场机会。它让我能把一个模糊的感受，变成一个可以打开、可以使用、也可以继续改的东西。
+
+听一会儿音乐，改一点画面。
+这就是 Aurora 继续生长的方式。
+
+[听听我以 TZBABY 的名字发布的音乐 →](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
+
+[← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+
+---
+
+# 阿里巴巴 AI 客服Agent — 唐哲马 Jamal
+
+> 用户带着一件要处理的事来。产品要证明事情怎样往前走。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+ALIBABA / AI PRODUCT
+
+# 阿里巴巴
+AI 客服Agent
+
+用户带着一件要处理的事来。产品要证明事情怎样往前走。
+
+可信闭环商家配置服务交付
+
+![阿里巴巴 AI 客服Agent](https://tzm1111.github.io/jamal-tzbaby/assets/service-closure.svg)
+ALIBABA / AI PRODUCT
+
+我的工作
+
+我关注售后、发货物流、商家配置与辅助服务。它们连接着同一个问题：能力如何进入真实服务，商家怎样控制，结果怎样确认。我的工作从业务与会话分析开始，进入需求澄清、产品设计和验证。
+
+THREE DIFFERENT TASKS
+
+## 会解释、会执行、能判责，
+不能用一个功能名概括。
+
+从三个具体任务，拆开服务的前提与完成证据。
+
+常见诉求
+
+“包安装吗？我该怎么预约？”
+
+### 规则咨询与实际办理，走两条轨道。
+
+**先区分** 收费、权益、型号视频属于知识咨询；预约办理才需要核对订单与服务状态。
+
+**产品判断** 不强迫所有问题先选订单；知识解释与办理采用一致的规则。
+
+**完成证据** 入口展示只代表提供路径，实际提交与处理状态需要分别确认。
+
+### 更多服务场景
+
+**“商品破了，应该怎么处理？”** 
+
+常见诉求
+
+“商品破了，应该怎么处理？”
+
+### 看见现象，还没有完成责任判断。
+
+**核实事实** 凭证、发生时间、物流状态、商品特点和适用规则。
+
+**产品判断** 识别破损不直接推出退款或换货；证据不足、规则不清需要保留。
+
+**接续方式** 整理已有事实，补充必要材料；需要判断或授权时交给正确处理者。
+
+**“资料已经填好了，事情办完了吗？”** 
+
+常见诉求
+
+“资料已经填好了，事情办完了吗？”
+
+### 保存草稿、正式提交与处理完成，是不同状态。
+
+**操作主体** 预填、检查与提交分别由谁完成，不能被一个“AI 建单”名字遮住。
+
+**真实状态** 草稿只是准备；申请已创建还可能待处理。通知不等于业务动作成功。
+
+**再次进线** 查询既有状态继续服务，保留已查事实与未完成任务，避免重复建单。
+
+DIAGNOSIS TO ACTION
+
+## 归因不是给样本贴标签。
+是找到谁能改变问题。
+
+事实
+
+### 先找对分析单位
+
+看完整会话，还是定位一次触发？对话轮次、当前状态与当时配置，需要回到同一条证据链。
+
+区别
+
+### 分开不同根因
+
+知识缺失、有知识未召回、条件未满足和执行失败，不能都交给同一种修复动作。
+
+行动
+
+### 补上责任转换
+
+明确可改变的环节、推动者、动作和验收。系统记录与模型分类提供线索，还需要事实核验。
+
+好的归因，应该回答：
+发生了什么，在哪一步，谁能够改变它。
+
+VALUE & DELIVERY
+
+## 增长，是让商家
+更容易把能力用起来。
+
+看得懂、敢授权、配得完，
+才有机会真正用起来。
+
+开通、使用与效果是不同问题。行业模板要复用共性路径，也要把商家需要确认的规则与权限留清楚。
+
+[读我的服务交付思考 →](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/)
+
+**已有能力扩覆盖** 检查入口、配置和适用条件，验收真实启用与触发。
+
+**现有能力优化** 改进理解、召回和对话推进，验证对应问题是否改善。
+
+**跨团队共建** 补齐业务事实、权限、动作、状态与接续。
+
+![通用能力、行业组合与商家差异](https://tzm1111.github.io/jamal-tzbaby/assets/delivery-assets.svg)
+让每次交付留下下一次可以复用的资产
+
+A TRUSTWORTHY RESULT
+
+## 完成，要有真实状态作证。
+
+申请创建成功，可能仍在等待处理；字段预填完成，可能仍需检查提交。聊天答复和通知都不能代替业务状态。再次进入服务时，要从已有状态继续。
+
+**任务是否前进** 当前承担的部分，是否到达可确认状态？
+
+**接续是否清楚** 剩余任务由谁处理，已有事实能否继续使用？
+
+**指标是否可解释** 未转交只能提供代理口径，不能单独证明自主完成。
+
+[拆开执行、判责与可信闭环 →](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)
+
+NEXT PROJECT
+
+[拼多多智能客服系统 →](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/)
+
+
+---
+
+# 拼多多 智能客服系统 — 唐哲马 Jamal
+
+> 从 0 到 1 做智能客服，也从单个功能走向完整的服务产品。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+PINDUODUO / 2019—2024
+
+# 拼多多
+智能客服系统
+
+从 0 到 1 做智能客服，也从单个功能走向完整的服务产品。
+
+产品经历智能客服消费者服务体验
+
+![拼多多 智能客服系统](https://tzm1111.github.io/jamal-tzbaby/assets/parrot-system.svg)
+PINDUODUO / 2019—2024
+
+**2019—2024** 拼多多
+
+**上海** 智能客服 · 消费者服务体验
+
+**0 → 1** 鹦鹉智能客服系统
+
+THE START
+
+## 服务产品的起点，
+不是一个聊天框。
+
+一端是自然语言，另一端是业务流程。智能客服需要把两端接起来。
+
+在拼多多的这段经历中，我负责智能客服与消费者服务体验产品，从 0 到 1 搭建鹦鹉智能客服系统。它让我开始从完整服务链路看问题：听懂用户之后，还要知道如何处理，以及怎样把处理结果反馈回来。
+
+如果只优化回复，复杂问题仍然会停在原地。产品要处理的是表达、状态和服务动作之间的关系。
+
+A SERVICE EXAMPLE
+
+## “怎么还没到？”
+不能直接对应一条答案。
+
+用一个常见物流问题拆开服务链路。
+
+怎么还没到？
+
+- **先辨认诉求** 
+
+用户想知道当前位置、需要确定送达时间，还是希望取消订单？
+
+- **再读取状态** 
+
+未发货、运输中、派送异常，需要进入不同的处理路径。
+
+- **最后连接行动** 
+
+解释状态、推进查询或接续其他服务，让回答指向实际处理。
+
+![自然表达与服务行动之间的三层关系](https://tzm1111.github.io/jamal-tzbaby/assets/parrot-system.svg)
+表达 → 判断 → 行动
+
+WHAT STAYED WITH ME
+
+## 这段经历留下的三种判断。
+
+识别之后
+
+### 标签要连接动作。
+
+分类体系只有进入路由与处理流程，才会成为产品能力。否则它只是统计结果。
+
+流程之间
+
+### 交接也是体验。
+
+问题从一个处理环节进入另一个环节时，已确认的事实和未完成的任务需要一起传递。
+
+系统之外
+
+### 产品经理要看全程。
+
+从问题进入，到服务结束，再回到反馈。局部功能的改善，需要放在完整链路里判断。
+
+[这条产品路径，后来走向了店小蜜 →](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/)
+
+NEXT PROJECT
+
+[小八 · 鹦鹉之家 →](https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/)
+
+
+---
+
+# TZBABY AI 音乐作品｜五张专辑与 EP — 唐哲马 Jamal
+
+> 唐哲马以 TZBABY 的名字发布的五张 AI 音乐专辑与 EP，收录 44 首曲目、专辑介绍与网易云音乐收听链接。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+JAMAL PRESENTS / AI MUSIC
+
+# TZBABY我的音乐作品
+
+以另一个名字，
+把想象变成可以听见的作品。
+
+05 专辑与 EP44 首曲目[网易云音乐人主页 ↗](https://music.163.com/#/artist?id=99837692)
+
+[NIGHT](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360135978)[HORIZON](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360369484)[Midnight Pulse](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360369939)[Chuchotements Nocturnes](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360370124)[NEON AFRO DRIVE](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/#album-360382028)
+
+![NIGHT 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360135978.jpg)
+01 / 05
+
+10 TRACKS
+
+## NIGHT
+
+### 十段独处时刻，从入夜到清晨
+
+以 Lo-fi R&B、萨克斯、合成器与城市环境声，串起雨巷、地铁、酒吧和空酒杯里的十段独处时刻。情绪从未接通的呼唤与回忆中的迷失，走向和解、释然；最终回到木吉他、鸟鸣与晨风。不必逃离黑夜，也能迎接清晨。
+
+[在网易云听这张作品 ↗](https://music.163.com/#/album?id=360135978)
+
+**完整曲目 10 首 ＋** 
+
+- 01[Door Closes at Ten**↗**](https://music.163.com/#/song?id=3344484226)3:48
+
+- 02[Static on the Line**↗**](https://music.163.com/#/song?id=3344490023)4:12
+
+- 03[Last Train Home**↗**](https://music.163.com/#/song?id=3344490176)4:46
+
+- 04[Smoke & Mirrors**↗**](https://music.163.com/#/song?id=3344491262)4:44
+
+- 05[Neon Ghosts**↗**](https://music.163.com/#/song?id=3344491317)4:38
+
+- 06[Streetlight Serenade**↗**](https://music.163.com/#/song?id=3344491394)3:47
+
+- 07[Empty Glass Philosophy**↗**](https://music.163.com/#/song?id=3344491467)4:07
+
+- 08[Midnight Whiskey**↗**](https://music.163.com/#/song?id=3344491545)4:14
+
+- 09[Fading Signal**↗**](https://music.163.com/#/song?id=3344490751)3:04
+
+- 10[First Light (No Alarm)**↗**](https://music.163.com/#/song?id=3344494824)2:53
+
+![HORIZON 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360369484.jpg)
+02 / 05
+
+10 TRACKS
+
+## HORIZON
+
+### 世界音乐为骨，空灵电子为翼
+
+一场从物理旅程走向心灵归宿的十站声音漫游。世界音乐与空灵电子交织，穿过沙漠、山脊、河流、森林与星空；从《NIGHT》结尾的开门声启程，最终在风中认出归属。旅程关心此刻的共鸣，以及如何成为自然的一部分。
+
+[在网易云听这张作品 ↗](https://music.163.com/#/album?id=360369484)
+
+**完整曲目 10 首 ＋** 
+
+- 01[First Step**↗**](https://music.163.com/#/song?id=3345081086)7:09
+
+- 02[Desert Wind**↗**](https://music.163.com/#/song?id=3345081472)6:38
+
+- 03[Mountain Echo**↗**](https://music.163.com/#/song?id=3345085950)3:15
+
+- 04[River Flow**↗**](https://music.163.com/#/song?id=3345086201)4:54
+
+- 05[Nomad’s Fire**↗**](https://music.163.com/#/song?id=3345085520)3:12
+
+- 06[Ocean Breath**↗**](https://music.163.com/#/song?id=3345086560)2:47
+
+- 07[Sky Dance**↗**](https://music.163.com/#/song?id=3345089903)7:29
+
+- 08[Forest Whisper**↗**](https://music.163.com/#/song?id=3345091892)4:55
+
+- 09[Star Road**↗**](https://music.163.com/#/song?id=3345092127)2:44
+
+- 10[Home in the Wind**↗**](https://music.163.com/#/song?id=3345090370)8:00
+
+![Midnight Pulse 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360369939.jpg)
+03 / 05
+
+11 TRACKS
+
+## Midnight Pulse
+
+### 从黄昏独处，到破晓重启
+
+十首主曲与一首隐藏音轨，构成一张非线性的夜行声音地图。Afrobeats、French House、Industrial Techno、Neo-Soul 与 Ambient R&B 相继展开，中文、英语、法语、日语与无词吟唱随情绪流动。从暮色折纸到晨雾回响，午夜电台里还藏着摩斯密码与倒放人声的碎片。
+
+[在网易云听这张作品 ↗](https://music.163.com/#/album?id=360369939)
+
+**完整曲目 11 首 ＋** 
+
+- 01[Twilight Folds (暮色折纸)**↗**](https://music.163.com/#/song?id=3345133933)2:24
+
+- 02[Neon Compass (霓虹罗盘)**↗**](https://music.163.com/#/song?id=3345144807)2:20
+
+- 03[Threshold Glow (阈限微光)**↗**](https://music.163.com/#/song?id=3345148931)3:27
+
+- 04[Amber Ripples (琥珀涟漪)**↗**](https://music.163.com/#/song?id=3345148963)3:29
+
+- 05[Gravity Code (重力密码)**↗**](https://music.163.com/#/song?id=3345149989)3:04
+
+- 06[Pixel Tide (像素浪潮)**↗**](https://music.163.com/#/song?id=3345148982)2:19
+
+- 07[Weightless Anthem (失重宣言)**↗**](https://music.163.com/#/song?id=3345150020)3:08
+
+- 08[Static Whisper (静电密语)**↗**](https://music.163.com/#/song?id=3345153909)2:40
+
+- 09[Quantum Rave (量子狂欢)**↗**](https://music.163.com/#/song?id=3345149020)4:48
+
+- 10[Dawn Echoes (晨雾回响)**↗**](https://music.163.com/#/song?id=3345150045)4:49
+
+- 11[Midnight Radio (午夜电台)**↗**](https://music.163.com/#/song?id=3345149027)1:29
+
+![Chuchotements Nocturnes 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360370124.jpg)
+04 / 05
+
+06 TRACKS
+
+## Chuchotements Nocturnes
+
+### 只属于两人的加密频道
+
+六首全法语作品，融合 Ambient R&B、UK Garage 与 Post-Jazz。磁带噪音、雨声、地铁与老式电话，串起从初遇、分离到记忆回响的都市情感微叙事。掌心的摩斯密码、伞下沉默与站台上的挽留，让未说出口的话成为这张深夜氛围诗集的线索。
+
+[在网易云听这张作品 ↗](https://music.163.com/#/album?id=360370124)
+
+**完整曲目 06 首 ＋** 
+
+- 01[Static Whisper**↗**](https://music.163.com/#/song?id=3345192131)2:40
+
+- 02[Fil Invisible**↗**](https://music.163.com/#/song?id=3345192182)2:55
+
+- 03[Pluie sur Toit**↗**](https://music.163.com/#/song?id=3345191259)3:41
+
+- 04[Murmure en Code**↗**](https://music.163.com/#/song?id=3345191298)2:47
+
+- 05[Dernier Métro**↗**](https://music.163.com/#/song?id=3345191343)3:55
+
+- 06[Bande Magnétique**↗**](https://music.163.com/#/song?id=3345191367)3:57
+
+![NEON AFRO DRIVE 专辑封面](https://tzm1111.github.io/jamal-tzbaby/assets/tzbaby-360382028.jpg)
+05 / 05
+
+07 TRACKS
+
+## NEON AFRO DRIVE
+
+### 关掉导航，打开耳朵
+
+一张关于身体、文化与时间中“移动”的 Afrobeats 专辑，融合 Urban R&B 与 Future Highlife。前五首从街头启程，经过舞池与屋顶，走向破晓归家；两首彩蛋再把旅程带向红土与文化根源。《Red Soil Echo》回望来处，《Earth Pulse》以约鲁巴语吟唱落在认同与归属。
+
+[在网易云听这张作品 ↗](https://music.163.com/#/album?id=360382028)
+
+**完整曲目 07 首 ＋** 
+
+- 01[City Palm**↗**](https://music.163.com/#/song?id=3345208511)2:57
+
+- 02[No GPS Love**↗**](https://music.163.com/#/song?id=3345205640)2:16
+
+- 03[Glow Up**↗**](https://music.163.com/#/song?id=3345205675)3:24
+
+- 04[Sabi Me**↗**](https://music.163.com/#/song?id=3345205701)3:20
+
+- 05[Dawn Taxi**↗**](https://music.163.com/#/song?id=3345208646)4:15
+
+- 06[Red Soil Echo**↗**](https://music.163.com/#/song?id=3345205779)2:59
+
+- 07[Earth Pulse**↗**](https://music.163.com/#/song?id=3345208668)2:38
+
+ALSO RELEASED / SINGLE
+
+## 劳动者呐喊
+
+五张专辑与 EP 之外，还有这首单曲。
+
+[去网易云听 ↗](https://music.163.com/#/song?id=2742622383)
+
+TZBABY / 唐哲马[回到 Jamal 的 Vibe ↑](https://tzm1111.github.io/jamal-tzbaby/#music)
+
+
+---
+
+# 小八 · 鹦鹉之家 — 唐哲马 Jamal
+
+> 先有一只鸟，才有一个品牌。
+
+作者：唐哲马（Jamal）
+
+原文：https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/
+
+页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+
+A PERSONAL STORY / XIAO BA
+
+# 小八 ·
+鹦鹉之家
+
+先有一只鸟，才有一个品牌。
+
+绿颊锥尾鹦鹉角色设计保护品牌
+
+![小八 · 鹦鹉之家](https://tzm1111.github.io/jamal-tzbaby/assets/xiaoba-brand.svg)
+A PERSONAL STORY / XIAO BA
+
+让人记住一只鸟，
+也记住如何对待它。
+
+THE ENCOUNTER
+
+## 2026 年 8 月 1 日，
+在楼下遇见小八。
+
+它是一只绿颊锥尾鹦鹉。
+这次相遇，让“鹦鹉保护”变成了一件具体的事。
+
+我不知道它是飞丢了，还是被遗弃了。但从那天起，它进入了我的生活，也成为“鹦鹉之家”的起点。
+
+这个项目先从真实的陪伴出发，再延伸到角色、视觉与内容。喜欢是入口，照护才是关系的日常。
+
+CHARACTER LANGUAGE
+
+## 把小八，变成能被记住的角色。
+
+![小八品牌角色插画](https://tzm1111.github.io/jamal-tzbaby/assets/xiaoba-brand.svg)
+
+角色线索
+
+### 绿羽 · 红腹 · 弯喙
+
+从绿颊锥尾鹦鹉的形态提炼识别线索，让角色在小尺寸里也保留轮廓。
+
+羽色、腹色、喙色与温暖的纸张底色
+
+FROM CHARACTER TO OBJECT
+
+## 一个角色，
+可以住进不同的载体。
+
+视觉
+
+### Logo 与贴纸
+
+让小八出现在轻便、可分享的日常物件上。
+
+物件
+
+### 手办概念
+
+从平面轮廓走向体积，继续探索姿态与触感。
+
+叙事
+
+### 网站与短片
+
+从第一眼的喜欢，接续到角色故事和保护议题。
+
+下一步是商标核查与 3D 打样。
+让屏幕里的小八，慢慢走进现实。
+
+NEXT PROJECT
+
+[AI 音乐播放器的创造手记 →](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/)
