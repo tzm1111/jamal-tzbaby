@@ -47,14 +47,10 @@ button:not(:disabled),summary{cursor:pointer}
 .hero-line-left{font-family:var(--display);font-weight:250}
 .hero h1 strong{font-weight:800}
 
-/* 完整骑马场景按原裁切比例显示，不再套用姓名字形。 */
-.photo-portrait{position:relative;aspect-ratio:905/775;overflow:hidden}
-.portrait.photo-portrait{width:100%;max-width:500px;height:auto;min-height:0;justify-self:end}
-.archive-portrait.photo-portrait{width:100%;max-width:480px;height:auto;min-height:0;align-self:center}
-.photo-portrait .portrait-source,.photo-portrait .matrix-portrait{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:contain}
-.photo-portrait .portrait-source{filter:grayscale(1) sepia(.4);transition:opacity .5s var(--ease-out)}
-.photo-portrait.photo-ready .portrait-source{opacity:0}
-.matrix-portrait{cursor:crosshair;touch-action:pan-y}
-@media(max-width:760px){.portrait.photo-portrait{width:100%;max-width:360px;height:auto;margin:0 auto}.archive-portrait.photo-portrait{display:none}}
-
+/* 本人骑马原照抠图，透明背景，保留自然色彩。 */
+.riding-cutout{position:relative;background:none;overflow:visible;aspect-ratio:954/1140}
+.portrait.riding-cutout{width:100%;max-width:420px;height:auto;min-height:0;justify-self:end}
+.archive-portrait.riding-cutout{width:100%;max-width:400px;height:auto;min-height:0;align-self:center}
+.riding-cutout img{display:block;width:100%;height:100%;object-fit:contain;border:0;border-radius:0;background:none;filter:none}
+@media(max-width:760px){.portrait.riding-cutout{width:100%;max-width:300px;height:auto;margin:0 auto}.archive-portrait.riding-cutout{display:none}}
 @media(max-width:760px){.hero-line-left,.hero h1 strong,.hero-copy{transform:none!important}}
