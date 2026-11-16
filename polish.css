@@ -54,3 +54,8 @@ button:not(:disabled),summary{cursor:pointer}
 .riding-cutout img{display:block;width:100%;height:100%;object-fit:contain;border:0;border-radius:0;background:none;filter:none}
 @media(max-width:760px){.portrait.riding-cutout{width:100%;max-width:300px;height:auto;margin:0 auto}.archive-portrait.riding-cutout{display:none}}
 @media(max-width:760px){.hero-line-left,.hero h1 strong,.hero-copy{transform:none!important}}
+
+/* 黑白字符只采样透明抠图的前景，背景不绘制。 */
+.riding-cutout img{filter:grayscale(1);transition:opacity .3s ease}
+.riding-cutout.photo-ready img{opacity:0}
+.riding-cutout .matrix-portrait{position:absolute;inset:0;display:block;width:100%;height:100%;cursor:crosshair;touch-action:pan-y}
