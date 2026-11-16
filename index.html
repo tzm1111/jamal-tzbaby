@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Jamal（唐哲马）的个人主页：AI 产品、业务洞察与创造型项目。"
+    />
+    <title>Jamal — Business first, AI where it matters</title>
+    <link rel="stylesheet" href="./styles.css?v=20261116-tzbaby-official-3" />
+  <link rel="stylesheet" href="./polish.css?v=20261116-motion-1"></head>
+  <body><script src="./motion.js?v=20261116-motion-1"></script>
+    <canvas class="site-texture" id="waveDots" aria-hidden="true"></canvas>
+    <div class="site-texture texture-grain" aria-hidden="true"></div>
+    <div class="cursor-glow" aria-hidden="true"></div>
+    <header class="site-header">
+      <div class="header-inner">
+      <a class="brand" href="#top" aria-label="Jamal — 首页">jamal<span>.</span></a>
+      <nav class="nav" aria-label="主导航">
+        <a href="#projects">一些 Vibe</a>
+        <a href="#notes">思考</a>
+        <a href="./about/">关于</a>
+      </nav>
+      <button class="menu-button" type="button" aria-label="打开菜单" aria-expanded="false">
+        <span></span><span></span>
+      </button>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero reveal">
+        <div class="eyebrow">JAMAL&nbsp;&nbsp;/&nbsp;&nbsp;AI 产品经理 · 业务翻译者 · 创造者</div>
+        <h1>
+          <span class="hero-line hero-line-left">Business first.</span><br />
+          <strong>AI where it <em>matters</em>.</strong>
+        </h1>
+        <p class="hero-copy">懂业务的人，才知道 AI 该用在哪。从用户要办的事出发，把事实、规则与行动连起来，再用真实结果验证价值。</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#projects">看看 Vibe <span>↓</span></a>
+          <a class="button button-ghost" href="#notes">读我的思考 <span>→</span></a>
+        </div>
+        <div class="hero-meta">
+          <span><b>04</b> PROJECTS&nbsp;&nbsp;/&nbsp;&nbsp;<b>08</b> NOTES</span>
+          <a href="#projects">SCROLL <i></i></a>
+        </div>
+      </section>
+
+      <section class="section projects" id="projects">
+        <div class="section-heading reveal">
+          <div class="section-index" aria-hidden="true">01</div>
+          <div><span class="kicker">VIBE</span><h2>一些 Vibe</h2></div>
+        </div>
+
+        <div class="project-shell reveal">
+          <div class="project-rail" id="projectRail" tabindex="0" aria-label="项目横滑列表">
+            <a class="project-card tone-amber" href="./projects/dianxiaomi-agent/" aria-label="查看阿里巴巴 AI 客服Agent 项目">
+              <div class="card-top"><span>WORK · AI AGENT</span><span>01</span></div>
+              <div class="project-visual diagnostic" aria-hidden="true">
+                <img src="./assets/agent-loop.svg" alt="" />
+              </div>
+              <div class="card-body">
+                <h3>阿里巴巴 AI 客服Agent</h3>
+                <p>安装咨询、质量判责、工单接续。看我如何区分执行、授权和完成，让服务真正往前走。</p>
+                <div class="tags"><span>AI Agent</span><span>电商客服</span><span>产品策略</span></div>
+              </div>
+            </a>
+
+            <a class="project-card tone-blue" href="./projects/parrot-service/" aria-label="查看拼多多智能客服系统项目">
+              <div class="card-top"><span>PRODUCT · 0 TO 1</span><span>02</span></div>
+              <div class="project-visual curriculum" aria-hidden="true">
+                <img src="./assets/parrot-system.svg" alt="" />
+              </div>
+              <div class="card-body">
+                <h3>拼多多智能客服系统</h3>
+                <p>2019—2024，上海。从一句“怎么还没到”，看智能客服如何连接表达、判断和服务行动。</p>
+                <div class="tags"><span>0 to 1</span><span>智能客服</span><span>消费者体验</span></div>
+              </div>
+            </a>
+
+            <a class="project-card tone-violet" href="./projects/xiaoba-home/" aria-label="查看小八鹦鹉之家项目">
+              <div class="card-top"><span>CREATIVE · BRAND</span><span>03</span></div>
+              <div class="project-visual waveform" aria-hidden="true">
+                <img src="./assets/xiaoba-brand.svg" alt="" />
+              </div>
+              <div class="card-body">
+                <h3>小八 · 鹦鹉之家</h3>
+                <p>先有一只鸟，才有一个品牌。从楼下的相遇，到角色、贴纸、手办概念与短片。</p>
+                <div class="tags"><span>品牌实验</span><span>角色 IP</span><span>动物保护</span></div>
+              </div>
+            </a>
+
+          </div>
+          <div class="rail-controls">
+            <p><span id="railCurrent">01</span> / 03</p>
+            <div>
+              <button id="projectPrev" type="button" aria-label="上一个项目">←</button>
+              <button id="projectNext" type="button" aria-label="下一个项目">→</button>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="music-releases reveal" id="music">
+          <div class="music-releases-heading"><div><span class="kicker">TZBABY / AI MUSIC</span><h3>我也把想象，做成了唱片。</h3><p>以 TZBABY 的名字，用 AI 创作音乐。五张专辑与 EP，已发布在网易云音乐。</p></div><a href="./projects/tzbaby-music/">走进我的音乐作品 ↗</a></div>
+          <div class="release-shelf"><a class="release-tile" href="./projects/tzbaby-music/#album-360135978"><div class="release-cover"><img src="./assets/tzbaby-360135978.jpg" alt="NIGHT 专辑封面" loading="lazy"><span>查看曲目 ↗</span></div><h4>NIGHT</h4><p class="release-description">Lo-fi R&B 与城市环境声，陪伴十段从孤独走向和解的夜晚。</p><p>10 TRACKS</p></a><a class="release-tile" href="./projects/tzbaby-music/#album-360369484"><div class="release-cover"><img src="./assets/tzbaby-360369484.jpg" alt="HORIZON 专辑封面" loading="lazy"><span>查看曲目 ↗</span></div><h4>HORIZON</h4><p class="release-description">世界音乐与空灵电子交织，从山川与星空走向内心的归属。</p><p>10 TRACKS</p></a><a class="release-tile" href="./projects/tzbaby-music/#album-360369939"><div class="release-cover"><img src="./assets/tzbaby-360369939.jpg" alt="Midnight Pulse 专辑封面" loading="lazy"><span>查看曲目 ↗</span></div><h4>Midnight Pulse</h4><p class="release-description">多风格、多语言的夜行声音地图，从黄昏独处到破晓重启。</p><p>11 TRACKS</p></a><a class="release-tile" href="./projects/tzbaby-music/#album-360370124"><div class="release-cover"><img src="./assets/tzbaby-360370124.jpg" alt="Chuchotements Nocturnes 专辑封面" loading="lazy"><span>查看曲目 ↗</span></div><h4>Chuchotements Nocturnes</h4><p class="release-description">全法语低语与深夜氛围，讲述初遇、分离和记忆的回响。</p><p>06 TRACKS</p></a><a class="release-tile" href="./projects/tzbaby-music/#album-360382028"><div class="release-cover"><img src="./assets/tzbaby-360382028.jpg" alt="NEON AFRO DRIVE 专辑封面" loading="lazy"><span>查看曲目 ↗</span></div><h4>NEON AFRO DRIVE</h4><p class="release-description">Afrobeats 的都市行程，从街头与舞池，回到文化根源与归属。</p><p>07 TRACKS</p></a></div>
+        </div>
+
+
+      </section>
+
+      <section class="section notes" id="notes">
+        <div class="section-heading reveal">
+          <div class="section-index" aria-hidden="true">02</div>
+          <div><span class="kicker">PERSPECTIVES</span><h2>思考与方法</h2></div>
+        </div>
+
+        <div class="note-filters reveal" role="group" aria-label="文章筛选">
+          <button class="active" type="button" data-filter="all">全部</button>
+          <button type="button" data-filter="agent">Agent</button>
+          <button type="button" data-filter="product">产品</button>
+          <button type="button" data-filter="method">方法</button>
+        </div>
+
+        <div class="note-list">
+          <a class="note-row reveal" data-category="product method" href="./posts/evidence-to-action/">
+            <div class="note-cover"><img src="./assets/evidence-action.svg" alt="判断到可验证行动的工作链" /></div>
+            <div class="note-content"><div class="note-tags"><span>方法 · 实践</span><span class="reading-format">工作方法</span></div><h3>把判断变成可验证的行动</h3><p>研究不是把问题再描述一遍。证据怎样支持选择，选择怎样进入实现，结果怎样被验证？</p></div>
+            <div class="note-meta"><span>证据与行动</span><b>→</b></div>
+          </a>
+          <a class="note-row reveal" data-category="product method" href="./posts/service-delivery/">
+            <div class="note-cover"><img src="./assets/delivery-assets.svg" alt="通用底座、行业组合与商家差异" /></div>
+            <div class="note-content"><div class="note-tags"><span>业务 · 产品</span><span class="reading-format">服务交付</span></div><h3>从能力供给到服务交付：让价值更容易发生</h3><p>看得懂、敢授权、配得完。让商家把能力用起来，也让下一次交付少一些不可复用的工作。</p></div>
+            <div class="note-meta"><span>客户与增长</span><b>→</b></div>
+          </a>
+
+          <a class="note-row reveal" data-category="agent method" href="./posts/business-first/">
+            <div class="note-cover"><img src="./assets/business-bridge.svg" alt="业务与 AI 之间的桥梁示意图" /></div>
+            <div class="note-content">
+              <div class="note-tags"><span>Agent · 方法</span><span class="reading-format">场景拆解</span></div>
+              <h3>懂业务的人，才知道 AI 该用在哪</h3>
+              <p>“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。</p>
+            </div>
+            <div class="note-meta"><span>退款案例</span><b>→</b></div>
+          </a>
+          <a class="note-row reveal" data-category="product method" href="./posts/decagon-lessons/">
+            <div class="note-cover"><img src="./assets/aop-system.svg" alt="Agent 工作系统示意图" /></div>
+            <div class="note-content">
+              <div class="note-tags"><span>产品 · 方法</span><span class="reading-format">产品观察</span></div>
+              <h3>我从 Decagon 学到的，不是产品功能</h3>
+              <p>我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。</p>
+            </div>
+            <div class="note-meta"><span>AOP</span><b>→</b></div>
+          </a>
+          <a class="note-row reveal" data-category="agent product" href="./posts/ai-drama-business/">
+            <div class="note-cover"><img src="./assets/ai-drama-economics.svg" alt="AI 短剧商业结构示意图" /></div>
+            <div class="note-content">
+              <div class="note-tags"><span>行业 · 产品</span><span class="reading-format">商业评论</span></div>
+              <h3>AI 短剧真的赚钱吗？</h3>
+              <p>生成便宜了，但观众没有因此多出一小时。拆开做作品、做制作服务和做 IP 三种生意。</p>
+            </div>
+            <div class="note-meta"><span>内容经济</span><b>→</b></div>
+          </a>
+          <a class="note-row reveal" data-category="agent method" href="./posts/agent-work-system/">
+            <div class="note-cover"><img src="./assets/service-closure.svg" alt="从事实到接续的服务闭环" /></div>
+            <div class="note-content">
+              <div class="note-tags"><span>Agent · 方法</span><span class="reading-format">任务说明</span></div>
+              <h3>售后 Agent 的价值，是让事情真正往前走</h3>
+              <p>会解释、会执行、能判责与能闭环，是四个不同的问题。用安装、凭证与工单拆开它们。</p>
+            </div>
+            <div class="note-meta"><span>任务设计</span><b>→</b></div>
+          </a>
+          <a class="note-row reveal" data-category="product" href="./posts/why-build-aurora/">
+            <div class="note-cover"><img src="./assets/aurora-discover.png" alt="Aurora Music 发现页" /></div>
+            <div class="note-content">
+              <div class="note-tags"><span>产品 · 创造</span><span class="reading-format">创造随笔</span></div>
+              <h3>为什么我仍然自己做 AI 音乐播放器</h3>
+              <p>频谱怎样呼吸，画面怎样跟上第一次播放。我想让细小的感受也值得认真处理。</p>
+            </div>
+            <div class="note-meta"><span>声音与视觉</span><b>→</b></div>
+          </a>
+          <a class="note-row reveal" data-category="product method" href="./posts/learn-ai-pm/">
+            <div class="note-cover"><img src="./assets/ai-pm-curriculum.svg" alt="AI 产品经理训练营课程示意图" /></div>
+            <div class="note-content">
+              <div class="note-tags"><span>产品 · 教学</span><span class="reading-format">五周实战</span></div>
+              <h3>非技术背景，怎么真正学会做 AI 产品</h3>
+              <p>五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。</p>
+            </div>
+            <div class="note-meta"><span>面试验收</span><b>→</b></div>
+          </a>
+        </div>
+      </section>
+
+      <section class="section about" id="about">
+        <div class="about-grid">
+          <div class="about-copy reveal">
+            <div class="section-heading"><div><span class="kicker">ABOUT</span><h2>Jamal</h2></div></div>
+            <p>我是唐哲马，在阿里巴巴店小蜜做 AI 产品。关注售后、发货物流、商家配置与辅助服务——能力怎样被允许执行，结果怎样被确认。</p>
+            <p>2019 至 2024 年，我在拼多多负责智能客服与消费者服务体验产品，并从 0 到 1 搭建鹦鹉智能客服系统。</p>
+            <p>我把自己看作业务与 AI 之间的翻译者：先问清楚要支持什么判断，再建立证据、拆开场景，让结论进入可执行和可验证的行动。工作之外，我以 TZBABY 的名字发布 AI 音乐专辑，也做播客、品牌实验，教授 AI 产品实战。</p>
+            <a class="archive-link" href="./about/"><span>完整档案：用我做过的产品讲我自己</span><b>→</b></a>
+            <div class="about-links"><a href="./about/#life">履历地图 <span>↗</span></a><a href="https://github.com/tzm1111" target="_blank" rel="noopener">GitHub <span>↗</span></a><a href="mailto:zhemrl@outlook.com">Email <span>↗</span></a></div>
+          </div>
+          <div class="portrait reveal"><canvas class="glyph-portrait" aria-label="Jamal 唐哲马的字符字形海报"></canvas></div>
+        </div>
+
+        <div class="principles reveal">
+          <div class="principles-title"><span class="kicker">PRINCIPLES</span><h3>我相信的事</h3></div>
+          <ol>
+            <li><span>01</span><h4>业务优先</h4><p>先理解真实业务，再判断 AI 在哪里能产生价值。</p></li>
+            <li><span>02</span><h4>让数字可追溯</h4><p>先分清一轮交互、一通会话和一次执行，再谈数字。系统记录、模型推断与事实要分开。</p></li>
+            <li><span>03</span><h4>状态证明完成</h4><p>保存草稿、申请提交与处理完成，需要不同证据。聊天承诺不能代替业务状态。</p></li>
+            <li><span>04</span><h4>行动产生判断</h4><p>研究要回答问题，结论要接到责任和验收。把失败条件也留下，下一次才更可靠。</p></li>
+          </ol>
+        </div>
+        <div class="principles reveal">
+          <div class="principles-title"><span class="kicker">PERSONAL</span><h3>行事原则</h3></div>
+          <ol>
+            <li><span>01</span><h4>真实比好听重要</h4><p>宁愿听尖锐的实话，也不要漂亮的敷衍。</p></li>
+            <li><span>02</span><h4>有自己的判断</h4><p>不因为流行就接受，也不因为别人说好就降低标准。</p></li>
+            <li><span>03</span><h4>看行动，也看结果</h4><p>说得再好，最终还是要看有没有做出来、做到位。</p></li>
+            <li><span>04</span><h4>保持好奇，也守住边界</h4><p>愿意尝试新东西，但重要的决定要自己做。</p></li>
+          </ol>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <a class="footer-wordmark" href="#top">jamal<span>.</span></a>
+      <div class="footer-bottom">
+        <p>© <span id="year"></span> 唐哲马 · Business first.</p>
+        <nav><a href="#projects">一些 Vibe</a><a href="#notes">思考</a><a href="#about">关于</a></nav>
+        <a href="#top">BACK TO TOP ↑</a>
+      </div>
+    </footer>
+    <script src="./portrait.js?v=20261116-motion-1"></script><script src="./script.js?v=20261116-motion-1"></script>
+  </body>
+</html>
