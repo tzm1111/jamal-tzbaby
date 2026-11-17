@@ -6,7 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/about/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 # Jamal
 
@@ -18,23 +18,41 @@ AI 产品经理 · 业务翻译者。
 
 **◇ 教育** **西北工业大学** 能源与动力工程 · 学士2019 毕业
 
-**▱ 经历** 
+**▱ 经历**
 
 20192024现在
 
-**拼多多 PDD** 
+**拼多多 PDD**
 
 ### 智能客服与服务体验
 
 鹦鹉智能客服系统 · 从 0 到 1
 
-**Alibaba阿里巴巴** 
+**Alibaba阿里巴巴**
 
 ### AI 产品经理
 
 店小蜜 · 商家 AI 客服智能体
 
 **♧ 关注** 业务理解AI 产品数据与判断创造与教学
+
+**关于我与作品的常见问题**
+
+**Jamal 是谁？**
+
+Jamal 是唐哲马的个人网站。他在阿里巴巴店小蜜做 AI 产品，关注电商智能客服、售后 Agent、商家配置与服务交付；2019 至 2024 年在拼多多负责智能客服与消费者服务体验产品。 [查看完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+**这里有哪些 AI Agent 产品方法？**
+
+文章围绕业务事实、适用规则、商家授权、执行动作和完成证据拆解 Agent 任务，也讨论服务交付、证据驱动的产品判断和 AI 产品训练。 [阅读售后 Agent 方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)
+
+**TZBABY 和 Jamal 是什么关系？**
+
+TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专辑与 EP：NIGHT、HORIZON、Midnight Pulse、Chuchotements Nocturnes、NEON AFRO DRIVE，并提供网易云音乐曲目入口。 [查看音乐作品 →](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
+
+**非技术背景怎样学习 AI 产品？**
+
+唐哲马的五周 AI PM 模拟实习训练以同一个项目贯穿需求洞察、方案选择、关键原型、指标评估和项目验收，重点是解释每次选择及其证据。 [阅读训练方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
 
 ![唐哲马骑马，透明背景](https://tzm1111.github.io/jamal-tzbaby/assets/jamal-riding-cutout.png)
 
@@ -194,7 +212,7 @@ BUSINESS FIRST, AI WHERE IT MATTERS.
 
 原文：https://tzm1111.github.io/jamal-tzbaby/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 JAMAL  /  AI 产品经理 · 阿里巴巴 · 拼多多 · 业务翻译者 · 创造者
 
@@ -382,7 +400,7 @@ ABOUT
 
 [完整档案：用我做过的产品讲我自己**→**](https://tzm1111.github.io/jamal-tzbaby/about/)
 
-[履历地图 ↗](https://tzm1111.github.io/jamal-tzbaby/about/#life)[GitHub ↗](https://github.com/tzm1111)[Email ↗](mailto:zhemrl@outlook.com)
+[履历地图 ↗](https://tzm1111.github.io/jamal-tzbaby/about/#life)[GitHub ↗](https://github.com/tzm1111)[Email ↗](mailto:zhemrl@outlook.com)[常见问题 ↗](https://tzm1111.github.io/jamal-tzbaby/about/#profile-reference)
 
 ![唐哲马骑马，透明背景](https://tzm1111.github.io/jamal-tzbaby/assets/jamal-riding-cutout.png)
 
@@ -442,26 +460,6 @@ PERSONAL
 
 愿意尝试新东西，但重要的决定要自己做。
 
-PROFILE & WORK
-
-## 关于我与我的作品
-
-**Jamal 是谁？** 
-
-Jamal 是唐哲马的个人网站。他在阿里巴巴店小蜜做 AI 产品，关注电商智能客服、售后 Agent、商家配置与服务交付；2019 至 2024 年在拼多多负责智能客服与消费者服务体验产品。 [查看完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
-
-**这里有哪些 AI Agent 产品方法？** 
-
-文章围绕业务事实、适用规则、商家授权、执行动作和完成证据拆解 Agent 任务，也讨论服务交付、证据驱动的产品判断和 AI 产品训练。 [阅读售后 Agent 方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)
-
-**TZBABY 和 Jamal 是什么关系？** 
-
-TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专辑与 EP：NIGHT、HORIZON、Midnight Pulse、Chuchotements Nocturnes、NEON AFRO DRIVE，并提供网易云音乐曲目入口。 [查看音乐作品 →](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
-
-**非技术背景怎样学习 AI 产品？** 
-
-唐哲马的五周 AI PM 模拟实习训练以同一个项目贯穿需求洞察、方案选择、关键原型、指标评估和项目验收，重点是解释每次选择及其证据。 [阅读训练方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
-
 
 ---
 
@@ -473,21 +471,7 @@ TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-售后 Agent 需要区分解释、执行、判责与闭环。安装咨询、质量凭证与工单接续分别要求不同事实、授权和完成证据；草稿、提交与处理完成应保留各自的状态。
-
-## 本文内容
-
-- [先分清当前承担哪一段任务](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-01)
-- [安装咨询与预约办理，走两条轨道](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-02)
-- [看见破损，还没有完成判责](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-03)
-- [草稿、提交与完成，需要各自的证据](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-04)
-- [归因的目的，是找到谁能改变问题](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-05)
-- [自主解决的代理口径，不等于任务完成](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-06)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 任务拆解 / 售后 · 判责 · 可信闭环
 
@@ -495,9 +479,23 @@ TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专
 
 会解释、能执行、能判责与能闭环，是四个不同的产品问题。
 
-**内容摘要**  会解释、能执行、能判责与能闭环，是四个不同的产品问题。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  售后 Agent 需要区分解释、执行、判责与闭环。安装咨询、质量凭证与工单接续分别要求不同事实、授权和完成证据；草稿、提交与处理完成应保留各自的状态。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟任务拆解
+
+本文内容
+
+- [先分清当前承担哪一段任务](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-01)
+
+- [安装咨询与预约办理，走两条轨道](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-02)
+
+- [看见破损，还没有完成判责](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-03)
+
+- [草稿、提交与完成，需要各自的证据](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-04)
+
+- [归因的目的，是找到谁能改变问题](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-05)
+
+- [自主解决的代理口径，不等于任务完成](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-06)
 
 “已帮您催促”不等于创建了催办记录；展示预约入口，不等于完成预约；收集完凭证，也不等于完成责任判断。
 
@@ -528,15 +526,15 @@ TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专
 
 流程优化可以减少重复确认、补齐步骤，但不能提供缺失的事实。证据不足、规则不清和需要人工判断，都应该是系统可以保留的真实状态。
 
-**证据不足** 
+**证据不足**
 
 说明还缺什么，整理已有材料，再进入补充或接续。不要为了走完流程补出一个确定结论。
 
-**没有执行授权** 
+**没有执行授权**
 
 完成能够承担的查询和说明，把后续任务交给有权限的处理者。不能从历史处理习惯推断退款或补偿权限。
 
-**无法确认执行结果** 
+**无法确认执行结果**
 
 先核对实际业务状态，再判断是否重试。没有收到返回，不等于没有执行。
 
@@ -581,18 +579,7 @@ TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-AI 降低生成成本，但不自动增加内容收入。作品、制作服务和 IP 是三种不同生意，应分别核算制作、分发与返工成本，并通过有限实验验证受众、叙事和交付能力。
-
-## 本文内容
-
-- [最容易漏算的是“没被看见”](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-01)
-- [三种生意，三套要求](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-02)
-- [我会怎样验证一个起步项目](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-06)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 商业评论 / 内容生意 · AI 短剧
 
@@ -600,9 +587,17 @@ AI 降低生成成本，但不自动增加内容收入。作品、制作服务�
 
 生成便宜了，但观众没有因此多出一小时。
 
-**内容摘要**  生成便宜了，但观众没有因此多出一小时。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  AI 降低生成成本，但不自动增加内容收入。作品、制作服务和 IP 是三种不同生意，应分别核算制作、分发与返工成本，并通过有限实验验证受众、叙事和交付能力。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 3 分钟商业评论
+
+本文内容
+
+- [最容易漏算的是“没被看见”](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-01)
+
+- [三种生意，三套要求](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-02)
+
+- [我会怎样验证一个起步项目](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-06)
 
 “一个人也能做短剧”解决的是生产资格，不是赚钱资格。我研究 AI 短剧时，最想拆开的就是这两个常被混在一起的问题。
 
@@ -660,18 +655,7 @@ AI 降低生成成本，但不自动增加内容收入。作品、制作服务�
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/business-first/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-识别退款意图不等于能处理退款。先核实订单事实与适用规则，再确定授权动作；用业务状态确认结果，并提前定义错误承诺、过期状态与执行未完成等失败条件。
-
-## 本文内容
-
-- [把一句话，翻译成一个待判断的问题](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-01)
-- [不是所有步骤都需要模型判断](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-02)
-- [立项前，先写清楚失败长什么样](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-03)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 场景笔记 / 业务判断 · AI 产品
 
@@ -679,9 +663,17 @@ AI 降低生成成本，但不自动增加内容收入。作品、制作服务�
 
 “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。
 
-**内容摘要**  “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  识别退款意图不等于能处理退款。先核实订单事实与适用规则，再确定授权动作；用业务状态确认结果，并提前定义错误承诺、过期状态与执行未完成等失败条件。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟场景笔记
+
+本文内容
+
+- [把一句话，翻译成一个待判断的问题](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-01)
+
+- [不是所有步骤都需要模型判断](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-02)
+
+- [立项前，先写清楚失败长什么样](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-03)
 
 如果一个模型能识别“退款意图”，是否意味着它已经能处理退款？我的答案是：还没有。识别出用户说了什么，只解决了服务链路的开头。
 
@@ -737,19 +729,7 @@ AI 应该出现在哪里，答案往往藏在业务里最容易被省略的那�
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-借鉴 Decagon AOP 时，重点检查谁能修改流程、如何验证修改，以及如何追溯运行行为。自然语言编排还需要业务动作、商家授权和系统接入才能进入真实服务。
-
-## 本文内容
-
-- [AOP 让工作流成为可维护的东西](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-01)
-- [我会用三个问题拆产品](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-02)
-- [流程编排不能跳过办事的前提](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-06)
-- [映射到电商售后，要重新设计什么](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-07)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 产品观察 / Agent · 产品研究
 
@@ -757,9 +737,19 @@ AI 应该出现在哪里，答案往往藏在业务里最容易被省略的那�
 
 我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。
 
-**内容摘要**  我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  借鉴 Decagon AOP 时，重点检查谁能修改流程、如何验证修改，以及如何追溯运行行为。自然语言编排还需要业务动作、商家授权和系统接入才能进入真实服务。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟产品观察
+
+本文内容
+
+- [AOP 让工作流成为可维护的东西](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-01)
+
+- [我会用三个问题拆产品](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-02)
+
+- [流程编排不能跳过办事的前提](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-06)
+
+- [映射到电商售后，要重新设计什么](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-07)
 
 看一个 Agent 产品，我会先问：上线之后，业务规则变了，谁来改？如果一个小变化还要在业务、产品和工程之间反复翻译，团队就很难持续经营它的行为。
 
@@ -827,21 +817,7 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-研究结论需要接到选择、实现与验收。先明确证据支持哪项判断，再定义改进机制、责任与失败条件；用可追溯结果验证行动，并保留尚未成立的解释。
-
-## 本文内容
-
-- [研究的对象，要具体到机制](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-01)
-- [把证据放到正确的层级](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-02)
-- [像写测试用例一样澄清需求](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-03)
-- [验证，必须与实现一起设计](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-04)
-- [从问题到任务，还差一次责任转换](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-05)
-- [让 AI 扩大执行与检查能力](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-06)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 工作方法 / 证据 · 需求 · 验证
 
@@ -849,9 +825,23 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。
 
-**内容摘要**  研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  研究结论需要接到选择、实现与验收。先明确证据支持哪项判断，再定义改进机制、责任与失败条件；用可追溯结果验证行动，并保留尚未成立的解释。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟工作方法
+
+本文内容
+
+- [研究的对象，要具体到机制](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-01)
+
+- [把证据放到正确的层级](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-02)
+
+- [像写测试用例一样澄清需求](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-03)
+
+- [验证，必须与实现一起设计](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-04)
+
+- [从问题到任务，还差一次责任转换](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-05)
+
+- [让 AI 扩大执行与检查能力](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-06)
 
 我曾在一版研究里看到自己的问题被扩写成了完整章节，却没有得到答案。我又强调了一次：“这是我提出的问题，不是让你又描述一遍。”
 
@@ -868,15 +858,15 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 ## 把证据放到正确的层级
 
-**原始事实与可复算结果** 
+**原始事实与可复算结果**
 
 先明确时间、样本、统计单位和定义。
 
-**系统记录与人工复核** 
+**系统记录与人工复核**
 
 解释当时发生的行为，再与配置、上下文和执行事实核对。
 
-**模型推断与个人解释** 
+**模型推断与个人解释**
 
 提出可检查的假设，不能直接升级为业务根因。
 
@@ -933,18 +923,7 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-五周 AI PM 训练让同一个项目贯穿需求、方案、原型、评估与验收。通过指标定义、可比基线和变化原因三层追问，检查学员能否用证据解释产品选择。
-
-## 本文内容
-
-- [每周，都给下一周留下一个东西](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-01)
-- [十五分钟，不问背了多少名词](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-07)
-- [非技术背景，先补判断接口](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-08)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 教学实战 / 模拟实习 · 产品训练
 
@@ -952,9 +931,17 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。
 
-**内容摘要**  五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  五周 AI PM 训练让同一个项目贯穿需求、方案、原型、评估与验收。通过指标定义、可比基线和变化原因三层追问，检查学员能否用证据解释产品选择。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟教学实战
+
+本文内容
+
+- [每周，都给下一周留下一个东西](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-01)
+
+- [十五分钟，不问背了多少名词](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-07)
+
+- [非技术背景，先补判断接口](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/#section-08)
 
 学员交来一份完整 PRD，我并不会立刻认为他学会了。文字可以被润色，结构可以被套用。更有区分度的问题是：为什么这样选？如果证据换了，方案还成立吗？
 
@@ -996,15 +983,15 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 我围绕一个指标做三层追问。下面用“任务完成率”演示这套验收方式。
 
-****01**  定义是什么？** 
+****01**  定义是什么？**
 
 什么算完成？部分完成算不算？一次对话有多个诉求时，以哪个任务为单位？如果分母含混，后面的数字就无法解释。
 
-****02**  基线在哪里？** 
+****02**  基线在哪里？**
 
 与什么结果比较？比较的是同一批任务、同一段流程和同一种条件吗？没有可比基线，变化不能直接归因给新方案。
 
-****03**  为什么发生？** 
+****03**  为什么发生？**
 
 是模型判断改善、知识补齐，还是任务构成发生变化？能不能找到支持解释的样本，以及不支持解释的样本？
 
@@ -1034,20 +1021,7 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-能力存在、商家开通、真实触发、执行成功与任务解决是五种不同状态。产品规划应分别处理覆盖、优化和共建投入，并把通用底座、行业组合与商家差异沉淀为可复用交付。
-
-## 本文内容
-
-- [先找到客户，再讨论能力](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-01)
-- [开通、使用与效果，分别设计](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-02)
-- [三种投入，不放进同一张待办表](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-06)
-- [每次深度交付，要留下可复用的资产](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-07)
-- [诊断的终点，不是一份报告](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-08)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 业务理解 / 客户价值 · 规模化交付
 
@@ -1055,9 +1029,21 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。
 
-**内容摘要**  能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  能力存在、商家开通、真实触发、执行成功与任务解决是五种不同状态。产品规划应分别处理覆盖、优化和共建投入，并把通用底座、行业组合与商家差异沉淀为可复用交付。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟业务理解
+
+本文内容
+
+- [先找到客户，再讨论能力](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-01)
+
+- [开通、使用与效果，分别设计](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-02)
+
+- [三种投入，不放进同一张待办表](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-06)
+
+- [每次深度交付，要留下可复用的资产](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-07)
+
+- [诊断的终点，不是一份报告](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-08)
 
 我越来越认为，智能客服业务不能只从模型和功能清单理解。客户是谁、为什么愿意使用，能力怎样进入真实服务，单店交付能否被复用，才是一个完整的业务问题。
 
@@ -1135,18 +1121,7 @@ Decagon 的 [Agent Operating Procedures](https://decagon.ai/product/aop) 把自�
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合成音频，并让频谱、波形与粒子回应真实播放。关键原型包括持续播放栏、本地音乐导入与多视角界面。
-
-## 本文内容
-
-- [Aurora：把感受做成一个界面](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-gallery)
-- [画面要回应正在发生的声音](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-02)
-- [限制，会把注意力拉回来](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-03)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 创造手记 / 音乐 · 个人实验
 
@@ -1154,9 +1129,17 @@ Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合�
 
 我想保留一块地方，让细小的感受也值得认真处理。
 
-**内容摘要**  我想保留一块地方，让细小的感受也值得认真处理。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合成音频，并让频谱、波形与粒子回应真实播放。关键原型包括持续播放栏、本地音乐导入与多视角界面。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 3 分钟创造手记
+
+本文内容
+
+- [Aurora：把感受做成一个界面](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-gallery)
+
+- [画面要回应正在发生的声音](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-02)
+
+- [限制，会把注意力拉回来](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-03)
 
 世界上不缺音乐播放器。缺的也许是一个完全按自己的感受搭起来的小空间。
 
@@ -1210,7 +1193,7 @@ Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合�
 
 原文：https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 ALIBABA / AI PRODUCT
 
@@ -1249,7 +1232,7 @@ THREE DIFFERENT TASKS
 
 ### 更多服务场景
 
-**“商品破了，应该怎么处理？”** 
+**“商品破了，应该怎么处理？”**
 
 常见诉求
 
@@ -1263,7 +1246,7 @@ THREE DIFFERENT TASKS
 
 **接续方式** 整理已有事实，补充必要材料；需要判断或授权时交给正确处理者。
 
-**“资料已经填好了，事情办完了吗？”** 
+**“资料已经填好了，事情办完了吗？”**
 
 常见诉求
 
@@ -1353,7 +1336,7 @@ NEXT PROJECT
 
 原文：https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 PINDUODUO / 2019—2024
 
@@ -1393,15 +1376,15 @@ A SERVICE EXAMPLE
 
 怎么还没到？
 
-- **先辨认诉求** 
+- **先辨认诉求**
 
 用户想知道当前位置、需要确定送达时间，还是希望取消订单？
 
-- **再读取状态** 
+- **再读取状态**
 
 未发货、运输中、派送异常，需要进入不同的处理路径。
 
-- **最后连接行动** 
+- **最后连接行动**
 
 解释状态、推进查询或接续其他服务，让回答指向实际处理。
 
@@ -1447,7 +1430,7 @@ NEXT PROJECT
 
 原文：https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 JAMAL PRESENTS / AI MUSIC
 
@@ -1473,7 +1456,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360135978)
 
-**完整曲目 10 首 ＋** 
+**完整曲目 10 首 ＋**
 
 - 01[Door Closes at Ten**↗**](https://music.163.com/#/song?id=3344484226)3:48
 
@@ -1508,7 +1491,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360369484)
 
-**完整曲目 10 首 ＋** 
+**完整曲目 10 首 ＋**
 
 - 01[First Step**↗**](https://music.163.com/#/song?id=3345081086)7:09
 
@@ -1543,7 +1526,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360369939)
 
-**完整曲目 11 首 ＋** 
+**完整曲目 11 首 ＋**
 
 - 01[Twilight Folds (暮色折纸)**↗**](https://music.163.com/#/song?id=3345133933)2:24
 
@@ -1580,7 +1563,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360370124)
 
-**完整曲目 06 首 ＋** 
+**完整曲目 06 首 ＋**
 
 - 01[Static Whisper**↗**](https://music.163.com/#/song?id=3345192131)2:40
 
@@ -1607,7 +1590,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360382028)
 
-**完整曲目 07 首 ＋** 
+**完整曲目 07 首 ＋**
 
 - 01[City Palm**↗**](https://music.163.com/#/song?id=3345208511)2:57
 
@@ -1644,7 +1627,7 @@ TZBABY / 唐哲马[回到 Jamal 的 Vibe ↑](https://tzm1111.github.io/jamal-tz
 
 原文：https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 A PERSONAL STORY / XIAO BA
 

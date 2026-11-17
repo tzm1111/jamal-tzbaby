@@ -6,21 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-售后 Agent 需要区分解释、执行、判责与闭环。安装咨询、质量凭证与工单接续分别要求不同事实、授权和完成证据；草稿、提交与处理完成应保留各自的状态。
-
-## 本文内容
-
-- [先分清当前承担哪一段任务](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-01)
-- [安装咨询与预约办理，走两条轨道](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-02)
-- [看见破损，还没有完成判责](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-03)
-- [草稿、提交与完成，需要各自的证据](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-04)
-- [归因的目的，是找到谁能改变问题](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-05)
-- [自主解决的代理口径，不等于任务完成](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-06)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 任务拆解 / 售后 · 判责 · 可信闭环
 
@@ -28,9 +14,23 @@
 
 会解释、能执行、能判责与能闭环，是四个不同的产品问题。
 
-**内容摘要**  会解释、能执行、能判责与能闭环，是四个不同的产品问题。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  售后 Agent 需要区分解释、执行、判责与闭环。安装咨询、质量凭证与工单接续分别要求不同事实、授权和完成证据；草稿、提交与处理完成应保留各自的状态。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟任务拆解
+
+本文内容
+
+- [先分清当前承担哪一段任务](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-01)
+
+- [安装咨询与预约办理，走两条轨道](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-02)
+
+- [看见破损，还没有完成判责](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-03)
+
+- [草稿、提交与完成，需要各自的证据](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-04)
+
+- [归因的目的，是找到谁能改变问题](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-05)
+
+- [自主解决的代理口径，不等于任务完成](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/#section-06)
 
 “已帮您催促”不等于创建了催办记录；展示预约入口，不等于完成预约；收集完凭证，也不等于完成责任判断。
 
@@ -61,15 +61,15 @@
 
 流程优化可以减少重复确认、补齐步骤，但不能提供缺失的事实。证据不足、规则不清和需要人工判断，都应该是系统可以保留的真实状态。
 
-**证据不足** 
+**证据不足**
 
 说明还缺什么，整理已有材料，再进入补充或接续。不要为了走完流程补出一个确定结论。
 
-**没有执行授权** 
+**没有执行授权**
 
 完成能够承担的查询和说明，把后续任务交给有权限的处理者。不能从历史处理习惯推断退款或补偿权限。
 
-**无法确认执行结果** 
+**无法确认执行结果**
 
 先核对实际业务状态，再判断是否重试。没有收到返回，不等于没有执行。
 

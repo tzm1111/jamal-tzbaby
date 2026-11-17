@@ -6,20 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-能力存在、商家开通、真实触发、执行成功与任务解决是五种不同状态。产品规划应分别处理覆盖、优化和共建投入，并把通用底座、行业组合与商家差异沉淀为可复用交付。
-
-## 本文内容
-
-- [先找到客户，再讨论能力](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-01)
-- [开通、使用与效果，分别设计](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-02)
-- [三种投入，不放进同一张待办表](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-06)
-- [每次深度交付，要留下可复用的资产](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-07)
-- [诊断的终点，不是一份报告](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-08)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 业务理解 / 客户价值 · 规模化交付
 
@@ -27,9 +14,21 @@
 
 能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。
 
-**内容摘要**  能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  能力存在、商家开通、真实触发、执行成功与任务解决是五种不同状态。产品规划应分别处理覆盖、优化和共建投入，并把通用底座、行业组合与商家差异沉淀为可复用交付。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟业务理解
+
+本文内容
+
+- [先找到客户，再讨论能力](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-01)
+
+- [开通、使用与效果，分别设计](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-02)
+
+- [三种投入，不放进同一张待办表](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-06)
+
+- [每次深度交付，要留下可复用的资产](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-07)
+
+- [诊断的终点，不是一份报告](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-08)
 
 我越来越认为，智能客服业务不能只从模型和功能清单理解。客户是谁、为什么愿意使用，能力怎样进入真实服务，单店交付能否被复用，才是一个完整的业务问题。
 

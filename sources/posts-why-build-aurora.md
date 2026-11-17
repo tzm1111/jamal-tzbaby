@@ -6,18 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合成音频，并让频谱、波形与粒子回应真实播放。关键原型包括持续播放栏、本地音乐导入与多视角界面。
-
-## 本文内容
-
-- [Aurora：把感受做成一个界面](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-gallery)
-- [画面要回应正在发生的声音](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-02)
-- [限制，会把注意力拉回来](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-03)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 创造手记 / 音乐 · 个人实验
 
@@ -25,9 +14,17 @@ Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合�
 
 我想保留一块地方，让细小的感受也值得认真处理。
 
-**内容摘要**  我想保留一块地方，让细小的感受也值得认真处理。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  Aurora 用天气、心情与声音组织音乐体验，以 Web Audio 本地合成音频，并让频谱、波形与粒子回应真实播放。关键原型包括持续播放栏、本地音乐导入与多视角界面。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 3 分钟创造手记
+
+本文内容
+
+- [Aurora：把感受做成一个界面](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-gallery)
+
+- [画面要回应正在发生的声音](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-02)
+
+- [限制，会把注意力拉回来](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#section-03)
 
 世界上不缺音乐播放器。缺的也许是一个完全按自己的感受搭起来的小空间。
 

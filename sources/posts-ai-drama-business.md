@@ -6,18 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-AI 降低生成成本，但不自动增加内容收入。作品、制作服务和 IP 是三种不同生意，应分别核算制作、分发与返工成本，并通过有限实验验证受众、叙事和交付能力。
-
-## 本文内容
-
-- [最容易漏算的是“没被看见”](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-01)
-- [三种生意，三套要求](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-02)
-- [我会怎样验证一个起步项目](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-06)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 商业评论 / 内容生意 · AI 短剧
 
@@ -25,9 +14,17 @@ AI 降低生成成本，但不自动增加内容收入。作品、制作服务�
 
 生成便宜了，但观众没有因此多出一小时。
 
-**内容摘要**  生成便宜了，但观众没有因此多出一小时。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  AI 降低生成成本，但不自动增加内容收入。作品、制作服务和 IP 是三种不同生意，应分别核算制作、分发与返工成本，并通过有限实验验证受众、叙事和交付能力。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 3 分钟商业评论
+
+本文内容
+
+- [最容易漏算的是“没被看见”](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-01)
+
+- [三种生意，三套要求](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-02)
+
+- [我会怎样验证一个起步项目](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/#section-06)
 
 “一个人也能做短剧”解决的是生产资格，不是赚钱资格。我研究 AI 短剧时，最想拆开的就是这两个常被混在一起的问题。
 

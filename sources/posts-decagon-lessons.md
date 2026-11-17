@@ -6,19 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-借鉴 Decagon AOP 时，重点检查谁能修改流程、如何验证修改，以及如何追溯运行行为。自然语言编排还需要业务动作、商家授权和系统接入才能进入真实服务。
-
-## 本文内容
-
-- [AOP 让工作流成为可维护的东西](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-01)
-- [我会用三个问题拆产品](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-02)
-- [流程编排不能跳过办事的前提](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-06)
-- [映射到电商售后，要重新设计什么](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-07)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 产品观察 / Agent · 产品研究
 
@@ -26,9 +14,19 @@
 
 我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。
 
-**内容摘要**  我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  借鉴 Decagon AOP 时，重点检查谁能修改流程、如何验证修改，以及如何追溯运行行为。自然语言编排还需要业务动作、商家授权和系统接入才能进入真实服务。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟产品观察
+
+本文内容
+
+- [AOP 让工作流成为可维护的东西](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-01)
+
+- [我会用三个问题拆产品](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-02)
+
+- [流程编排不能跳过办事的前提](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-06)
+
+- [映射到电商售后，要重新设计什么](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/#section-07)
 
 看一个 Agent 产品，我会先问：上线之后，业务规则变了，谁来改？如果一个小变化还要在业务、产品和工程之间反复翻译，团队就很难持续经营它的行为。
 

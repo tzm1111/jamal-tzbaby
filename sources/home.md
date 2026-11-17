@@ -6,7 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 JAMAL  /  AI 产品经理 · 阿里巴巴 · 拼多多 · 业务翻译者 · 创造者
 
@@ -194,7 +194,7 @@ ABOUT
 
 [完整档案：用我做过的产品讲我自己**→**](https://tzm1111.github.io/jamal-tzbaby/about/)
 
-[履历地图 ↗](https://tzm1111.github.io/jamal-tzbaby/about/#life)[GitHub ↗](https://github.com/tzm1111)[Email ↗](mailto:zhemrl@outlook.com)
+[履历地图 ↗](https://tzm1111.github.io/jamal-tzbaby/about/#life)[GitHub ↗](https://github.com/tzm1111)[Email ↗](mailto:zhemrl@outlook.com)[常见问题 ↗](https://tzm1111.github.io/jamal-tzbaby/about/#profile-reference)
 
 ![唐哲马骑马，透明背景](https://tzm1111.github.io/jamal-tzbaby/assets/jamal-riding-cutout.png)
 
@@ -253,23 +253,3 @@ PERSONAL
 #### 保持好奇，也守住边界
 
 愿意尝试新东西，但重要的决定要自己做。
-
-PROFILE & WORK
-
-## 关于我与我的作品
-
-**Jamal 是谁？** 
-
-Jamal 是唐哲马的个人网站。他在阿里巴巴店小蜜做 AI 产品，关注电商智能客服、售后 Agent、商家配置与服务交付；2019 至 2024 年在拼多多负责智能客服与消费者服务体验产品。 [查看完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
-
-**这里有哪些 AI Agent 产品方法？** 
-
-文章围绕业务事实、适用规则、商家授权、执行动作和完成证据拆解 Agent 任务，也讨论服务交付、证据驱动的产品判断和 AI 产品训练。 [阅读售后 Agent 方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)
-
-**TZBABY 和 Jamal 是什么关系？** 
-
-TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专辑与 EP：NIGHT、HORIZON、Midnight Pulse、Chuchotements Nocturnes、NEON AFRO DRIVE，并提供网易云音乐曲目入口。 [查看音乐作品 →](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
-
-**非技术背景怎样学习 AI 产品？** 
-
-唐哲马的五周 AI PM 模拟实习训练以同一个项目贯穿需求洞察、方案选择、关键原型、指标评估和项目验收，重点是解释每次选择及其证据。 [阅读训练方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)

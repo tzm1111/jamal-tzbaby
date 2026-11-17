@@ -6,7 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/about/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 # Jamal
 
@@ -18,23 +18,41 @@ AI 产品经理 · 业务翻译者。
 
 **◇ 教育** **西北工业大学** 能源与动力工程 · 学士2019 毕业
 
-**▱ 经历** 
+**▱ 经历**
 
 20192024现在
 
-**拼多多 PDD** 
+**拼多多 PDD**
 
 ### 智能客服与服务体验
 
 鹦鹉智能客服系统 · 从 0 到 1
 
-**Alibaba阿里巴巴** 
+**Alibaba阿里巴巴**
 
 ### AI 产品经理
 
 店小蜜 · 商家 AI 客服智能体
 
 **♧ 关注** 业务理解AI 产品数据与判断创造与教学
+
+**关于我与作品的常见问题**
+
+**Jamal 是谁？**
+
+Jamal 是唐哲马的个人网站。他在阿里巴巴店小蜜做 AI 产品，关注电商智能客服、售后 Agent、商家配置与服务交付；2019 至 2024 年在拼多多负责智能客服与消费者服务体验产品。 [查看完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
+
+**这里有哪些 AI Agent 产品方法？**
+
+文章围绕业务事实、适用规则、商家授权、执行动作和完成证据拆解 Agent 任务，也讨论服务交付、证据驱动的产品判断和 AI 产品训练。 [阅读售后 Agent 方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)
+
+**TZBABY 和 Jamal 是什么关系？**
+
+TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专辑与 EP：NIGHT、HORIZON、Midnight Pulse、Chuchotements Nocturnes、NEON AFRO DRIVE，并提供网易云音乐曲目入口。 [查看音乐作品 →](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
+
+**非技术背景怎样学习 AI 产品？**
+
+唐哲马的五周 AI PM 模拟实习训练以同一个项目贯穿需求洞察、方案选择、关键原型、指标评估和项目验收，重点是解释每次选择及其证据。 [阅读训练方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
 
 ![唐哲马骑马，透明背景](https://tzm1111.github.io/jamal-tzbaby/assets/jamal-riding-cutout.png)
 

@@ -6,21 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-研究结论需要接到选择、实现与验收。先明确证据支持哪项判断，再定义改进机制、责任与失败条件；用可追溯结果验证行动，并保留尚未成立的解释。
-
-## 本文内容
-
-- [研究的对象，要具体到机制](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-01)
-- [把证据放到正确的层级](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-02)
-- [像写测试用例一样澄清需求](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-03)
-- [验证，必须与实现一起设计](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-04)
-- [从问题到任务，还差一次责任转换](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-05)
-- [让 AI 扩大执行与检查能力](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-06)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 工作方法 / 证据 · 需求 · 验证
 
@@ -28,9 +14,23 @@
 
 研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。
 
-**内容摘要**  研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  研究结论需要接到选择、实现与验收。先明确证据支持哪项判断，再定义改进机制、责任与失败条件；用可追溯结果验证行动，并保留尚未成立的解释。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 5 分钟工作方法
+
+本文内容
+
+- [研究的对象，要具体到机制](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-01)
+
+- [把证据放到正确的层级](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-02)
+
+- [像写测试用例一样澄清需求](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-03)
+
+- [验证，必须与实现一起设计](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-04)
+
+- [从问题到任务，还差一次责任转换](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-05)
+
+- [让 AI 扩大执行与检查能力](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-06)
 
 我曾在一版研究里看到自己的问题被扩写成了完整章节，却没有得到答案。我又强调了一次：“这是我提出的问题，不是让你又描述一遍。”
 
@@ -47,15 +47,15 @@
 
 ## 把证据放到正确的层级
 
-**原始事实与可复算结果** 
+**原始事实与可复算结果**
 
 先明确时间、样本、统计单位和定义。
 
-**系统记录与人工复核** 
+**系统记录与人工复核**
 
 解释当时发生的行为，再与配置、上下文和执行事实核对。
 
-**模型推断与个人解释** 
+**模型推断与个人解释**
 
 提出可检查的假设，不能直接升级为业务根因。
 

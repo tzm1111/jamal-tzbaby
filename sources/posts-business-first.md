@@ -6,18 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/posts/business-first/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
-
-## 内容摘要
-
-识别退款意图不等于能处理退款。先核实订单事实与适用规则，再确定授权动作；用业务状态确认结果，并提前定义错误承诺、过期状态与执行未完成等失败条件。
-
-## 本文内容
-
-- [把一句话，翻译成一个待判断的问题](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-01)
-- [不是所有步骤都需要模型判断](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-02)
-- [立项前，先写清楚失败长什么样](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-03)
-
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 场景笔记 / 业务判断 · AI 产品
 
@@ -25,9 +14,17 @@
 
 “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。
 
-**内容摘要**  “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。 本文结合具体场景说明判断条件、行动与验证方式。
+**内容摘要**  识别退款意图不等于能处理退款。先核实订单事实与适用规则，再确定授权动作；用业务状态确认结果，并提前定义错误承诺、过期状态与执行未完成等失败条件。
 
 [唐哲马 / JAMAL](https://tzm1111.github.io/jamal-tzbaby/about/)约 4 分钟场景笔记
+
+本文内容
+
+- [把一句话，翻译成一个待判断的问题](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-01)
+
+- [不是所有步骤都需要模型判断](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-02)
+
+- [立项前，先写清楚失败长什么样](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-03)
 
 如果一个模型能识别“退款意图”，是否意味着它已经能处理退款？我的答案是：还没有。识别出用户说了什么，只解决了服务链路的开头。
 

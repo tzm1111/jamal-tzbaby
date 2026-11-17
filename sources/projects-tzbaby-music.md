@@ -6,7 +6,7 @@
 
 原文：https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/
 
-页面更新：2026-11-16（页面维护日期，不代表文章首次创作日期）
+页面更新：2026-11-17（页面维护日期，不代表文章首次创作日期）
 
 JAMAL PRESENTS / AI MUSIC
 
@@ -32,7 +32,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360135978)
 
-**完整曲目 10 首 ＋** 
+**完整曲目 10 首 ＋**
 
 - 01[Door Closes at Ten**↗**](https://music.163.com/#/song?id=3344484226)3:48
 
@@ -67,7 +67,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360369484)
 
-**完整曲目 10 首 ＋** 
+**完整曲目 10 首 ＋**
 
 - 01[First Step**↗**](https://music.163.com/#/song?id=3345081086)7:09
 
@@ -102,7 +102,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360369939)
 
-**完整曲目 11 首 ＋** 
+**完整曲目 11 首 ＋**
 
 - 01[Twilight Folds (暮色折纸)**↗**](https://music.163.com/#/song?id=3345133933)2:24
 
@@ -139,7 +139,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360370124)
 
-**完整曲目 06 首 ＋** 
+**完整曲目 06 首 ＋**
 
 - 01[Static Whisper**↗**](https://music.163.com/#/song?id=3345192131)2:40
 
@@ -166,7 +166,7 @@ JAMAL PRESENTS / AI MUSIC
 
 [在网易云听这张作品 ↗](https://music.163.com/#/album?id=360382028)
 
-**完整曲目 07 首 ＋** 
+**完整曲目 07 首 ＋**
 
 - 01[City Palm**↗**](https://music.163.com/#/song?id=3345208511)2:57
 
