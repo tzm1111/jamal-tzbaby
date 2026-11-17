@@ -44,7 +44,7 @@ button:not(:disabled),summary{cursor:pointer}
 
 /* 首屏恢复参考站的轻字重与较松字距。 */
 .hero h1{letter-spacing:-.02em;line-height:1.1;font-synthesis:none}
-.hero-line-left{font-family:var(--display);font-weight:250}
+.hero-line-left{font-family:var(--display);font-weight:800}
 .hero h1 strong{font-weight:800}
 
 /* 本人骑马原照抠图，透明背景，保留自然色彩。 */
