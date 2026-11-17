@@ -2,7 +2,7 @@
 (()=>{
 const figure=(file,alt,caption)=>`<figure class="article-figure"><img src="../../assets/${file}" alt="${alt}" loading="lazy"><figcaption>${caption}</figcaption></figure>`;
 window.PRACTICE_NOTES={
-  'service-delivery':{mark:'SERVICE DELIVERY',format:'业务理解',tags:'客户价值 · 规模化交付',title:'从能力供给到服务交付：让价值更容易发生',deck:'能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。',visual:'covers/service-delivery-tech-site-v1.webp',body:`
+  'service-delivery':{mark:'SERVICE DELIVERY',format:'业务理解',tags:'客户价值 · 规模化交付',title:'从能力供给到服务交付：让价值更容易发生',deck:'能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。',visual:'covers/service-delivery.webp',body:`
     <p class="opening-paragraph">我越来越认为，智能客服业务不能只从模型和功能清单理解。客户是谁、为什么愿意使用，能力怎样进入真实服务，单店交付能否被复用，才是一个完整的业务问题。</p>
     <h2>先找到客户，再讨论能力</h2>
     <p>一份物流查询、加急和工单能力清单，看起来很完整。可它还没有回答：哪些商家真正需要？问题来自能力缺口、配置不足，还是服务没有进入对应场景？商家是否愿意接入，又需要投入什么？</p>
@@ -23,7 +23,7 @@ window.PRACTICE_NOTES={
     <p>我希望面向商家的诊断与运营工具连接一条路径：识别问题，提供证据，解释建议，经过授权完成配置，再检查生效与结果。已经开启的能力不应反复推荐，无法确认的事实应继续核验。</p>
     <p>采纳建议与证明建议有效之间，还隔着版本、生效范围和验证设计。不能把采纳前后的简单变化，直接写成建议带来的收益。</p>
     <p class="essay-ending">我理解的增长，是让商家更容易理解、使用和验证价值，也让每次交付少一些不可复用的工作。</p>`},
-  'evidence-to-action':{mark:'EVIDENCE TO ACTION',format:'工作方法',tags:'证据 · 需求 · 验证',title:'把判断变成可验证的行动',deck:'研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。',visual:'covers/evidence-to-action-tech-site-v1.webp',body:`
+  'evidence-to-action':{mark:'EVIDENCE TO ACTION',format:'工作方法',tags:'证据 · 需求 · 验证',title:'把判断变成可验证的行动',deck:'研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。',visual:'covers/evidence-to-action.webp',body:`
     <p class="opening-paragraph">我曾在一版研究里看到自己的问题被扩写成了完整章节，却没有得到答案。我又强调了一次：“这是我提出的问题，不是让你又描述一遍。”</p>
     <p>这句话也提醒我：报告、PRD、对比表和 Demo 是承载判断的形式。开始工作前，更值得先问，谁要据此做什么决定，什么证据能支持决定，哪些未知会改变选择。</p>
     <h2>研究的对象，要具体到机制</h2>
@@ -50,7 +50,7 @@ window.PRACTICE_NOTES={
     <p>验证要落到最终产物：脚本没报错，不等于没有重复计数；文档保存了，不等于正文没遗漏；页面能打开，也不等于排版没有溢出。</p>
     <p>沉淀方法时，除了结果，还要保留适用条件、被推翻的解释、异常处理与核验办法。下一次才能知道方法为什么这样设计，什么时候需要重新检查。</p>
     <p class="essay-ending">生成越来越容易。我的注意力，更应该留给事实是否成立、行动是否发生，以及结果怎样被确认。</p>`},
-  'agent-work-system':{mark:'SERVICE AGENT',format:'任务拆解',tags:'售后 · 判责 · 可信闭环',title:'售后 Agent 的价值，是让事情真正往前走',deck:'会解释、能执行、能判责与能闭环，是四个不同的产品问题。',visual:'covers/agent-work-system-tech-site-v1.webp',body:`
+  'agent-work-system':{mark:'SERVICE AGENT',format:'任务拆解',tags:'售后 · 判责 · 可信闭环',title:'售后 Agent 的价值，是让事情真正往前走',deck:'会解释、能执行、能判责与能闭环，是四个不同的产品问题。',visual:'covers/agent-work-system.webp',body:`
     <p class="opening-paragraph">“已帮您催促”不等于创建了催办记录；展示预约入口，不等于完成预约；收集完凭证，也不等于完成责任判断。</p>
     <p>用户问的是一句话，产品要处理的是一件事。我更愿意把售后 Agent 理解为：在适用规则与商家授权内，基于可核验事实，完成下一步，并让处理状态能够被查询和接续。</p>
     <h2>先分清当前承担哪一段任务</h2>
