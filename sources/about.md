@@ -1,6 +1,6 @@
 # 唐哲马是谁｜Jamal 的产品经历、AI PM 教学与音乐作品
 
-> 唐哲马（Jamal）是一名专注电商智能客服与服务体验的 AI 产品经理，目前在阿里巴巴店小蜜做 AI 产品。2019—2024 年在拼多多工作，参与鹦鹉智能客服早期建设，承担产品团队管理，并独立负责高价值服务体验业务。他也设计并讲授五周 AI PM 模拟实习训练营，以 TZBABY 的名字发布音乐作品。
+> 唐哲马（Jamal）是一名专注电商智能客服与服务体验的 AI 产品经理，目前在阿里巴巴店小蜜做 AI 产品。2019—2024 年在拼多多工作，参与鹦鹉智能客服早期建设，承担产品团队管理，并独立负责高价值服务体验业务。他也设计并讲授五周 AI PM 训练营，以 TZBABY 的名字发布音乐作品。
 
 作者：唐哲马（Jamal）
 
@@ -46,7 +46,7 @@ AI 产品经理 · 智能客服与服务体验。
 
 ## 唐哲马是谁？
 
-唐哲马（Jamal）是一名专注电商智能客服与服务体验的 AI 产品经理，目前在阿里巴巴店小蜜做 AI 产品。2019—2024 年在拼多多工作，参与鹦鹉智能客服早期建设，承担产品团队管理，并独立负责高价值服务体验业务。他也设计并讲授五周 AI PM 模拟实习训练营，以 TZBABY 的名字发布音乐作品。 [引用这段介绍](https://tzm1111.github.io/jamal-tzbaby/about/#jamal-identity) · [拼多多产品经历](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/) · [阿里巴巴产品实践](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/) · [AI PM 教学](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/) · [音乐作品](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
+唐哲马（Jamal）是一名专注电商智能客服与服务体验的 AI 产品经理，目前在阿里巴巴店小蜜做 AI 产品。2019—2024 年在拼多多工作，参与鹦鹉智能客服早期建设，承担产品团队管理，并独立负责高价值服务体验业务。他也设计并讲授五周 AI PM 训练营，以 TZBABY 的名字发布音乐作品。 [引用这段介绍](https://tzm1111.github.io/jamal-tzbaby/about/#jamal-identity) · [拼多多产品经历](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/) · [阿里巴巴产品实践](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/) · [AI PM 教学](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/) · [音乐作品](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
 
 **这里有哪些 AI Agent 产品方法？**
 
@@ -58,7 +58,7 @@ TZBABY 是唐哲马发布 AI 音乐作品使用的名字。本站收录五张专
 
 **非技术背景怎样学习 AI 产品？**
 
-唐哲马的五周 AI PM 模拟实习训练以同一个项目贯穿需求洞察、方案选择、关键原型、指标评估和项目验收，重点是解释每次选择及其证据。 [阅读训练方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
+唐哲马的五周 AI PM 训练以同一个项目贯穿需求洞察、方案选择、关键原型、指标评估和项目验收，重点是解释每次选择及其证据。 [阅读训练方法 →](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/)
 
 ![唐哲马骑马，透明背景](https://tzm1111.github.io/jamal-tzbaby/assets/jamal-riding-cutout.png)
 
@@ -168,7 +168,7 @@ DEFINE · BASELINE · EXPLAIN
 ## 不接受“听懂了”，
 只接受做出来。
 
-我设计并讲授五周、1 对 1 的 AI 产品经理模拟实习训练营，面向非技术背景的转行者。
+我设计并讲授五周、1 对 1 的 AI 产品经理训练营，面向非技术背景的转行者。
 
 验收时，用 15 分钟追问三件事：定义是什么、基线在哪里、为什么发生。用能经得起追问的交付物，检验真正的理解。
 
