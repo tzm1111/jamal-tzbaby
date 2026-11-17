@@ -26,6 +26,8 @@
 
 - [立项前，先写清楚失败长什么样](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#section-03)
 
+- [这套判断，来自服务产品实践](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/#pdd-practice-heading)
+
 如果一个模型能识别“退款意图”，是否意味着它已经能处理退款？我的答案是：还没有。识别出用户说了什么，只解决了服务链路的开头。
 
 一个常见售后例子
@@ -66,5 +68,11 @@
 AI 应该出现在哪里，答案往往藏在业务里最容易被省略的那一步。
 
 [把能力变成可交付的价值 →](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/)[让判断进入可验证的行动 →](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/)
+
+## 这套判断，来自服务产品实践
+
+在拼多多参与鹦鹉智能客服与消费者服务体验产品建设时，我需要把模型识别、知识、工具与服务策略连接起来。用户问题被识别出来之后，还要进入合适的处理路径，并得到结果反馈。这段经历让我持续关注：理解用户、选择动作和确认结果，分别需要什么依据。
+
+[查看鹦鹉智能客服案例 →](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/#parrot)
 
 [← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)

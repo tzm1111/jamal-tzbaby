@@ -18,7 +18,7 @@ const entries=[
  {city:1,year:'初中 · 高中',code:'GANSU / SCHOOL YEARS',word:'LANZHOU',eyebrow:'02 / SCHOOL YEARS',heading:'兰州',summary:'初中 · 高中',pos:[18,40],art:'school'},
  {city:2,year:'大学预科',code:'HEBEI / PREPARATORY',word:'BEIDAIHE',eyebrow:'03 / PREPARATORY',heading:'河北 · 北戴河',summary:'大学预科',pos:[18,40],art:'coast'},
  {city:3,year:'2019',code:'NPU / 2019',word:'XI’AN',eyebrow:'04 / UNIVERSITY',heading:'西北工业大学',summary:'能源与动力工程学士 · 2019 毕业',pos:[26,39],art:'school'},
- {city:4,year:'2019—2024',code:'PINDUODUO / PRODUCT',word:'SHANGHAI',eyebrow:'05 / SERVICE & EXPERIENCE',heading:'拼多多',summary:'智能客服产品负责人 · 消费者服务体验',pos:[22,39],art:'city'},
+ {city:4,year:'2019—2024',code:'PINDUODUO / PRODUCT',word:'SHANGHAI',eyebrow:'05 / SERVICE & EXPERIENCE',heading:'拼多多',summary:'智能客服 · 服务体验 · 团队管理',pos:[22,39],art:'city'},
  {city:4,year:'2019—2024',dive:true},
  {city:5,year:'现在',code:'ALIBABA / AI AGENT',word:'HANGZHOU',eyebrow:'06 / BUSINESS FIRST',heading:'阿里巴巴 · 店小蜜',summary:'AI 产品经理 · 商家 AI 客服智能体',pos:[22,39],art:'city'}
 ];

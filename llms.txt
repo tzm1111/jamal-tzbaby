@@ -1,12 +1,12 @@
 # Jamal · 唐哲马
 
-> 唐哲马（Jamal）的个人网站，收录 AI 产品、智能客服、售后 Agent、服务交付与产品判断文章，以及以 TZBABY 名字发布的 AI 音乐作品。
+> 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。 本站还收录产品方法文章与 TZBABY 音乐作品。
 
 Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tzm1111.github.io/jamal-tzbaby/about/)为准。业务文章是作者的个人方法与观察，不代表公司官方政策。引用时请注明作者、文章标题和 HTML 原文链接；页面更新日期不代表文章首次创作日期。
 
 ## 作者与主页
-- [唐哲马 Jamal｜AI 产品经理、Agent 实践与 TZBABY 音乐](https://tzm1111.github.io/jamal-tzbaby/): 唐哲马（Jamal）的个人主页：阿里巴巴店小蜜 AI 产品、拼多多智能客服经历，售后 Agent、服务交付与产品判断文章，以及以 TZBABY 名义发布的 AI 音乐作品。
-- [关于唐哲马 Jamal｜AI 产品经历与个人作品](https://tzm1111.github.io/jamal-tzbaby/about/): 唐哲马（Jamal）的公开产品经历与个人作品档案：阿里巴巴店小蜜 AI 产品、2019—2024 年拼多多智能客服与消费者服务体验，以及音乐、品牌实验和 AI 产品教学。
+- [唐哲马 Jamal｜AI 产品经理、智能客服与服务体验](https://tzm1111.github.io/jamal-tzbaby/): 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
+- [关于唐哲马 Jamal｜智能客服、服务体验与产品经历](https://tzm1111.github.io/jamal-tzbaby/about/): 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
 
 ## 文章与方法
 - [售后 Agent 的价值，是让事情真正往前走 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/): 会解释、能执行、能判责与能闭环，是四个不同的产品问题。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-agent-work-system.md)
@@ -20,7 +20,7 @@ Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tz
 
 ## 项目与音乐
 - [阿里巴巴 AI 客服Agent — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/): 用户带着一件要处理的事来。产品要证明事情怎样往前走。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-dianxiaomi-agent.md)
-- [拼多多 智能客服系统 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/): 从 0 到 1 做智能客服，也从单个功能走向完整的服务产品。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-parrot-service.md)
+- [拼多多智能客服与服务体验 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/): 从参与鹦鹉智能客服的早期建设，到管理产品团队、独立负责高价值服务体验，连接消费者诉求、服务策略与业务系统。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-parrot-service.md)
 - [TZBABY AI 音乐作品｜五张专辑与 EP — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/): 唐哲马以 TZBABY 的名字发布的五张 AI 音乐专辑与 EP，收录 44 首曲目、专辑介绍与网易云音乐收听链接。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-tzbaby-music.md)
 - [小八 · 鹦鹉之家 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/): 先有一只鸟，才有一个品牌。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-xiaoba-home.md)
 
@@ -28,3 +28,9 @@ Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tz
 - [完整文本合集](https://tzm1111.github.io/jamal-tzbaby/llms-full.txt): 当前公开页面的 Markdown 全文。
 - [站点地图](https://tzm1111.github.io/jamal-tzbaby/sitemap.xml): 规范 HTML 页面地址。
 - [文章订阅](https://tzm1111.github.io/jamal-tzbaby/feed.xml): 原创文章入口。
+
+## 拼多多代表案例
+- [鹦鹉智能客服：模型、知识与服务策略](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/#parrot)
+- [高价值服务与护航：持续跟进与团队交付](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/#high-value)
+- [物流服务与智能工单：多方协作与处理反馈](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/#logistics)
+- [体验治理与自助解决：问题管理、配置与发布](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/#self-service)

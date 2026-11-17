@@ -1,6 +1,6 @@
-# 唐哲马 Jamal｜AI 产品经理、Agent 实践与 TZBABY 音乐
+# 唐哲马 Jamal｜AI 产品经理、智能客服与服务体验
 
-> 唐哲马（Jamal）的个人主页：阿里巴巴店小蜜 AI 产品、拼多多智能客服经历，售后 Agent、服务交付与产品判断文章，以及以 TZBABY 名义发布的 AI 音乐作品。
+> 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
 
 作者：唐哲马（Jamal）
 
@@ -14,7 +14,7 @@ JAMAL  /  AI 产品经理 · 阿里巴巴 · 拼多多 · 业务翻译者 ·
 
 **AI where it matters.**
 
-我是唐哲马（Jamal），一名 AI 产品经理。懂业务的人，才知道 AI 该用在哪。从用户要办的事出发，把事实、规则与行动连起来，再用真实结果验证价值。
+我是唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。从消费者诉求到服务系统，从产品判断到团队交付，用真实结果验证价值。
 
 [看看 Vibe ↓](https://tzm1111.github.io/jamal-tzbaby/#projects)
 [读我的思考 →](https://tzm1111.github.io/jamal-tzbaby/#notes)
@@ -37,15 +37,15 @@ VIBE
 安装咨询、质量判责、工单接续。看我如何区分执行、授权和完成，让服务真正往前走。
 
 AI Agent电商客服产品策略](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/)
-[PRODUCT · 0 TO 102
+[PRODUCT · SERVICE EXPERIENCE02
 
-![](https://tzm1111.github.io/jamal-tzbaby/assets/parrot-system.svg)
+![](https://tzm1111.github.io/jamal-tzbaby/assets/pdd-service-system.svg)
 
-### 拼多多智能客服系统
+### 拼多多 · 智能客服与服务体验
 
-2019—2024，上海。从一句“怎么还没到”，看智能客服如何连接表达、判断和服务行动。
+从参与鹦鹉智能客服的早期建设，到管理产品团队、独立负责高价值服务体验，连接消费者诉求、服务策略与业务系统。
 
-0 to 1智能客服消费者体验](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/)
+智能客服服务体验团队管理](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/)
 [CREATIVE · BRAND03
 
 ![](https://tzm1111.github.io/jamal-tzbaby/assets/xiaoba-brand.svg)
@@ -188,7 +188,7 @@ ABOUT
 
 我是唐哲马，在阿里巴巴店小蜜做 AI 产品。关注售后、发货物流、商家配置与辅助服务——能力怎样被允许执行，结果怎样被确认。
 
-2019 至 2024 年，我在拼多多负责智能客服与消费者服务体验产品，并从 0 到 1 搭建鹦鹉智能客服系统。
+在拼多多，我参与鹦鹉智能客服的早期产品建设，随后承担产品团队管理，并独立负责高价值服务体验业务。经历覆盖消费者服务、物流协作、智能工单与自助解决平台。
 
 我把自己看作业务与 AI 之间的翻译者：先问清楚要支持什么判断，再建立证据、拆开场景，让结论进入可执行和可验证的行动。工作之外，我以 TZBABY 的名字发布 AI 音乐专辑，也做播客、品牌实验，教授 AI 产品实战。
 

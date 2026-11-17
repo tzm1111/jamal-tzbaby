@@ -32,6 +32,8 @@
 
 - [让 AI 扩大执行与检查能力](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#section-06)
 
+- [在产品迭代里，让分析真正改变下一步](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/#pdd-practice-heading)
+
 我曾在一版研究里看到自己的问题被扩写成了完整章节，却没有得到答案。我又强调了一次：“这是我提出的问题，不是让你又描述一遍。”
 
 这句话也提醒我：报告、PRD、对比表和 Demo 是承载判断的形式。开始工作前，更值得先问，谁要据此做什么决定，什么证据能支持决定，哪些未知会改变选择。
@@ -98,5 +100,11 @@
 沉淀方法时，除了结果，还要保留适用条件、被推翻的解释、异常处理与核验办法。下一次才能知道方法为什么这样设计，什么时候需要重新检查。
 
 生成越来越容易。我的注意力，更应该留给事实是否成立、行动是否发生，以及结果怎样被确认。
+
+## 在产品迭代里，让分析真正改变下一步
+
+在拼多多的智能客服与服务体验工作中，我参与建设数据监控和业务问题分析机制，协同数据团队输出体验分析，并通过 A/B 测试与反馈验证产品优化。分析需要帮助团队决定优先改哪里，再连接到方案、协作与验收；它也构成了我今天这套工作方法的实践背景。
+
+[查看物流协作与工单案例 →](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/#logistics)
 
 [← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)

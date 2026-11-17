@@ -89,6 +89,8 @@ const POSTS={
     <p>不必先把自己训练成后端工程师。但要知道模型需要什么输入、工具能执行什么动作、结果怎样检查，以及什么时候需要工程师一起判断。这些知识要跟着项目使用，才能变成产品能力。</p>
     <p>验收也要检查最终产物：文档保存了，正文是否遗漏；脚本跑完了，统计是否重复；原型能打开，异常路径是否有出口。讨论里说清楚的条件，需要进入需求与验收。</p><p>我更愿意教判断过程：同一现象为何可能有不同根因，哪些证据还不足，目标测算为何不能直接成为承诺。把没有成立的解释和失败条件也保留下来，才能复用方法。</p><p class="essay-ending">课程的终点，是能独立解释自己的选择。<br>不是交出一份“像产品经理写的”文档。</p>`}
 };
+const PDD_PRACTICE_CONTEXT={"business-first": "<section class=\"practice-context\" id=\"pdd-practice\"><h2 id=\"pdd-practice-heading\">这套判断，来自服务产品实践</h2><p>在拼多多参与鹦鹉智能客服与消费者服务体验产品建设时，我需要把模型识别、知识、工具与服务策略连接起来。用户问题被识别出来之后，还要进入合适的处理路径，并得到结果反馈。这段经历让我持续关注：理解用户、选择动作和确认结果，分别需要什么依据。</p><a class=\"case-related\" href=\"../../projects/parrot-service/#parrot\">查看鹦鹉智能客服案例 →</a></section>", "service-delivery": "<section class=\"practice-context\" id=\"pdd-practice\"><h2 id=\"pdd-practice-heading\">从消费者服务，到方案维护平台</h2><p>在拼多多的服务体验工作中，我参与过智能客服建设，也负责过服务跟进、自助解决与内部问题管理能力的产品设计。消费者端的处理路径，和团队配置、发布、改进方案的工作方式，需要一起考虑。知识库、工具、模块编辑、权限与版本管理，让我开始从交付和持续维护的角度看产品。</p><a class=\"case-related\" href=\"../../projects/parrot-service/#self-service\">查看体验治理与自助解决案例 →</a></section>", "evidence-to-action": "<section class=\"practice-context\" id=\"pdd-practice\"><h2 id=\"pdd-practice-heading\">在产品迭代里，让分析真正改变下一步</h2><p>在拼多多的智能客服与服务体验工作中，我参与建设数据监控和业务问题分析机制，协同数据团队输出体验分析，并通过 A/B 测试与反馈验证产品优化。分析需要帮助团队决定优先改哪里，再连接到方案、协作与验收；它也构成了我今天这套工作方法的实践背景。</p><a class=\"case-related\" href=\"../../projects/parrot-service/#logistics\">查看物流协作与工单案例 →</a></section>"};
+for(const [slug,markup] of Object.entries(PDD_PRACTICE_CONTEXT)){const entry=(window.PRACTICE_NOTES||{})[slug]||POSTS[slug];if(entry)entry.body+=markup;}
 Object.assign(POSTS,window.PRACTICE_NOTES||{});
 const slug=document.body.dataset.slug,post=POSTS[slug];
 if(!post)throw new Error('文章不存在');

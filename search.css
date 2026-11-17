@@ -20,3 +20,8 @@ body:not(.detail-page):not(.project-page) main>.source-links{width:calc(100% - 9
 
 
 .story-page .profile-reference{padding:20px 0 0}.story-page .profile-disclosure{width:100%}.story-page .profile-disclosure>summary{font-size:13px}.story-page .profile-questions summary{font-size:14px}
+
+/* 拼多多职责与案例 */
+.pdd-milestones{list-style:none;margin:24px 0 0;padding:0;border-top:1px solid var(--line)}.pdd-milestones li{display:grid;grid-template-columns:42px 1fr;gap:14px;padding:13px 0;border-bottom:1px solid var(--line);font-size:11px;line-height:1.75}.pdd-milestones time{color:var(--accent);font-family:ui-monospace,monospace}.pdd-milestones span{color:var(--muted)}
+.case-parrot-service .project-hero h1{font-size:clamp(42px,5.1vw,70px);line-height:1.08;letter-spacing:-.04em}.case-parrot-service .case-section.pdd-case{display:block}.pdd-case-layout{display:grid;grid-template-columns:1fr 1fr;gap:64px}.pdd-case-layout h3{font-size:18px;margin:24px 0 12px}.pdd-case-layout p,.pdd-case-layout li{font-size:16px}.pdd-case-layout ul{padding-left:20px}.pdd-case-layout li{margin-bottom:12px}.pdd-case-nav{display:flex;flex-wrap:wrap;gap:12px 24px;padding:10px 0 38px;font-size:12px;color:var(--muted)}.pdd-case-nav a:hover{color:var(--paper)}.practice-context{padding-top:30px;margin-top:42px;border-top:1px solid var(--line)}.practice-context h2{margin-top:0}.practice-context .case-related{color:var(--accent);font-size:14px}
+@media(max-width:760px){.pdd-case-layout{grid-template-columns:1fr;gap:4px}.pdd-case-nav{gap:14px;font-size:11px}.pdd-milestones li{font-size:10px;gap:10px}.pdd-case-layout p,.pdd-case-layout li{font-size:15px}}

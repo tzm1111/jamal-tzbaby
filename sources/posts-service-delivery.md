@@ -30,6 +30,8 @@
 
 - [诊断的终点，不是一份报告](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#section-08)
 
+- [从消费者服务，到方案维护平台](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/#pdd-practice-heading)
+
 我越来越认为，智能客服业务不能只从模型和功能清单理解。客户是谁、为什么愿意使用，能力怎样进入真实服务，单店交付能否被复用，才是一个完整的业务问题。
 
 ## 先找到客户，再讨论能力
@@ -92,5 +94,11 @@
 采纳建议与证明建议有效之间，还隔着版本、生效范围和验证设计。不能把采纳前后的简单变化，直接写成建议带来的收益。
 
 我理解的增长，是让商家更容易理解、使用和验证价值，也让每次交付少一些不可复用的工作。
+
+## 从消费者服务，到方案维护平台
+
+在拼多多的服务体验工作中，我参与过智能客服建设，也负责过服务跟进、自助解决与内部问题管理能力的产品设计。消费者端的处理路径，和团队配置、发布、改进方案的工作方式，需要一起考虑。知识库、工具、模块编辑、权限与版本管理，让我开始从交付和持续维护的角度看产品。
+
+[查看体验治理与自助解决案例 →](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/#self-service)
 
 [← 返回观点列表](https://tzm1111.github.io/jamal-tzbaby/#notes)[完整档案 →](https://tzm1111.github.io/jamal-tzbaby/about/)
