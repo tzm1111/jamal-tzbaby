@@ -1,0 +1,22 @@
+/* 文章封面保留生成图片的光线与主题色。 */
+.note-cover.editorial-art > img {
+  filter: saturate(.9) contrast(1.03) brightness(1.08);
+  object-position: center;
+}
+.note-row:hover .note-cover.editorial-art > img {
+  filter: saturate(1) contrast(1.03) brightness(1.12);
+}
+.note-cover.editorial-art::before {
+  background: linear-gradient(transparent 62%, rgba(11, 10, 9, .16));
+}
+.note-cover.editorial-art::after {
+  opacity: .04;
+}
+.article-cover.editorial-art {
+  aspect-ratio: 16 / 9;
+  max-height: none;
+}
+.article-cover.editorial-art > img {
+  filter: saturate(.95) contrast(1.02) brightness(1.06);
+  object-position: center;
+}
