@@ -1,6 +1,6 @@
 const figure=(file,alt,caption)=>`<figure class="article-figure"><img src="../../assets/${file}" alt="${alt}" loading="lazy"><figcaption>${caption}</figcaption></figure>`;
 const POSTS={
-  'business-first':{mark:'BUSINESS FIRST',format:'场景笔记',tags:'业务判断 · AI 产品',title:'懂业务的人，才知道 AI 该用在哪',deck:'“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。',visual:'covers/business-first.webp',body:`
+  'business-first':{mark:'BUSINESS FIRST',format:'场景笔记',tags:'业务判断 · AI 产品',title:'懂业务的人，才知道 AI 该用在哪',deck:'“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。',visual:'covers/business-first-tech-site-v1.webp',body:`
     <p class="opening-paragraph">如果一个模型能识别“退款意图”，是否意味着它已经能处理退款？我的答案是：还没有。识别出用户说了什么，只解决了服务链路的开头。</p>
     <div class="case-dialogue"><span>一个常见售后例子</span><p>“东西还没收到，我想退款。”</p></div>
     <p>这句话可以进入完全不同的路径。订单尚未发货，需要确认取消规则；已经在运输中，需要核对拦截或拒收流程；显示已签收，用户却说没收到，则需要先处理状态冲突。用户表达相同，产品动作不同。</p>
@@ -16,7 +16,7 @@ const POSTS={
     <p>只写成功 Demo，很容易漏掉关键条件。对于退款任务，错误承诺、读取过期状态、执行没有完成却宣告成功，都是不同的失败。定义这些失败之后，才知道要补哪些验证和恢复路径。</p>
     <p>“懂业务”不是会使用行业术语，而是能辨认这些差异。我的工作是把差异变成产品结构：什么时候获取事实，什么时候做判断，什么时候行动，以及结果如何被确认。</p>
     <p>我也会把能力存在、商家开启、真实触发、执行成功和任务解决分开。高咨询量不自动代表高改善空间，低接待量也不证明需求少。需要理解服务进入了哪里，为什么没有进入，以及什么条件会改变结果。</p><p class="essay-ending">AI 应该出现在哪里，答案往往藏在业务里最容易被省略的那一步。</p><div class="action-links"><a href="../service-delivery/">把能力变成可交付的价值 →</a><a href="../evidence-to-action/">让判断进入可验证的行动 →</a></div>`},
-  'decagon-lessons':{mark:'DECAGON',format:'产品观察',tags:'Agent · 产品研究',title:'我从 Decagon 学到的，不是产品功能',deck:'我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。',visual:'covers/decagon-lessons.webp',body:`
+  'decagon-lessons':{mark:'DECAGON',format:'产品观察',tags:'Agent · 产品研究',title:'我从 Decagon 学到的，不是产品功能',deck:'我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。',visual:'covers/decagon-lessons-tech-site-v1.webp',body:`
     <p class="opening-paragraph">看一个 Agent 产品，我会先问：上线之后，业务规则变了，谁来改？如果一个小变化还要在业务、产品和工程之间反复翻译，团队就很难持续经营它的行为。</p>
     <h2>AOP 让工作流成为可维护的东西</h2>
     <p>Decagon 的 <a href="https://decagon.ai/product/aop" target="_blank" rel="noreferrer">Agent Operating Procedures</a> 把自然语言流程与代码控制结合在一起。它吸引我的地方，是业务流程可以被阅读、检查和修改，同时保留工程上的控制能力。</p>
@@ -29,7 +29,7 @@ const POSTS={
     <div class="article-table-wrap"><table><thead><tr><th>可以借鉴</th><th>需要重新定义</th></tr></thead><tbody><tr><td>自然语言表达工作流程</td><td>哪些条件允许进入协商或处理</td></tr><tr><td>修改后先测试与回放</td><td>本场景里的典型失败和异常样本</td></tr><tr><td>用轨迹解释 Agent 行为</td><td>订单、知识与工具返回之间的证据关系</td></tr></tbody></table></div>
     <p>关键阈值还需要校准。我不会把“流程能写出来”当作“流程已经可以稳定运行”。产品能力应该让业务判断更清晰，而不是让复杂判断藏在更漂亮的配置界面里。</p>
     <p class="essay-ending">功能可以被复制。持续拥有和改进 Agent 行为的方式，更值得研究。</p>`},
-  'ai-drama-business':{mark:'AI DRAMA',format:'商业评论',tags:'内容生意 · AI 短剧',title:'AI 短剧真的赚钱吗？',deck:'生成便宜了，但观众没有因此多出一小时。',visual:'covers/ai-drama-business.webp',body:`
+  'ai-drama-business':{mark:'AI DRAMA',format:'商业评论',tags:'内容生意 · AI 短剧',title:'AI 短剧真的赚钱吗？',deck:'生成便宜了，但观众没有因此多出一小时。',visual:'covers/ai-drama-business-tech-site-v1.webp',body:`
     <p class="opening-paragraph">“一个人也能做短剧”解决的是生产资格，不是赚钱资格。我研究 AI 短剧时，最想拆开的就是这两个常被混在一起的问题。</p>
     <p>画面生成更快、团队可以更小，这些变化确实有意义。但观众是否点开、是否看完、是否愿意继续看，仍然取决于内容和分发。制作成本下降，并不会自动提高一部作品的吸引力。</p>
     <div class="economic-equation"><span>一门内容生意</span><p>收入 − 制作 − 分发 − 返工</p><small>成本里省下的一部分，不能直接当作利润。</small></div>
@@ -44,7 +44,7 @@ const POSTS={
     <p>先确定题材和受众，再做一个有限的内容实验。观察开头是否能留住人、人物是否值得继续看、同一题材能否稳定产出。把制作与分发的实际投入记下来，避免用想象中的成功作品摊薄失败成本。</p>
     <p>我更看重能否解释一次失败：是选题没有吸引力，还是故事推进慢，或者分发没有触达？这些结论能改变下一部作品，才构成可复用的内容能力。</p>
     <p class="essay-ending">我对这门生意的判断仍然谨慎。会出现成功者，但“人人能制作”远远不等于“人人能赚钱”。</p>`},
-  'agent-work-system':{mark:'AGENT',format:'工作手册',tags:'任务设计 · Agent 实践',title:'把 AI 当同事之前，先给它一套工作系统',deck:'以“处理退差价”为例，写一份能执行、能停止、能验收的任务说明。',visual:'covers/agent-work-system.webp',body:`
+  'agent-work-system':{mark:'AGENT',format:'工作手册',tags:'任务设计 · Agent 实践',title:'把 AI 当同事之前，先给它一套工作系统',deck:'以“处理退差价”为例，写一份能执行、能停止、能验收的任务说明。',visual:'covers/agent-work-system-tech-site-v1.webp',body:`
     <p class="opening-paragraph">“帮用户处理退差价”看起来是一项清楚的任务。真正开始执行时，问题才出现：哪一笔订单？价格变化是否适用？谁允许处理？工具失败后能不能再试？</p>
     <p>给 Agent 一个目标，还需要给它一份工作说明书。下面用一个通用退差价任务，拆开最容易遗漏的内容。</p>
     <div class="task-sheet"><div class="task-sheet-head"><span>TASK BRIEF</span><h2>处理退差价</h2></div><dl><div><dt>目标</dt><dd>判断诉求是否符合适用规则；符合时完成获授权的处理，并确认结果。</dd></div><div><dt>输入</dt><dd>订单、当前价格、适用规则和商家授权。订单与价格需要重新读取，不能只依赖历史对话。</dd></div><div><dt>行动</dt><dd>查询事实、补问缺失信息、核对条件、执行处理、检查返回结果。</dd></div><div><dt>停止</dt><dd>规则冲突、授权不足、状态不明，或无法确认前一次执行结果时，进入确认或转交。</dd></div><div><dt>完成</dt><dd>业务结果可确认，并准确告知用户。只调用了工具，不能直接算完成。</dd></div></dl></div>
@@ -58,7 +58,7 @@ const POSTS={
     <h2>验收至少覆盖三条路径</h2>
     <ul class="acceptance-list"><li><strong>条件齐全</strong>可以处理，并正确确认结果。</li><li><strong>条件不适用</strong>解释原因，给出可行的后续方式。</li><li><strong>执行异常</strong>不误报成功，不盲目重复操作，保留接续信息。</li></ul>
     <p class="essay-ending">先让一项任务在正常和异常路径里都说得清楚，再扩大 Agent 的覆盖面。</p>`},
-  'why-build-aurora':{mark:'AURORA',format:'创造手记',tags:'音乐 · 个人实验',title:'为什么我仍然自己做 AI 音乐播放器',deck:'我想保留一块地方，让细小的感受也值得认真处理。',visual:'covers/why-build-aurora.webp',body:`
+  'why-build-aurora':{mark:'AURORA',format:'创造手记',tags:'音乐 · 个人实验',title:'为什么我仍然自己做 AI 音乐播放器',deck:'我想保留一块地方，让细小的感受也值得认真处理。',visual:'covers/why-build-aurora-tech-site-v1.webp',body:`
     <p class="opening-paragraph">世界上不缺音乐播放器。缺的也许是一个完全按自己的感受搭起来的小空间。</p>
     <p>我喜欢看声音怎样变成画面：低频推开一圈频谱，波形跟着振幅起伏，粒子在屏幕里留下呼吸感。这些细节不一定改变听歌效率，却能改变“正在听音乐”的感觉。</p>
     <p>所以 Aurora 的起点不是多做一张歌曲列表。我想把城市天气、当下心情、封面颜色和声音放在一起，看它们能否组成一个有氛围的界面。</p>
@@ -71,23 +71,32 @@ const POSTS={
     <div class="listening-note"><span>一个交互细节</span><p>播放器留在底部。<br>浏览和对话可以变化，正在听的音乐不用重新开始。</p></div>
     <p>另一部分是普通但不可少的功能：播放进度、音量、队列、收藏、本地 MP3 与 LRC 歌词导入。它们让氛围有了可以日常使用的骨架。</p>
     <h2>限制，会把注意力拉回来</h2>
-    <p>演示音频由 Web Audio 在浏览器本地合成，不依赖外部音源 CDN。少了现成歌曲的帮助，就要直接面对音色、节奏和层次的问题。</p>
+    <p>试听版使用预先编排、离线渲染的完整音频文件，不依赖外部音源 CDN。旋律、音色与动态需要先被认真处理，画面才有值得回应的声音。</p>
     <p>这种限制也让我发现，界面的流畅感经常出现在第一次使用里：用户点击播放时有没有响应，声音开始的瞬间画面是否跟上，切换视图有没有打断听感。我仍然在打磨这些衔接。</p>
     <p>做兴趣项目，不必每次都证明一个市场机会。它让我能把一个模糊的感受，变成一个可以打开、可以使用、也可以继续改的东西。</p>
     <p class="essay-ending">听一会儿音乐，改一点画面。<br>这就是 Aurora 继续生长的方式。</p>
     <a class="inline-related" href="../../projects/tzbaby-music/">听听我以 TZBABY 的名字发布的音乐 →</a>`},
-  'learn-ai-pm':{mark:'AI PM',format:'教学实战',tags:'模拟实习 · 产品训练',title:'非技术背景，怎么真正学会做 AI 产品',deck:'五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。',visual:'covers/learn-ai-pm.webp',body:`
-    <p class="opening-paragraph">学员交来一份完整 PRD，我并不会立刻认为他学会了。文字可以被润色，结构可以被套用。更有区分度的问题是：为什么这样选？如果证据换了，方案还成立吗？</p>
-    <p>我的五周 1 对 1 AI PM 模拟实习训练营，让同一个项目贯穿需求、方案、原型和评估。下一次交付必须使用上一次的判断，避免作业各自漂亮，却接不到一起。</p>
-    <h2>每周，都给下一周留下一个东西</h2>
-    <ol class="course-weeks"><li><span>WEEK 01</span><div><h3>找到值得解决的问题</h3><p>交付需求洞察。分开用户的表达、真实问题和已有处理方式，说明为什么值得做。</p></div></li><li><span>WEEK 02</span><div><h3>做方案，也做取舍</h3><p>交付方案选择。保留替代方案，说明哪些环节使用模型，哪些使用规则或人工确认。</p></div></li><li><span>WEEK 03</span><div><h3>让判断变成可操作的原型</h3><p>交付关键路径。用户怎么进入、系统怎么反馈、异常时如何接续，都要在界面里看得见。</p></div></li><li><span>WEEK 04</span><div><h3>给结果一把尺子</h3><p>交付指标与评估。明确分子、分母、基线和数据来源，写清楚哪些变化能支持产品判断。</p></div></li><li><span>WEEK 05</span><div><h3>解释完整项目</h3><p>交付项目总结并参加验收。把问题、选择、证据和结果接成一条完整的链路。</p></div></li></ol>
-    <h2>十五分钟，不问背了多少名词</h2>
-    <p>我围绕一个指标做三层追问。下面用“任务完成率”演示这套验收方式。</p>
-    <div class="interview"><details open><summary><b>01</b> 定义是什么？</summary><p>什么算完成？部分完成算不算？一次对话有多个诉求时，以哪个任务为单位？如果分母含混，后面的数字就无法解释。</p></details><details><summary><b>02</b> 基线在哪里？</summary><p>与什么结果比较？比较的是同一批任务、同一段流程和同一种条件吗？没有可比基线，变化不能直接归因给新方案。</p></details><details><summary><b>03</b> 为什么发生？</summary><p>是模型判断改善、知识补齐，还是任务构成发生变化？能不能找到支持解释的样本，以及不支持解释的样本？</p></details></div>
-    <p>真正做过判断的人，不一定回答得很顺，却能说出证据在哪里、当时放弃了什么、还有什么没有验证。只背过文档的人，常常会在第二层停住。</p>
-    <h2>非技术背景，先补判断接口</h2>
-    <p>不必先把自己训练成后端工程师。但要知道模型需要什么输入、工具能执行什么动作、结果怎样检查，以及什么时候需要工程师一起判断。这些知识要跟着项目使用，才能变成产品能力。</p>
-    <p>验收也要检查最终产物：文档保存了，正文是否遗漏；脚本跑完了，统计是否重复；原型能打开，异常路径是否有出口。讨论里说清楚的条件，需要进入需求与验收。</p><p>我更愿意教判断过程：同一现象为何可能有不同根因，哪些证据还不足，目标测算为何不能直接成为承诺。把没有成立的解释和失败条件也保留下来，才能复用方法。</p><p class="essay-ending">课程的终点，是能独立解释自己的选择。<br>不是交出一份“像产品经理写的”文档。</p>`}
+  'learn-ai-pm':{mark:'AI PM',format:'教学实战',tags:'五周训练 · 交付与答辩',title:"我如何设计一套五周 AI PM 实战训练",deck:"同一个项目贯穿五周，用具体交付与答辩，检查每次选择是否真正想过。",visual:'covers/learn-ai-pm-tech-site-v1.webp',body:`
+<p class="opening-paragraph">学员交来一份完整 PRD，我并不会立刻认为他学会了。更有区分度的问题是：为什么这样选？如果证据换了，方案还成立吗？</p>
+<p>我的五周、1 对 1 AI PM 模拟实习训练，面向非技术背景的学习者。我让同一个项目贯穿需求、方案、原型和评估，下一次交付必须使用上一次的判断。课程安排的重点，是让知识在一段完整的产品工作里被调用。</p>
+<h2 id="section-01">每周，都给下一周留下一个东西</h2>
+<p>下面是五周训练的主线。验收问题用来检查交付，也帮助学员发现下一轮需要补什么。</p>
+<ol class="course-weeks"><li><span>WEEK 01</span><div><h3>找到值得解决的问题</h3><p><strong>任务与交付：</strong>整理需求洞察，区分用户表达、真实问题与已有处理方式。</p><p><strong>验收问题：</strong>谁卡在什么地方？为什么值得做？需求里是否已经偷偷预设了方案？</p></div></li><li><span>WEEK 02</span><div><h3>做方案，也做取舍</h3><p><strong>任务与交付：</strong>形成需求方案，保留替代路径，说明模型、规则与人工的分工。</p><p><strong>验收问题：</strong>为什么选这条路径？本期不做什么？关键事实与动作依赖什么？</p></div></li><li><span>WEEK 03</span><div><h3>让判断变成可操作的原型</h3><p><strong>任务与交付：</strong>做出关键路径，把进入、反馈、退出与异常接续放进界面。</p><p><strong>验收问题：</strong>用户拒绝或工具失败时怎么办？页面承诺与实际执行状态是否一致？</p></div></li><li><span>WEEK 04</span><div><h3>给结果一把尺子</h3><p><strong>任务与交付：</strong>设计指标与评估，写清定义、基线、数据来源和验证范围。</p><p><strong>验收问题：</strong>什么算完成？与什么比较？当前证据能支持多强的结论？</p></div></li><li><span>WEEK 05</span><div><h3>解释完整项目</h3><p><strong>任务与交付：</strong>整理项目总结并参加验收，把问题、方案、依据和修订过程接起来。</p><p><strong>验收问题：</strong>放弃过什么？还有什么未验证？条件改变后，应该先改哪一层？</p></div></li></ol>
+<h2 id="delivery">四种交付，检查同一套方案</h2>
+<p>在售后方案的课程设计里，我把作业拆成 PRD、Agent 架构、消费者卡片和商家后台。它们从不同位置表达同一个方案：为什么做、系统怎么判断、用户如何操作、商家如何配置。</p>
+<p>几份材料单独看都可能完整，放在一起却会暴露矛盾。需求允许用户跳过，卡片有没有出口？策略依赖商家配置，后台有没有入口？界面显示“已完成”，工具是否真的成功？这些不一致，就是下一轮修改的对象。</p>
+<p>训练顺序也需要随理解情况调整。在补强课中，我把需求设计放在数据与实验之前，先要求一份可以评审的 PRD。没有明确的验证对象，继续讲实验方法很容易变成孤立知识。先把方案讲清楚，再讨论怎样验证，知识才有落点。</p>
+<h2 id="section-07">十五分钟，追问定义、基线和原因</h2>
+<p>我会围绕一个指标做三层追问。下面用“任务完成率”演示这套验收方法。</p>
+<div class="interview"><details open><summary><b>01</b> 定义是什么？</summary><p>什么算完成？部分完成算不算？一次对话有多个诉求时，以哪个任务为单位？分母含混，后面的数字就无法解释。</p></details><details><summary><b>02</b> 基线在哪里？</summary><p>与什么比较？是否是同一类任务、同一段流程和同一种条件？没有可比基线，变化不能直接归因给新方案。</p></details><details><summary><b>03</b> 为什么发生？</summary><p>是模型判断改善、知识补齐，还是任务构成变化？有哪些支持解释的样本，又有哪些反例？暂时缺证据时，下一步怎么查？</p></details></div>
+<p>回答不必很顺，但需要指出证据在哪里、当时放弃了什么、哪些部分还没有验证。答辩用来暴露理解缺口，随后要回到方案修改。术语熟练和作品漂亮，都只能作为观察的一部分。</p>
+<h2 id="section-08">非技术背景，让知识跟着任务使用</h2>
+<p>不必先把自己训练成后端工程师。但要知道模型需要什么输入、工具能执行什么动作、结果怎样检查，以及什么时候需要工程师共同判断。</p>
+<p>这些知识可以跟着项目逐步补：设计方案时理解能力依赖，做原型时处理状态与异常，做评估时检查事实和任务结果。每补一块知识，都回到自己的交付里说明它改变了什么。</p>
+<p>我用完整项目、具体交付与追问来安排训练，也保留尚未验证的部分。五周提供的是一次系统练习，独立工作的能力仍需要在后续项目里继续检验。</p>
+<p class="essay-ending">一份自己的方案，一组说得清的依据，<br/>以及面对新条件仍能修改它的能力。</p>
+<div class="action-links"><a href="../qualified-ai-pm/">回到我对合格 AI PM 的理解 →</a><a href="../personal-ai-work-system/">训练之后，如何留下可复用的经验 →</a></div>
+`}
 };
 const PDD_PRACTICE_CONTEXT={"business-first": "<section class=\"practice-context\" id=\"pdd-practice\"><h2 id=\"pdd-practice-heading\">这套判断，来自服务产品实践</h2><p>在拼多多参与鹦鹉智能客服与消费者服务体验产品建设时，我需要把模型识别、知识、工具与服务策略连接起来。用户问题被识别出来之后，还要进入合适的处理路径，并得到结果反馈。这段经历让我持续关注：理解用户、选择动作和确认结果，分别需要什么依据。</p><a class=\"case-related\" href=\"../../projects/parrot-service/#parrot\">查看鹦鹉智能客服案例 →</a></section>", "service-delivery": "<section class=\"practice-context\" id=\"pdd-practice\"><h2 id=\"pdd-practice-heading\">从消费者服务，到方案维护平台</h2><p>在拼多多的服务体验工作中，我参与过智能客服建设，也负责过服务跟进、自助解决与内部问题管理能力的产品设计。消费者端的处理路径，和团队配置、发布、改进方案的工作方式，需要一起考虑。知识库、工具、模块编辑、权限与版本管理，让我开始从交付和持续维护的角度看产品。</p><a class=\"case-related\" href=\"../../projects/parrot-service/#self-service\">查看体验治理与自助解决案例 →</a></section>", "evidence-to-action": "<section class=\"practice-context\" id=\"pdd-practice\"><h2 id=\"pdd-practice-heading\">在产品迭代里，让分析真正改变下一步</h2><p>在拼多多的智能客服与服务体验工作中，我参与建设数据监控和业务问题分析机制，协同数据团队输出体验分析，并通过 A/B 测试与反馈验证产品优化。分析需要帮助团队决定优先改哪里，再连接到方案、协作与验收；它也构成了我今天这套工作方法的实践背景。</p><a class=\"case-related\" href=\"../../projects/parrot-service/#logistics\">查看物流协作与工单案例 →</a></section>"};
 for(const [slug,markup] of Object.entries(PDD_PRACTICE_CONTEXT)){const entry=(window.PRACTICE_NOTES||{})[slug]||POSTS[slug];if(entry)entry.body+=markup;}

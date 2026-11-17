@@ -185,14 +185,11 @@ AI MUSIC / TZBABY
 
 五张专辑与 EP，把想象做成唱片。
 
-**↗**](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)[![小八鹦鹉之家原创品牌视觉](https://tzm1111.github.io/jamal-tzbaby/assets/xiaoba-brand.svg)
-CHARACTER IP
+**↗**](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)[如何成为一名合格的 AI PM：从理解问题，到为产品判断负责](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/)
 
-### 小八 · 鹦鹉之家
+从理解问题、解释取舍，到用证据继续行动。
 
-从一只鹦鹉，开始一个创造实验。
-
-**↗**](https://tzm1111.github.io/jamal-tzbaby/projects/xiaoba-home/)[![业务与 AI 之间的桥梁](https://tzm1111.github.io/jamal-tzbaby/assets/evidence-action.svg)
+[![业务与 AI 之间的桥梁](https://tzm1111.github.io/jamal-tzbaby/assets/evidence-action.svg)
 IDEAS / EXPERIMENTS
 
 ### 思考与方法

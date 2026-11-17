@@ -1,6 +1,6 @@
 const PROJECTS = {
   'dianxiaomi-agent': {mark:'ALIBABA / AI PRODUCT', title:'阿里巴巴\nAI 客服Agent', lead:'用户带着一件要处理的事来。产品要证明事情怎样往前走。', tags:['可信闭环','商家配置','服务交付'], image:'service-closure.svg', next:'parrot-service', nextName:'拼多多智能客服与服务体验'},
-  'parrot-service': {"mark": "PINDUODUO / PRODUCT & SERVICE", "title": "拼多多\n智能客服与\n服务体验", "lead": "从参与鹦鹉智能客服的早期建设，到管理产品团队、独立负责高价值服务体验，连接消费者诉求、服务策略与业务系统。", "tags": ["智能客服", "消费者服务体验", "平台建设", "团队管理"], "image": "pdd-service-system.svg", "next": "xiaoba-home", "nextName": "小八 · 鹦鹉之家"},
+  'parrot-service': {"mark": "PINDUODUO / PRODUCT & SERVICE", "title": "拼多多\n智能客服与\n服务体验", "lead": "从参与鹦鹉智能客服的早期建设，到管理产品团队、独立负责高价值服务体验，连接消费者诉求、服务策略与业务系统。", "tags": ["智能客服", "消费者服务体验", "平台建设", "团队管理"], "image": "pdd-service-system.svg", "next": "qualified-ai-pm", "nextName": "如何成为合格的 AI PM", "nextHref": "../../posts/qualified-ai-pm/"},
   'xiaoba-home': {mark:'A PERSONAL STORY / XIAO BA', title:'小八 ·\n鹦鹉之家', lead:'先有一只鸟，才有一个品牌。', tags:['绿颊锥尾鹦鹉','角色设计','保护品牌'], image:'xiaoba-brand.svg', next:'aurora-music', nextName:'AI 音乐播放器的创造手记'},
   'aurora-music': {mark:'SOUND / MOOD / ATMOSPHERE', title:'Aurora\nMusic', lead:'给音乐一个空间，而不只是一张歌单。', tags:['个人音乐实验','声音可视化','浏览器体验'], image:'aurora-player.png', next:'dianxiaomi-agent', nextName:'阿里巴巴 AI 客服Agent'}
 };
@@ -56,7 +56,7 @@ const art=document.querySelector('.project-art');art.classList.add('has-image');
 art.innerHTML=`<img src="../../assets/${p.image}" alt="${p.title.replace('\n',' ')}"><i>${p.mark}</i>`;
 document.querySelectorAll('.project-section').forEach(x=>x.remove());
 document.querySelector('.project-next').insertAdjacentHTML('beforebegin',CASES[slug]);
-document.querySelector('#pNext').href=p.next==='aurora-music'?'../../posts/why-build-aurora/':`../${p.next}/`;
+document.querySelector('#pNext').href=p.nextHref||(p.next==='aurora-music'?'../../posts/why-build-aurora/':`../${p.next}/`);
 document.querySelector('#pNext').textContent=`${p.nextName} →`;
 }
 

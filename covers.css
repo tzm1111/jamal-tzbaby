@@ -20,3 +20,8 @@
   filter: saturate(.95) contrast(1.02) brightness(1.06);
   object-position: center;
 }
+
+/* 已在图片文件内完成配色协调，避免阅读页与卡片再次增艳。 */
+.note-cover.editorial-art > img.site-toned-cover,
+.article-cover.editorial-art > img.site-toned-cover { filter:none; }
+.note-row:hover .note-cover.editorial-art > img.site-toned-cover { filter:brightness(1.04); }

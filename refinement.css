@@ -1,0 +1,165 @@
+/* 本地复盘版：只调整内容层级、空间与交互，沿用原有字体与字重。 */
+.section-intro { max-width:680px; margin:-16px 0 36px; color:var(--muted); }
+.hero-copy strong { color:var(--paper); }
+.hero-copy br { display:block; }
+.article-head h1,.card-body h3,.note-content h3,.contact-section h2 { text-wrap:balance; }
+.hero-meta { flex-wrap:wrap; gap:16px; }
+.projects .project-rail.work-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); grid-auto-flow:row; grid-auto-columns:auto; gap:28px; overflow:visible; padding:0; width:100%; cursor:auto; scroll-snap-type:none; }
+.work-grid .project-card { min-height:0; height:auto; }
+.work-grid .project-visual { width:100%; margin:0; aspect-ratio:16/9; height:auto; }
+.work-grid .card-body { gap:0; }
+.work-grid .ai-pm-feature { grid-column:1/-1; display:grid; grid-template-columns:.9fr 1.1fr; align-items:center; }
+.ai-pm-feature .project-visual>img { filter:saturate(.9) contrast(1.03) brightness(1.08); }
+.ai-pm-feature .project-visual::after { opacity:.04; }
+.ai-pm-feature .card-body { padding:28px; }
+.ai-pm-feature .card-body .kicker { margin-bottom:16px; }
+.case-open { display:block; margin-top:24px; color:var(--accent); }
+.creative-heading { margin:58px 0 28px; padding-top:32px; border-top:1px solid var(--line); }
+.creative-heading p { color:var(--muted); margin:12px 0 0; }
+.creative-grid { display:grid; grid-template-columns:1fr; gap:36px; align-items:start; }
+.creative-grid .music-releases { margin:0; padding:0; border:0; min-width:0; }
+.creative-grid .music-releases-heading { margin-bottom:24px; }
+.creative-grid .release-shelf { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px; max-width:760px; }
+.creative-bird { height:auto; min-height:0; background:transparent; }
+.creative-bird .card-top { display:flex; }
+.creative-bird .project-visual { width:calc(100% - 40px); height:auto; margin:0 20px; }
+.creative-bird .card-body { padding:20px; }
+.creative-more { display:inline-flex; align-items:center; min-height:44px; margin-top:20px; color:var(--accent); }
+.featured-notes { grid-template-columns:repeat(2,minmax(0,1fr)); }
+.all-notes-link { margin-top:36px; }
+.about .principles { margin-top:48px; }
+.about .principles ol { gap:0 36px; }
+.about .principles li { padding:20px 0; }
+.contact-section { display:grid; grid-template-columns:1fr auto; gap:32px; align-items:center; padding-top:56px; padding-bottom:56px; border-top:1px solid var(--line); }
+.contact-section h2 { margin:16px 0; }
+.contact-section .hero-copy { margin:0; }
+.contact-section .button { white-space:nowrap; }
+.case-overview { margin:24px 0 48px; padding:28px; background:linear-gradient(135deg,#e7a35f0a,transparent); border:1px solid var(--line); }
+.case-overview-title { display:flex; justify-content:space-between; align-items:center; gap:20px; }
+.case-overview-title p { margin:0; color:var(--muted); }
+.case-overview dl { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px 36px; margin:28px 0; }
+.case-overview dt { color:var(--accent); margin-bottom:10px; }
+.case-overview dd { margin:0; color:var(--paper); }
+.case-scope { margin:0; color:var(--muted); padding-top:16px; border-top:1px solid var(--line); }
+.project-main .project-hero { min-height:0; padding-bottom:32px; }
+.case-contact { border-top:1px solid var(--line); padding:42px 0; display:flex; justify-content:space-between; align-items:center; gap:28px; }
+.case-contact p { color:var(--muted); }
+.case-contact .button { flex-shrink:0; }
+.detail-page .article-cover.editorial-art { width:min(100%,680px); margin:0 auto 32px; }
+.detail-page .article-head { margin-bottom:32px; }
+.article-toc .toc-toggle { font:inherit; color:var(--paper); background:none; border:0; padding:0; display:flex; justify-content:space-between; align-items:center; width:100%; min-height:44px; cursor:pointer; text-align:left; }
+.toc-toggle span:first-child { font-size:12px; color:var(--muted); }
+.toc-toggle span:last-child { color:var(--accent); }
+.article-toc .toc-links[hidden] { display:none; }
+.article-toc a[aria-current="location"] { color:var(--accent); }
+.article-end { flex-wrap:wrap; gap:24px; }
+.detail-page .site-texture { opacity:.25; }
+.archive-header { display:flex; justify-content:space-between; align-items:center; max-width:1180px; margin:auto; padding:28px; border-bottom:1px solid var(--line); }
+.archive-header nav { display:flex; gap:24px; color:var(--muted); }
+.notes-index .notes { padding-top:48px; }
+.notes-index .section-heading { margin-bottom:28px; }
+.notes-index .note-filters { position:static; margin:0 0 20px; }
+.notes-index .note-row { opacity:1; transform:none; }
+.filter-count { color:var(--muted); margin-bottom:28px; }
+.archive-end { display:flex; justify-content:space-between; gap:20px; margin-top:48px; border-top:1px solid var(--line); padding-top:32px; }
+.notes-index .note-row.hidden { display:none; }
+html:has(.story-page) { scroll-snap-type:none; }
+.story-page .life-section { height:400svh; }
+.story-page .story-scene,.story-page .life-anchor { scroll-snap-stop:normal; }
+.story-header nav a { align-self:center; color:#78746e; font-size:12px; }
+.story-header nav a:hover { color:var(--accent); }
+.intro-pills { flex-wrap:wrap; }
+.companies .company-period { display:none; }
+.intro-pills button { font:inherit; border:1px solid var(--line); padding:8px 11px; background:none; border-radius:20px; color:var(--accent); }
+.story-page .finale-word { display:flex; flex-wrap:wrap; justify-content:center; gap:20px; }
+.story-page .finale-word>span { flex-basis:100%; }
+@media(min-width:1100px) {
+  .detail-page .detail-main { max-width:1240px; display:grid; grid-template-columns:minmax(0,760px) minmax(0,230px); justify-content:center; column-gap:48px; }
+  .detail-main>.back-link,.detail-main>.article-head,.detail-main>.article-cover { grid-column:1/-1; }
+  .detail-main>.article-head { width:100%; }
+  .detail-main>.article-body { grid-column:1; grid-row:4; width:100%; min-width:0; }
+  .detail-main>.article-toc { grid-column:2; grid-row:4; position:sticky; top:100px; align-self:start; margin:0; padding:16px; max-height:calc(100svh - 128px); overflow-y:auto; }
+  .detail-main>.article-end { grid-column:1; width:100%; }
+  .detail-main .article-figure { margin-left:0; margin-right:0; }
+  .detail-main .article-toc ul { padding-left:16px; }
+}
+@media(max-width:760px) {
+  .section-intro { margin:0 0 28px; }
+  .hero .eyebrow { max-width:100%; }
+  .projects .project-rail.work-grid { grid-template-columns:1fr; gap:24px; }
+  .work-grid .project-visual { width:100%; margin:0; }
+  .work-grid .ai-pm-feature { grid-template-columns:1fr; }
+  .work-grid .ai-pm-feature .card-body { padding:20px; }
+  .creative-heading { margin-top:36px; }
+  .creative-grid { grid-template-columns:1fr; gap:28px; }
+  .creative-grid .release-shelf { gap:12px; overflow:visible; padding:0; }
+  .creative-grid .release-tile { min-width:0; }
+  .creative-grid .release-description { display:none; }
+  .creative-grid .release-cover>span { display:none; }
+  .creative-bird { display:grid; grid-template-columns:1fr 1.3fr; }
+  .creative-bird .card-top { grid-column:1/-1; }
+  .creative-bird .project-visual { width:100%; margin:0; align-self:center; }
+  .creative-bird .card-body { padding:0 16px 20px; }
+  .creative-bird .tags { display:none; }
+  .featured-notes { grid-template-columns:1fr; }
+  .contact-section { grid-template-columns:1fr; gap:20px; }
+  .contact-section .button { justify-self:start; }
+  .case-overview { padding:20px; }
+  .case-overview-title { display:block; }
+  .case-overview-title p { margin-top:12px; }
+  .case-overview dl { grid-template-columns:1fr; gap:20px; }
+  .case-contact { display:block; }
+  .case-contact .button { margin-top:16px; }
+  .detail-page .article-toc { margin:0 0 28px; padding:12px 16px; }
+  .detail-page .article-cover.editorial-art { margin-bottom:20px; }
+  .detail-page .article-head { margin-bottom:24px; }
+  .archive-header { padding:20px; gap:16px; }
+  .archive-header nav { gap:16px; }
+  .notes-index .notes { padding-top:32px; }
+  .archive-end { flex-wrap:wrap; }
+  .story-page .companies { grid-template-columns:1fr; gap:24px; }
+  .story-page .mini-timeline { display:none; }
+  .story-page .companies .company-period { display:block; margin:0 0 8px; }
+  .story-page .resume-career { display:block; }
+  .story-page .career-column { margin-top:18px; }
+  .story-page .intro-profile { padding-top:112px; padding-bottom:100px; }
+  .story-header .scene-control { display:none; }
+  .story-header nav { gap:10px; flex-wrap:wrap; justify-content:flex-end; }
+  .story-header nav a { font-size:8px; }
+  .story-page .intro-pills button { font-size:10px; }
+  .detail-header nav a:last-child { display:inline; }
+  .project-header nav { display:flex; }
+  .project-header nav a:not(:last-child) { display:none; }
+}
+
+/* 关于页档案区：正文、辅助信息与标题分层，提升履历阅读清晰度。 */
+.story-page .intro-pills a,
+.story-page .intro-pills button { font-family:inherit; font-size:13px; line-height:1.6; padding:10px 14px; }
+.story-page .intro-pills a { color:#b7afa2; }
+.story-page .resume-grid>div { font-size:14px; line-height:1.75; }
+.story-page .resume-grid b { min-width:70px; font-size:12px; color:#baa37e; }
+.story-page .resume-grid span { color:#b7afa2; line-height:1.75; }
+.story-page .resume-education strong { font-size:18px; }
+.story-page .resume-grid time { font-size:12px; color:#a59d90; }
+.story-page .mini-timeline { height:36px; }
+.story-page .mini-timeline span { font-size:12px; color:#a59d90; }
+.story-page .companies h3 { margin:16px 0 9px; font-size:16px; line-height:1.5; }
+.story-page .companies p { font-size:14px; line-height:1.8; color:#b7afa2; }
+.story-page .company-ali span { font-size:11px; letter-spacing:.08em; }
+.story-page .resume-strength span { font-size:13px; }
+.story-page .pdd-milestones li { grid-template-columns:52px minmax(0,1fr); padding:16px 0; font-size:14px; line-height:1.85; }
+.story-page .pdd-milestones time { margin-left:0; color:var(--accent); }
+.story-page .pdd-milestones span { color:#b7afa2; }
+.story-page .profile-disclosure>summary { font-size:16px; line-height:1.75; }
+.story-page .profile-questions summary { font-size:16px; line-height:1.75; }
+.story-page .profile-questions p { font-size:15px; line-height:1.9; color:#b7afa2; }
+@media(max-width:760px) {
+  .story-page .resume-grid>div { gap:12px; }
+  .story-page .resume-grid b { min-width:60px; }
+  .story-page .resume-education strong { font-size:17px; }
+  .story-page .resume-education>span { font-size:14px; }
+  .story-page .resume-education time { margin-left:72px; }
+  .story-page .companies .company-period { margin-left:0; font-size:13px; }
+  .story-page .pdd-milestones li { gap:12px; }
+  .story-page .resume-strength span { font-size:13px; }
+}
