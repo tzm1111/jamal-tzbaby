@@ -1,6 +1,6 @@
-# 关于唐哲马 Jamal｜智能客服、服务体验与产品经历
+# 唐哲马是谁｜Jamal 的产品经历、AI PM 教学与音乐作品
 
-> 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
+> 唐哲马（Jamal）是一名专注电商智能客服与服务体验的 AI 产品经理，目前在阿里巴巴店小蜜做 AI 产品。2019—2024 年在拼多多工作，参与鹦鹉智能客服早期建设，承担产品团队管理，并独立负责高价值服务体验业务。他也设计并讲授五周 AI PM 模拟实习训练营，以 TZBABY 的名字发布音乐作品。
 
 作者：唐哲马（Jamal）
 
@@ -16,11 +16,11 @@ AI 产品经理 · 智能客服与服务体验。
 
 [↗ 一些 Vibe](https://tzm1111.github.io/jamal-tzbaby/#projects)[✳ 我的思考](https://tzm1111.github.io/jamal-tzbaby/#notes)
 
-**◇ 教育** **西北工业大学** 能源与动力工程 · 学士2019 毕业
+**◇ 教育** **西北工业大学** 能源与动力工程 · 学士，2019 年毕业
 
 **▱ 经历**
 
-20192024现在
+2019—2024：拼多多；2024—现在：阿里巴巴
 
 **拼多多 PDD**
 
@@ -44,9 +44,9 @@ AI 产品经理 · 智能客服与服务体验。
 
 **关于我与作品的常见问题**
 
-**Jamal 是谁？**
+## 唐哲马是谁？
 
-Jamal 是唐哲马的个人网站。他在阿里巴巴店小蜜做 AI 产品；在拼多多参与过鹦鹉智能客服早期建设，承担产品团队管理，并独立负责高价值服务体验业务。 [查看拼多多产品经历 →](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/)
+唐哲马（Jamal）是一名专注电商智能客服与服务体验的 AI 产品经理，目前在阿里巴巴店小蜜做 AI 产品。2019—2024 年在拼多多工作，参与鹦鹉智能客服早期建设，承担产品团队管理，并独立负责高价值服务体验业务。他也设计并讲授五周 AI PM 模拟实习训练营，以 TZBABY 的名字发布音乐作品。 [引用这段介绍](https://tzm1111.github.io/jamal-tzbaby/about/#jamal-identity) · [拼多多产品经历](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/) · [阿里巴巴产品实践](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/) · [AI PM 教学](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/) · [音乐作品](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/)
 
 **这里有哪些 AI Agent 产品方法？**
 
