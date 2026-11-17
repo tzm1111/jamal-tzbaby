@@ -34,7 +34,7 @@
 
 ## 在这里，直接听一会儿
 
-[在文章里体验播放器](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live) · [独立窗口体验](https://tzm1111.github.io/jamal-tzbaby/assets/aurora/index.html)
+[在文章里体验播放器](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live) · [独立窗口体验](https://tzm1111.github.io/jamal-tzbaby/assets/aurora/index.html) · [GitHub 源码](https://github.com/tzm1111/aurora-music)
 
 点击加载后，可以在页面内试听、切歌和查看频谱，也可以导入自己的本地 MP3。播放器按需加载，开始播放由访客决定。
 
