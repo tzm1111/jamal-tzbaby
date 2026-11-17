@@ -1,0 +1,99 @@
+[
+  {
+    "id": "sunny-steps",
+    "title": "晴天小步",
+    "artist": "长笛 · 尼龙吉他 · 弦乐 · 轻打击乐",
+    "album": "七种心境 · 开心",
+    "src": "./audio/sunny-steps.mp3",
+    "cover": "./covers/sunny-steps.svg",
+    "duration": 193,
+    "tags": [
+      "happy",
+      "sunny",
+      "folk"
+    ]
+  },
+  {
+    "id": "slow-tide",
+    "title": "缓缓潮汐",
+    "artist": "尼龙吉他 · 颤音琴 · 暖弦乐",
+    "album": "七种心境 · 放松",
+    "src": "./audio/slow-tide.mp3",
+    "cover": "./covers/slow-tide.svg",
+    "duration": 231,
+    "tags": [
+      "chill",
+      "cloudy",
+      "bossa"
+    ]
+  },
+  {
+    "id": "quiet-grid",
+    "title": "静谧格点",
+    "artist": "马林巴 · 电钢琴 · 环境铺底",
+    "album": "七种心境 · 专注",
+    "src": "./audio/quiet-grid.mp3",
+    "cover": "./covers/quiet-grid.svg",
+    "duration": 228,
+    "tags": [
+      "focus",
+      "lofi"
+    ]
+  },
+  {
+    "id": "rain-afterglow",
+    "title": "雨后的余光",
+    "artist": "大提琴 · 竖琴 · 弦乐",
+    "album": "七种心境 · 忧郁",
+    "src": "./audio/rain-afterglow.mp3",
+    "cover": "./covers/rain-afterglow.svg",
+    "duration": 217,
+    "tags": [
+      "sad",
+      "rainy",
+      "folk"
+    ]
+  },
+  {
+    "id": "little-spark",
+    "title": "一点微燃",
+    "artist": "木吉他 · 马林巴 · 贝斯 · 轻节奏",
+    "album": "七种心境 · 充电",
+    "src": "./audio/little-spark.mp3",
+    "cover": "./covers/little-spark.svg",
+    "duration": 194,
+    "tags": [
+      "energetic",
+      "pop",
+      "sunny"
+    ]
+  },
+  {
+    "id": "moonlit-letter",
+    "title": "月色来信",
+    "artist": "颤音琴 · 尼龙吉他 · 弦乐",
+    "album": "七种心境 · 浪漫",
+    "src": "./audio/moonlit-letter.mp3",
+    "cover": "./covers/moonlit-letter.svg",
+    "duration": 220,
+    "tags": [
+      "romantic",
+      "bossa",
+      "night"
+    ]
+  },
+  {
+    "id": "night-drift",
+    "title": "夜色轻泊",
+    "artist": "气息长笛 · 竖琴 · 温暖环境音",
+    "album": "七种心境 · 助眠",
+    "src": "./audio/night-drift.mp3",
+    "cover": "./covers/night-drift.svg",
+    "duration": 252,
+    "tags": [
+      "sleepy",
+      "ambient",
+      "night"
+    ]
+  }
+]
