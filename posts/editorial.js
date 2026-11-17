@@ -1,6 +1,6 @@
 const figure=(file,alt,caption)=>`<figure class="article-figure"><img src="../../assets/${file}" alt="${alt}" loading="lazy"><figcaption>${caption}</figcaption></figure>`;
 const POSTS={
-  'business-first':{mark:'BUSINESS FIRST',format:'场景笔记',tags:'业务判断 · AI 产品',title:'懂业务的人，才知道 AI 该用在哪',deck:'“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。',visual:'business-bridge.svg',body:`
+  'business-first':{mark:'BUSINESS FIRST',format:'场景笔记',tags:'业务判断 · AI 产品',title:'懂业务的人，才知道 AI 该用在哪',deck:'“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。',visual:'covers/business-first.webp',body:`
     <p class="opening-paragraph">如果一个模型能识别“退款意图”，是否意味着它已经能处理退款？我的答案是：还没有。识别出用户说了什么，只解决了服务链路的开头。</p>
     <div class="case-dialogue"><span>一个常见售后例子</span><p>“东西还没收到，我想退款。”</p></div>
     <p>这句话可以进入完全不同的路径。订单尚未发货，需要确认取消规则；已经在运输中，需要核对拦截或拒收流程；显示已签收，用户却说没收到，则需要先处理状态冲突。用户表达相同，产品动作不同。</p>
@@ -16,7 +16,7 @@ const POSTS={
     <p>只写成功 Demo，很容易漏掉关键条件。对于退款任务，错误承诺、读取过期状态、执行没有完成却宣告成功，都是不同的失败。定义这些失败之后，才知道要补哪些验证和恢复路径。</p>
     <p>“懂业务”不是会使用行业术语，而是能辨认这些差异。我的工作是把差异变成产品结构：什么时候获取事实，什么时候做判断，什么时候行动，以及结果如何被确认。</p>
     <p>我也会把能力存在、商家开启、真实触发、执行成功和任务解决分开。高咨询量不自动代表高改善空间，低接待量也不证明需求少。需要理解服务进入了哪里，为什么没有进入，以及什么条件会改变结果。</p><p class="essay-ending">AI 应该出现在哪里，答案往往藏在业务里最容易被省略的那一步。</p><div class="action-links"><a href="../service-delivery/">把能力变成可交付的价值 →</a><a href="../evidence-to-action/">让判断进入可验证的行动 →</a></div>`},
-  'decagon-lessons':{mark:'DECAGON',format:'产品观察',tags:'Agent · 产品研究',title:'我从 Decagon 学到的，不是产品功能',deck:'我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。',visual:'aop-system.svg',body:`
+  'decagon-lessons':{mark:'DECAGON',format:'产品观察',tags:'Agent · 产品研究',title:'我从 Decagon 学到的，不是产品功能',deck:'我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。',visual:'covers/decagon-lessons.webp',body:`
     <p class="opening-paragraph">看一个 Agent 产品，我会先问：上线之后，业务规则变了，谁来改？如果一个小变化还要在业务、产品和工程之间反复翻译，团队就很难持续经营它的行为。</p>
     <h2>AOP 让工作流成为可维护的东西</h2>
     <p>Decagon 的 <a href="https://decagon.ai/product/aop" target="_blank" rel="noreferrer">Agent Operating Procedures</a> 把自然语言流程与代码控制结合在一起。它吸引我的地方，是业务流程可以被阅读、检查和修改，同时保留工程上的控制能力。</p>
@@ -29,7 +29,7 @@ const POSTS={
     <div class="article-table-wrap"><table><thead><tr><th>可以借鉴</th><th>需要重新定义</th></tr></thead><tbody><tr><td>自然语言表达工作流程</td><td>哪些条件允许进入协商或处理</td></tr><tr><td>修改后先测试与回放</td><td>本场景里的典型失败和异常样本</td></tr><tr><td>用轨迹解释 Agent 行为</td><td>订单、知识与工具返回之间的证据关系</td></tr></tbody></table></div>
     <p>关键阈值还需要校准。我不会把“流程能写出来”当作“流程已经可以稳定运行”。产品能力应该让业务判断更清晰，而不是让复杂判断藏在更漂亮的配置界面里。</p>
     <p class="essay-ending">功能可以被复制。持续拥有和改进 Agent 行为的方式，更值得研究。</p>`},
-  'ai-drama-business':{mark:'AI DRAMA',format:'商业评论',tags:'内容生意 · AI 短剧',title:'AI 短剧真的赚钱吗？',deck:'生成便宜了，但观众没有因此多出一小时。',visual:'ai-drama-economics.svg',body:`
+  'ai-drama-business':{mark:'AI DRAMA',format:'商业评论',tags:'内容生意 · AI 短剧',title:'AI 短剧真的赚钱吗？',deck:'生成便宜了，但观众没有因此多出一小时。',visual:'covers/ai-drama-business.webp',body:`
     <p class="opening-paragraph">“一个人也能做短剧”解决的是生产资格，不是赚钱资格。我研究 AI 短剧时，最想拆开的就是这两个常被混在一起的问题。</p>
     <p>画面生成更快、团队可以更小，这些变化确实有意义。但观众是否点开、是否看完、是否愿意继续看，仍然取决于内容和分发。制作成本下降，并不会自动提高一部作品的吸引力。</p>
     <div class="economic-equation"><span>一门内容生意</span><p>收入 − 制作 − 分发 − 返工</p><small>成本里省下的一部分，不能直接当作利润。</small></div>
@@ -44,7 +44,7 @@ const POSTS={
     <p>先确定题材和受众，再做一个有限的内容实验。观察开头是否能留住人、人物是否值得继续看、同一题材能否稳定产出。把制作与分发的实际投入记下来，避免用想象中的成功作品摊薄失败成本。</p>
     <p>我更看重能否解释一次失败：是选题没有吸引力，还是故事推进慢，或者分发没有触达？这些结论能改变下一部作品，才构成可复用的内容能力。</p>
     <p class="essay-ending">我对这门生意的判断仍然谨慎。会出现成功者，但“人人能制作”远远不等于“人人能赚钱”。</p>`},
-  'agent-work-system':{mark:'AGENT',format:'工作手册',tags:'任务设计 · Agent 实践',title:'把 AI 当同事之前，先给它一套工作系统',deck:'以“处理退差价”为例，写一份能执行、能停止、能验收的任务说明。',visual:'agent-loop.svg',body:`
+  'agent-work-system':{mark:'AGENT',format:'工作手册',tags:'任务设计 · Agent 实践',title:'把 AI 当同事之前，先给它一套工作系统',deck:'以“处理退差价”为例，写一份能执行、能停止、能验收的任务说明。',visual:'covers/agent-work-system.webp',body:`
     <p class="opening-paragraph">“帮用户处理退差价”看起来是一项清楚的任务。真正开始执行时，问题才出现：哪一笔订单？价格变化是否适用？谁允许处理？工具失败后能不能再试？</p>
     <p>给 Agent 一个目标，还需要给它一份工作说明书。下面用一个通用退差价任务，拆开最容易遗漏的内容。</p>
     <div class="task-sheet"><div class="task-sheet-head"><span>TASK BRIEF</span><h2>处理退差价</h2></div><dl><div><dt>目标</dt><dd>判断诉求是否符合适用规则；符合时完成获授权的处理，并确认结果。</dd></div><div><dt>输入</dt><dd>订单、当前价格、适用规则和商家授权。订单与价格需要重新读取，不能只依赖历史对话。</dd></div><div><dt>行动</dt><dd>查询事实、补问缺失信息、核对条件、执行处理、检查返回结果。</dd></div><div><dt>停止</dt><dd>规则冲突、授权不足、状态不明，或无法确认前一次执行结果时，进入确认或转交。</dd></div><div><dt>完成</dt><dd>业务结果可确认，并准确告知用户。只调用了工具，不能直接算完成。</dd></div></dl></div>
@@ -58,7 +58,7 @@ const POSTS={
     <h2>验收至少覆盖三条路径</h2>
     <ul class="acceptance-list"><li><strong>条件齐全</strong>可以处理，并正确确认结果。</li><li><strong>条件不适用</strong>解释原因，给出可行的后续方式。</li><li><strong>执行异常</strong>不误报成功，不盲目重复操作，保留接续信息。</li></ul>
     <p class="essay-ending">先让一项任务在正常和异常路径里都说得清楚，再扩大 Agent 的覆盖面。</p>`},
-  'why-build-aurora':{mark:'AURORA',format:'创造手记',tags:'音乐 · 个人实验',title:'为什么我仍然自己做 AI 音乐播放器',deck:'我想保留一块地方，让细小的感受也值得认真处理。',visual:'aurora-discover.png',body:`
+  'why-build-aurora':{mark:'AURORA',format:'创造手记',tags:'音乐 · 个人实验',title:'为什么我仍然自己做 AI 音乐播放器',deck:'我想保留一块地方，让细小的感受也值得认真处理。',visual:'covers/why-build-aurora.webp',body:`
     <p class="opening-paragraph">世界上不缺音乐播放器。缺的也许是一个完全按自己的感受搭起来的小空间。</p>
     <p>我喜欢看声音怎样变成画面：低频推开一圈频谱，波形跟着振幅起伏，粒子在屏幕里留下呼吸感。这些细节不一定改变听歌效率，却能改变“正在听音乐”的感觉。</p>
     <p>所以 Aurora 的起点不是多做一张歌曲列表。我想把城市天气、当下心情、封面颜色和声音放在一起，看它们能否组成一个有氛围的界面。</p>
@@ -76,7 +76,7 @@ const POSTS={
     <p>做兴趣项目，不必每次都证明一个市场机会。它让我能把一个模糊的感受，变成一个可以打开、可以使用、也可以继续改的东西。</p>
     <p class="essay-ending">听一会儿音乐，改一点画面。<br>这就是 Aurora 继续生长的方式。</p>
     <a class="inline-related" href="../../projects/tzbaby-music/">听听我以 TZBABY 的名字发布的音乐 →</a>`},
-  'learn-ai-pm':{mark:'AI PM',format:'教学实战',tags:'模拟实习 · 产品训练',title:'非技术背景，怎么真正学会做 AI 产品',deck:'五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。',visual:'ai-pm-curriculum.svg',body:`
+  'learn-ai-pm':{mark:'AI PM',format:'教学实战',tags:'模拟实习 · 产品训练',title:'非技术背景，怎么真正学会做 AI 产品',deck:'五周做完一个项目，再用十五分钟追问，检查每个选择是不是真的想过。',visual:'covers/learn-ai-pm.webp',body:`
     <p class="opening-paragraph">学员交来一份完整 PRD，我并不会立刻认为他学会了。文字可以被润色，结构可以被套用。更有区分度的问题是：为什么这样选？如果证据换了，方案还成立吗？</p>
     <p>我的五周 1 对 1 AI PM 模拟实习训练营，让同一个项目贯穿需求、方案、原型和评估。下一次交付必须使用上一次的判断，避免作业各自漂亮，却接不到一起。</p>
     <h2>每周，都给下一周留下一个东西</h2>
@@ -105,7 +105,7 @@ const plain=post.body.replace(/<[^>]*>/g,'');
 document.querySelector('#postRead').textContent=`约 ${Math.max(2,Math.ceil(plain.length/300))} 分钟`;
 document.querySelector('.article-meta span:last-child').textContent=post.format;
 const cover=document.querySelector('.article-cover');
-cover.classList.add('has-image');cover.insertAdjacentHTML('afterbegin',`<img src="../../assets/${post.visual}" alt="${post.title}">`);
+cover.classList.add('has-image','editorial-art');cover.insertAdjacentHTML('afterbegin',`<img src="../../assets/${post.visual}" alt="${post.title}">`);
 document.querySelector('#postBody').innerHTML=post.body;
 document.querySelector('#year').textContent=new Date().getFullYear();
 }
