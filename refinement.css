@@ -163,3 +163,10 @@ html:has(.story-page) { scroll-snap-type:none; }
   .story-page .pdd-milestones li { gap:12px; }
   .story-page .resume-strength span { font-size:13px; }
 }
+/* Aurora 2.0 创作入口：沿用网站字体与唱片布局。 */
+.aurora-vibe-feature{display:grid;grid-template-columns:1.1fr 1fr;align-items:center;margin:48px 0 0;border:1px solid var(--line);color:var(--paper);background:linear-gradient(130deg,#e7a35f09,transparent);text-decoration:none;overflow:hidden}.aurora-vibe-image{overflow:hidden}.aurora-vibe-image img{display:block;width:100%;height:100%;aspect-ratio:16/9;object-fit:cover;transition:transform .5s ease}.aurora-vibe-feature:hover img{transform:scale(1.025)}.aurora-vibe-copy{padding:32px}.aurora-vibe-copy h3{font-size:clamp(24px,2.6vw,34px);line-height:1.35;margin:16px 0}.aurora-vibe-copy p{color:var(--muted);margin:0 0 20px}.aurora-vibe-copy .case-open{margin-top:22px}.aurora-vibe-copy .tags{display:flex;flex-wrap:wrap;gap:8px}@media(max-width:760px){.aurora-vibe-feature{grid-template-columns:1fr;margin-top:32px}.aurora-vibe-copy{padding:24px}}@media(prefers-reduced-motion:reduce){.aurora-vibe-image img{transition:none}.aurora-vibe-feature:hover img{transform:none}}
+
+/* Aurora 的界面截图完整展示，保留 DJ 光球与心情坐标。 */
+body[data-slug="why-build-aurora"] .article-cover.editorial-art{aspect-ratio:16/9;max-height:none;height:auto}
+body[data-slug="why-build-aurora"] .article-cover img{object-fit:contain}
+.note-row[href="./why-build-aurora/"] .note-cover img{object-fit:contain;background:#10101d}

@@ -10,7 +10,7 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 
 ## 一些 Vibe
 
-从智能客服到 AI Agent，再到 AI PM 的判断与训练。用具体实践，解释我怎样做产品。
+从智能客服与 AI Agent，到 AI PM 的判断与训练，再到音乐创作。用具体实践，解释我怎样做产品。
 
 ### 阿里巴巴 AI 客服Agent
 
@@ -29,6 +29,12 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 理解问题，解释技术与方案的取舍，让设计可靠落地，并为下一轮判断找到依据。
 
 [查看内容 →](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/)
+
+### Aurora 2.0：把此刻的心情，交给一个专属 DJ
+
+从一句心情到一段音乐，把选歌、连续聆听与视觉氛围，做成一个愿意停留的空间。
+
+[阅读 Aurora 创作手记](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/)
 
 ### 个人创作 · TZBABY 音乐
 
