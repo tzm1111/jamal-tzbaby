@@ -10,7 +10,7 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 
 ## 一些 Vibe
 
-从智能客服与 AI Agent，到 AI PM 的判断与训练，再到音乐创作。用具体实践，解释我怎样做产品。
+从智能客服与 AI Agent，到音乐创作。用具体实践，解释我怎样做产品。
 
 ### 阿里巴巴 AI 客服Agent
 
@@ -23,12 +23,6 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 从参与鹦鹉智能客服的早期建设，到管理产品团队、独立负责高价值服务体验，连接消费者诉求、服务策略与业务系统。
 
 [查看内容 →](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/)
-
-### 如何成为一名合格的 AI PM：从理解问题，到为产品判断负责
-
-理解问题，解释技术与方案的取舍，让设计可靠落地，并为下一轮判断找到依据。
-
-[查看内容 →](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/)
 
 ### Aurora 2.0：把此刻的心情，交给一个专属 DJ
 
@@ -50,6 +44,7 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 
 ## 思考与方法
 
+- [如何成为一名合格的 AI PM：从理解问题，到为产品判断负责](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/)：理解问题，解释技术与方案的取舍，让设计可靠落地，并为下一轮判断找到依据。
 - [把判断变成可验证的行动](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/)：研究不是把问题再描述一遍。证据怎样支持选择，选择怎样进入实现，结果怎样被验证？
 - [懂业务的人，才知道 AI 该用在哪](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/)：“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。
 - [售后 Agent 的价值，是让事情真正往前走](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)：会解释、会执行、能判责与能闭环，是四个不同的问题。用安装、凭证与工单拆开它们。

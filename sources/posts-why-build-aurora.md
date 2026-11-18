@@ -80,8 +80,8 @@ Aurora 会先把描述整理成选曲方向，再寻找候选、检查音源，�
 
 Aurora 仍然是我的一个个人实验。听一会儿音乐，改一点画面，把细小的感受慢慢做进去。希望下一次打开，比这一次更自然。
 
-## 听一会儿七种心境
+## 在这里，体验 Aurora 2.0
 
-听七种心境，也可以导入本地 MP3。
+说说此刻的心情，让 DJ 为你选歌。
 
-[在文章里聆听](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live) · [Aurora 2.0 源码](https://github.com/tzm1111/aurora-music)
+[在文章里体验](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live) · [独立窗口打开](https://tzm1111.github.io/aurora-music/) · [Aurora 2.0 源码](https://github.com/tzm1111/aurora-music)
