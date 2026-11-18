@@ -12,6 +12,12 @@
 
 **内容摘要** 唐哲马（Jamal）的 Aurora 2.0 创作手记：从心情输入与专属 DJ，到连续聆听、液态玻璃与封面取色，记录一个 AI 音乐播放器的设计与迭代。
 
+## 在这里，体验 Aurora 2.0
+
+说说此刻的心情，让 DJ 为你选歌。
+
+[打开 Aurora 2.0](https://www.modelscope.cn/studios/Tzm1111/aurora-music?mode=full) · [Aurora 2.0 源码](https://github.com/tzm1111/aurora-music)
+
 有时候，打开音乐播放器，只是想让这一刻舒服一点。刚下班，脑袋还没有从工作里退出来；需要专注，却不想再花时间挑歌；有一点难过，也没有急着让自己开心。
 
 我想为这些时刻留一块地方。于是做了 Aurora：把天气、心情、音乐和一点视觉上的想象，放进同一个空间。
@@ -79,9 +85,3 @@ Aurora 会先把描述整理成选曲方向，再寻找候选、检查音源，�
 光球和颜色很容易让人记住，播放是否顺利、失败之后怎样继续，同样决定了下一次还愿不愿意打开它。
 
 Aurora 仍然是我的一个个人实验。听一会儿音乐，改一点画面，把细小的感受慢慢做进去。希望下一次打开，比这一次更自然。
-
-## 在这里，体验 Aurora 2.0
-
-说说此刻的心情，让 DJ 为你选歌。
-
-[打开 Aurora 2.0](https://www.modelscope.cn/studios/Tzm1111/aurora-music?mode=full) · [Aurora 2.0 源码](https://github.com/tzm1111/aurora-music)
