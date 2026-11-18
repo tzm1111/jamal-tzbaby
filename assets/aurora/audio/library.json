@@ -2,39 +2,39 @@
   {
     "id": "sunny-steps",
     "title": "晴天小步",
-    "artist": "长笛 · 尼龙吉他 · 弦乐 · 轻打击乐",
+    "artist": "长笛 · 尼龙吉他 · 原声贝斯 · 轻打击乐",
     "album": "七种心境 · 开心",
-    "src": "./audio/sunny-steps.mp3",
-    "cover": "./covers/sunny-steps-e844e34f.svg",
-    "duration": 193,
+    "src": "./audio/sunny-steps-v2-4aa1ecab.mp3",
+    "cover": "./covers/sunny-steps-v2-7e22d915.webp",
+    "duration": 191,
     "tags": [
       "happy",
       "sunny",
-      "folk"
+      "bossa"
     ]
   },
   {
     "id": "slow-tide",
     "title": "缓缓潮汐",
-    "artist": "尼龙吉他 · 颤音琴 · 暖弦乐",
+    "artist": "独奏尼龙吉他 · 竖琴 · 柔弦乐",
     "album": "七种心境 · 放松",
-    "src": "./audio/slow-tide.mp3",
-    "cover": "./covers/slow-tide.svg",
-    "duration": 231,
+    "src": "./audio/slow-tide-v2-9bf405d8.mp3",
+    "cover": "./covers/slow-tide-v2-bc698efd.webp",
+    "duration": 188,
     "tags": [
       "chill",
       "cloudy",
-      "bossa"
+      "folk"
     ]
   },
   {
     "id": "quiet-grid",
     "title": "静谧格点",
-    "artist": "马林巴 · 电钢琴 · 环境铺底",
+    "artist": "Rhodes 电钢琴 · 低音马林巴 · 暖环境铺底",
     "album": "七种心境 · 专注",
-    "src": "./audio/quiet-grid.mp3",
-    "cover": "./covers/quiet-grid.svg",
-    "duration": 228,
+    "src": "./audio/quiet-grid-v2-1ea173e9.mp3",
+    "cover": "./covers/quiet-grid-v2-33958714.webp",
+    "duration": 214,
     "tags": [
       "focus",
       "lofi"
@@ -43,25 +43,25 @@
   {
     "id": "rain-afterglow",
     "title": "雨后的余光",
-    "artist": "大提琴 · 竖琴 · 弦乐",
+    "artist": "大提琴 · 柔钢琴 · 室内弦乐",
     "album": "七种心境 · 忧郁",
-    "src": "./audio/rain-afterglow.mp3",
-    "cover": "./covers/rain-afterglow.svg",
-    "duration": 217,
+    "src": "./audio/rain-afterglow-v2-fe10a51e.mp3",
+    "cover": "./covers/rain-afterglow-v2-d7d9fe4d.webp",
+    "duration": 205,
     "tags": [
       "sad",
       "rainy",
-      "folk"
+      "classical"
     ]
   },
   {
     "id": "little-spark",
     "title": "一点微燃",
-    "artist": "木吉他 · 马林巴 · 贝斯 · 轻节奏",
+    "artist": "原声钢弦吉他 · 闷音电吉他 · 指弹贝斯 · 轻鼓与沙锤",
     "album": "七种心境 · 充电",
-    "src": "./audio/little-spark.mp3",
-    "cover": "./covers/little-spark.svg",
-    "duration": 194,
+    "src": "./audio/little-spark-v2-9fc188e8.mp3",
+    "cover": "./covers/little-spark-v2-df948d9a.webp",
+    "duration": 171,
     "tags": [
       "energetic",
       "pop",
@@ -71,25 +71,25 @@
   {
     "id": "moonlit-letter",
     "title": "月色来信",
-    "artist": "颤音琴 · 尼龙吉他 · 弦乐",
+    "artist": "柔钢琴 · 单簧管 · 原声贝斯 · 颤音琴",
     "album": "七种心境 · 浪漫",
-    "src": "./audio/moonlit-letter.mp3",
-    "cover": "./covers/moonlit-letter.svg",
-    "duration": 220,
+    "src": "./audio/moonlit-letter-v2-8eaaed58.mp3",
+    "cover": "./covers/moonlit-letter-v2-7f51779b.webp",
+    "duration": 198,
     "tags": [
       "romantic",
-      "bossa",
+      "jazz",
       "night"
     ]
   },
   {
     "id": "night-drift",
     "title": "夜色轻泊",
-    "artist": "气息长笛 · 竖琴 · 温暖环境音",
+    "artist": "缓慢暖音垫 · 稀疏竖琴 · 远处弦乐",
     "album": "七种心境 · 助眠",
-    "src": "./audio/night-drift.mp3",
-    "cover": "./covers/night-drift.svg",
-    "duration": 252,
+    "src": "./audio/night-drift-v2-930cdbda.mp3",
+    "cover": "./covers/night-drift-v2-7339b411.webp",
+    "duration": 266,
     "tags": [
       "sleepy",
       "ambient",

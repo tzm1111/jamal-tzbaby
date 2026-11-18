@@ -36,9 +36,7 @@
 
 [在文章里体验播放器](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live) · [独立窗口体验](https://tzm1111.github.io/jamal-tzbaby/assets/aurora/index.html) · [GitHub 源码](https://github.com/tzm1111/aurora-music)
 
-点击加载后，可以在页面内播放、切歌和查看频谱，也可以导入自己的本地 MP3。播放器按需加载，开始播放由访客决定。
-
-这里有七首对应不同心境的完整轻音乐：开心、放松、专注、忧郁、充电、浪漫和助眠。长笛、吉他、马林巴、颤音琴与弦乐，各自留下一种不同的听感。选择心情后，对应曲目会排在前面；点击歌曲即可播放。也可以导入自己的本地音乐。
+选一种心情，听一会儿音乐，也可以导入本地 MP3。
 
 ## Aurora：把感受做成一个界面
 

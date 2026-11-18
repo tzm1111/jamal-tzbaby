@@ -7,13 +7,13 @@
   button.addEventListener('click',()=>{
     const existing=host.querySelector('iframe');
     if(existing){
-      existing.remove();host.hidden=true;button.textContent='体验 Aurora 播放器';button.setAttribute('aria-expanded','false');status.textContent='播放器已关闭，音乐已停止。';return;
+      existing.remove();host.hidden=true;button.textContent='体验 Aurora 播放器';button.setAttribute('aria-expanded','false');status.textContent='已收起，音乐已停止。';return;
     }
     const frame=document.createElement('iframe');
     frame.title='Aurora 音乐播放器：七种心境与本地音乐';
     frame.src=host.dataset.src;
     frame.allow='autoplay; fullscreen';
-    frame.addEventListener('load',()=>{status.textContent='播放器已加载，点击播放器内的播放按钮开始聆听。';});
+    frame.addEventListener('load',()=>{status.textContent='已加载，点击播放。';});
     host.hidden=false;host.append(frame);button.textContent='收起播放器';button.setAttribute('aria-expanded','true');status.textContent='正在加载播放器…';
   });
 })();
