@@ -28,7 +28,7 @@ Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tz
 - [Aurora 2.0：把此刻的心情，交给一个专属 DJ — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/): 记录 Aurora 2.0 的设计与迭代：心情输入、专属 DJ、连续聆听，以及声音与画面的氛围。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-why-build-aurora.md)
 
 ## 项目与音乐
-- [AURORA 音乐播放器](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live): 唐哲马（Jamal）的 Aurora 2.0 专属 DJ 项目，探索心情输入、连续播放与视觉反馈；[在线播放](https://tzm1111.github.io/aurora-music/)，[GitHub 源码](https://github.com/tzm1111/aurora-music)。
+- [AURORA 音乐播放器](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live): 唐哲马（Jamal）的 Aurora 2.0 专属 DJ 项目，探索心情输入、连续播放与视觉反馈；[在线播放](https://www.modelscope.cn/studios/Tzm1111/aurora-music?mode=full)，[GitHub 源码](https://github.com/tzm1111/aurora-music)。
 - [阿里巴巴 AI 客服Agent — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/dianxiaomi-agent/): 用户带着一件要处理的事来。产品要证明事情怎样往前走。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-dianxiaomi-agent.md)
 - [拼多多智能客服与服务体验 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/parrot-service/): 从参与鹦鹉智能客服的早期建设，到管理产品团队、独立负责高价值服务体验，连接消费者诉求、服务策略与业务系统。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-parrot-service.md)
 - [TZBABY AI 音乐作品｜五张专辑与 EP — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/projects/tzbaby-music/): 唐哲马以 TZBABY 的名字发布的五张 AI 音乐专辑与 EP，收录 44 首曲目、专辑介绍与网易云音乐收听链接。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/projects-tzbaby-music.md)

@@ -9,3 +9,6 @@
 .aurora-player-host[hidden],.aurora-live button[hidden] { display:none; }
 .aurora-player-host iframe { display:block; width:100%; height:740px; border:1px solid var(--line); background:#0b0a09; }
 @media(max-width:760px) { .aurora-live { padding:18px; } .aurora-player-host iframe { height:820px; } }
+
+.aurora-live-actions a.aurora-open{display:inline-flex;align-items:center;padding:12px 18px;border:1px solid var(--accent);background:var(--accent);color:var(--bg);font:inherit;text-decoration:none}
+.aurora-live-actions a.aurora-open:focus-visible{outline:2px solid var(--accent);outline-offset:4px}

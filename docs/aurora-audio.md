@@ -1,6 +1,6 @@
 ## Aurora 2.0 在线接入（2026-11-18）
 
-文章已嵌入完整在线播放器：https://tzm1111.github.io/aurora-music/ ，音源与模型能力由该项目自己的后端提供。旧的七首轻音乐资源保留在 assets/aurora/，当前文章播放器入口已切换到新版。
+文章的播放器入口直接打开魔搭部署：https://www.modelscope.cn/studios/Tzm1111/aurora-music?mode=full。实际浏览器验证播放进度正常前进；站外 iframe 被平台重定向页面拒绝，所以使用独立窗口入口。旧的七首轻音乐资源保留在 assets/aurora/，当前文章播放器入口已切换到新版。
 
 # AURORA：七种心境
 

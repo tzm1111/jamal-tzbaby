@@ -84,4 +84,4 @@ Aurora 仍然是我的一个个人实验。听一会儿音乐，改一点画面�
 
 说说此刻的心情，让 DJ 为你选歌。
 
-[在文章里体验](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live) · [独立窗口打开](https://tzm1111.github.io/aurora-music/) · [Aurora 2.0 源码](https://github.com/tzm1111/aurora-music)
+[打开 Aurora 2.0](https://www.modelscope.cn/studios/Tzm1111/aurora-music?mode=full) · [Aurora 2.0 源码](https://github.com/tzm1111/aurora-music)
