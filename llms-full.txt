@@ -252,13 +252,10 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 
 ## 思考与方法
 
-- [AI 时代，大学应该学什么？](https://tzm1111.github.io/jamal-tzbaby/posts/university-in-ai-age/)：答案越来越容易获得，大学更应该帮助我们形成那个能够提问、辨别、选择和继续学习的人。
-
-- [如何成为一名合格的 AI PM：从理解问题，到为产品判断负责](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/)：理解问题，解释技术与方案的取舍，让设计可靠落地，并为下一轮判断找到依据。
-- [把判断变成可验证的行动](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/)：研究不是把问题再描述一遍。证据怎样支持选择，选择怎样进入实现，结果怎样被验证？
 - [懂业务的人，才知道 AI 该用在哪](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/)：“我要退款”只有四个字。真正的产品问题，藏在这四个字之后。
 - [售后 Agent 的价值，是让事情真正往前走](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/)：会解释、会执行、能判责与能闭环，是四个不同的问题。用安装、凭证与工单拆开它们。
 - [我的 AI 工作系统：如何让一次经验变成下一次的能力](https://tzm1111.github.io/jamal-tzbaby/posts/personal-ai-work-system/)：把值得保留的经验变成可调用、可检查、可更新的规则，为下一次工作留下可靠的起点。
+- [如何成为一名合格的 AI PM：从理解问题，到为产品判断负责](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/)：理解问题，解释技术与方案的取舍，让设计可靠落地，并为下一轮判断找到依据。
 
 [全部 11 篇思考与方法](https://tzm1111.github.io/jamal-tzbaby/posts/)
 

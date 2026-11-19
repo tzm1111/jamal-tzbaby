@@ -17,17 +17,17 @@ Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tz
 - [唐哲马是谁｜Jamal 的产品经历、AI PM 教学与音乐作品](https://tzm1111.github.io/jamal-tzbaby/about/): 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
 
 ## 文章与方法
-- [AI 时代，大学应该学什么？](https://tzm1111.github.io/jamal-tzbaby/posts/university-in-ai-age/): 答案越来越容易获得，大学更应该帮助我们形成那个能够提问、辨别、选择和继续学习的人。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-university-in-ai-age.md)
+- [懂业务的人，才知道 AI 该用在哪 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/): “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-business-first.md)
+- [售后 Agent 的价值，是让事情真正往前走 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/): 会解释、能执行、能判责与能闭环，是四个不同的产品问题。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-agent-work-system.md)
 - [我的 AI 工作系统：如何让一次经验变成下一次的能力](https://tzm1111.github.io/jamal-tzbaby/posts/personal-ai-work-system/): 把值得保留的经验变成可调用、可检查、可更新的规则，为下一次工作留下可靠的起点。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-personal-ai-work-system.md)
 - [如何成为一名合格的 AI PM：从理解问题，到为产品判断负责](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/): 理解值得解决的问题，解释能力与方案的取舍，让设计可靠落地，再用证据检验结果。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-qualified-ai-pm.md)
-- [售后 Agent 的价值，是让事情真正往前走 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/): 会解释、能执行、能判责与能闭环，是四个不同的产品问题。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-agent-work-system.md)
-- [AI 短剧真的赚钱吗？ — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/): 生成便宜了，但观众没有因此多出一小时。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-ai-drama-business.md)
-- [懂业务的人，才知道 AI 该用在哪 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/business-first/): “我要退款”只有四个字。真正的产品问题，藏在这四个字之后。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-business-first.md)
-- [我从 Decagon 学到的，不是产品功能 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/): 我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-decagon-lessons.md)
 - [把判断变成可验证的行动 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/): 研究要回答问题，证据要支持选择，选择要进入实现，实现要有清楚的验收。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-evidence-to-action.md)
-- [我如何设计一套五周 AI PM 实战训练 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/): 同一个项目贯穿五周，用具体交付与答辩，检查每次选择是否真正想过。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-learn-ai-pm.md)
 - [从能力供给到服务交付：让价值更容易发生 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/service-delivery/): 能力存在、商家开通、真实触发、执行成功与任务解决，是五种不同状态。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-service-delivery.md)
+- [我从 Decagon 学到的，不是产品功能 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/decagon-lessons/): 我最关心的不是它增加了什么按钮，而是谁能够持续修改 Agent 的行为。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-decagon-lessons.md)
+- [AI 短剧真的赚钱吗？ — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/ai-drama-business/): 生成便宜了，但观众没有因此多出一小时。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-ai-drama-business.md)
 - [Aurora 2.0：把此刻的心情，交给一个专属 DJ — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/): 记录 Aurora 2.0 的设计与迭代：心情输入、专属 DJ、连续聆听，以及声音与画面的氛围。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-why-build-aurora.md)
+- [我如何设计一套五周 AI PM 实战训练 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/learn-ai-pm/): 同一个项目贯穿五周，用具体交付与答辩，检查每次选择是否真正想过。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-learn-ai-pm.md)
+- [AI 时代，大学应该学什么？](https://tzm1111.github.io/jamal-tzbaby/posts/university-in-ai-age/): 答案越来越容易获得，大学更应该帮助我们形成那个能够提问、辨别、选择和继续学习的人。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-university-in-ai-age.md)
 
 ## 项目与音乐
 - [AURORA 音乐播放器](https://tzm1111.github.io/jamal-tzbaby/posts/why-build-aurora/#aurora-live): 唐哲马（Jamal）的 Aurora 2.0 专属 DJ 项目，探索心情输入、连续播放与视觉反馈；[在线播放](https://www.modelscope.cn/studios/Tzm1111/aurora-music?mode=full)，[GitHub 源码](https://github.com/tzm1111/aurora-music)。
