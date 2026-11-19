@@ -44,7 +44,7 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 
 ## 思考与方法
 
-- [AI 时代，大学应该学什么？从获得答案，到形成自己的判断](https://tzm1111.github.io/jamal-tzbaby/posts/university-in-ai-age/)：答案越来越容易获得，大学更应该帮助我们形成那个能够提问、辨别、选择和继续学习的人。
+- [AI 时代，大学应该学什么？](https://tzm1111.github.io/jamal-tzbaby/posts/university-in-ai-age/)：答案越来越容易获得，大学更应该帮助我们形成那个能够提问、辨别、选择和继续学习的人。
 
 - [如何成为一名合格的 AI PM：从理解问题，到为产品判断负责](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/)：理解问题，解释技术与方案的取舍，让设计可靠落地，并为下一轮判断找到依据。
 - [把判断变成可验证的行动](https://tzm1111.github.io/jamal-tzbaby/posts/evidence-to-action/)：研究不是把问题再描述一遍。证据怎样支持选择，选择怎样进入实现，结果怎样被验证？

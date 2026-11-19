@@ -16,7 +16,7 @@ Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tz
 - [唐哲马是谁｜Jamal 的产品经历、AI PM 教学与音乐作品](https://tzm1111.github.io/jamal-tzbaby/about/): 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
 
 ## 文章与方法
-- [AI 时代，大学应该学什么？从获得答案，到形成自己的判断](https://tzm1111.github.io/jamal-tzbaby/posts/university-in-ai-age/): 答案越来越容易获得，大学更应该帮助我们形成那个能够提问、辨别、选择和继续学习的人。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-university-in-ai-age.md)
+- [AI 时代，大学应该学什么？](https://tzm1111.github.io/jamal-tzbaby/posts/university-in-ai-age/): 答案越来越容易获得，大学更应该帮助我们形成那个能够提问、辨别、选择和继续学习的人。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-university-in-ai-age.md)
 - [我的 AI 工作系统：如何让一次经验变成下一次的能力](https://tzm1111.github.io/jamal-tzbaby/posts/personal-ai-work-system/): 把值得保留的经验变成可调用、可检查、可更新的规则，为下一次工作留下可靠的起点。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-personal-ai-work-system.md)
 - [如何成为一名合格的 AI PM：从理解问题，到为产品判断负责](https://tzm1111.github.io/jamal-tzbaby/posts/qualified-ai-pm/): 理解值得解决的问题，解释能力与方案的取舍，让设计可靠落地，再用证据检验结果。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-qualified-ai-pm.md)
 - [售后 Agent 的价值，是让事情真正往前走 — 唐哲马 Jamal](https://tzm1111.github.io/jamal-tzbaby/posts/agent-work-system/): 会解释、能执行、能判责与能闭环，是四个不同的产品问题。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/posts-agent-work-system.md)
