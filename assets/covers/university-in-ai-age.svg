@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="864" viewBox="0 0 1536 864" role="img" aria-labelledby="title desc">
+  <title id="title">阅读，让理解慢慢生长</title>
+  <desc id="desc">深色阅览室里，拱窗透进暖光，一本打开的书放在桌面上。</desc>
+  <defs>
+    <linearGradient id="room" x2="1" y2="1"><stop stop-color="#171b20"/><stop offset="1" stop-color="#101215"/></linearGradient>
+    <linearGradient id="window" x2="0" y2="1"><stop stop-color="#b8834d"/><stop offset=".5" stop-color="#d8aa72"/><stop offset="1" stop-color="#6d5740"/></linearGradient>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#ead6b3"/><stop offset="1" stop-color="#a9906b"/></linearGradient>
+    <linearGradient id="light" x2="0" y2="1"><stop stop-color="#d9a66b" stop-opacity=".16"/><stop offset="1" stop-color="#d9a66b" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d8aa72" stop-opacity=".18"/><stop offset="1" stop-color="#d8aa72" stop-opacity="0"/></radialGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="16"/></filter>
+    <pattern id="shelves" width="160" height="152" patternUnits="userSpaceOnUse"><path d="M0 138H160" stroke="#77634d" stroke-opacity=".3" stroke-width="5"/><path d="M14 44v90m21-99v99m19-87v87m21-108v108m25-91v91m21-112v112m20-73v73" stroke="#857057" stroke-opacity=".32" stroke-width="10"/></pattern>
+  </defs>
+  <path fill="url(#room)" d="M0 0h1536v864H0z"/>
+  <ellipse cx="768" cy="380" rx="600" ry="450" fill="url(#glow)"/>
+  <path d="M135 105h335v550H135zm931 0h335v550h-335z" fill="url(#shelves)"/>
+  <path d="M569 580V302a199 199 0 0 1 398 0v278z" fill="#292725" stroke="#584937" stroke-width="14"/>
+  <path d="M592 563V302a176 176 0 0 1 352 0v261z" fill="url(#window)"/>
+  <path d="M592 431c72-18 96-93 159-72 85 29 106-83 193-52v256H592z" fill="#434342" opacity=".54"/>
+  <path d="M592 483c104-50 158 6 238-47 48-32 76-12 114 4v123H592z" fill="#272f33" opacity=".72"/>
+  <path d="M768 126v450m-176-242h352" stroke="#292725" stroke-width="13"/>
+  <path d="M592 563h352l298 301H291z" fill="url(#light)"/>
+  <path d="M225 651h1086l190 213H35z" fill="#252321"/>
+  <path d="M225 651h1086" stroke="#806748" stroke-opacity=".4" stroke-width="3"/>
+  <ellipse cx="763" cy="763" rx="269" ry="38" fill="#000" opacity=".38" filter="url(#shadow)"/>
+  <path d="M525 706l226-50 255 72-237 75z" fill="#594b3b"/>
+  <path d="M537 699c81-25 145-34 224-23v112c-69-20-144-27-242-20zm224-23c91-35 153-22 233 39l26 63c-84-32-163-33-259 10z" fill="url(#paper)"/>
+  <path d="M761 676v112" stroke="#6e5c44" stroke-width="3"/>
+  <g stroke="#776c59" stroke-width="2" opacity=".55"><path d="M567 712c57-10 103-12 158-3m-162 15c54-7 99-7 162 5m-166 7c54-4 105-2 166 10m-170 3c53 0 109 6 170 16m70-55c59-11 111-5 155 19m-155-4c60-8 117 1 162 23m-162-8c63-4 117 7 170 29"/></g>
+  <path d="M793 745l8 40 9-9 10 8-9-42z" fill="#a56c41"/>
+  <ellipse cx="1096" cy="715" rx="42" ry="13" fill="#111417"/>
+  <path d="M1057 679v37c0 22 79 22 79 0v-37" fill="#61513f"/>
+  <ellipse cx="1096" cy="679" rx="40" ry="12" fill="#a28560"/>
+  <ellipse cx="1096" cy="679" rx="32" ry="8" fill="#27211d"/>
+  <path d="M1136 688c36-7 34 36-2 27" fill="none" stroke="#61513f" stroke-width="9"/>
+  <path d="M0 0h1536v864H0z" fill="none" stroke="#eee0cb" stroke-opacity=".04" stroke-width="32"/>
+</svg>

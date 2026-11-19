@@ -13,7 +13,7 @@
 ## 抓取与发现
 
 - 此站位于 GitHub Pages 子目录 `/jamal-tzbaby/`。有效 robots.txt 必须位于 `https://tzm1111.github.io/robots.txt`；子目录中的 robots.txt 不控制爬虫。根目录返回 404 表示没有提供限制规则，不等同于禁止抓取。
-- `sitemap.xml` 列出 17 个有效规范页面，已有 Aurora 项目别名指向真正文章，并排除出 sitemap。主页与各页提供 sitemap 和全文索引入口。
+- `sitemap.xml` 列出 18 个有效规范页面，已有 Aurora 项目别名指向真正文章，并排除出 sitemap。主页与各页提供 sitemap 和全文索引入口。
 - `llms.txt` 是可选的内容导航约定，并非所有 AI 都支持；它不能取代正文、链接与搜索收录。FAQ 结构化数据也不保证 Google 展示 FAQ 富媒体结果。
 - `indexnow-key.txt` 是公开的站点验证文件，按 IndexNow 的 keyLocation 方式验证本子目录。发布后可向支持 IndexNow 的搜索引擎通知规范 URL 更新。HTTP 200/202 仅代表收到通知或等待验证，不代表已收录。
 - Google Search Console 与 Bing Webmaster Tools 的站点验证和 sitemap 提交，需要站主对应账号；部署不等同于完成这些账号内操作。
