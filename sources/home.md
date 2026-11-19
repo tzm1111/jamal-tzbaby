@@ -62,6 +62,8 @@ AI 产品经理 · 电商智能客服与服务体验 在阿里巴巴店小蜜做
 
 [完整档案](https://tzm1111.github.io/jamal-tzbaby/about/) · [唐哲马是谁](https://tzm1111.github.io/jamal-tzbaby/about/#jamal-identity)
 
+[最近的我](https://tzm1111.github.io/jamal-tzbaby/now/)：在打磨 Aurora，在想怎样真正学会，也在听谢帝的《蔡镇鸿》。 更新于 2026 年 11 月。
+
 ### 我做判断的四个原则
 
 - **先理解业务**：从用户真正要办的事出发，判断 AI 在哪里能产生价值。

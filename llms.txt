@@ -12,6 +12,7 @@ Jamal、唐哲马与 TZBABY 的身份关系及经历以[公开档案](https://tz
 - [人物档案 Markdown](https://tzm1111.github.io/jamal-tzbaby/sources/about.md): 公开经历、教学与音乐作品；引用以 HTML 原文为准。
 
 ## 作者与主页
+- [最近的我](https://tzm1111.github.io/jamal-tzbaby/now/): 在打磨 Aurora，在想怎样真正学会，也在听谢帝的《蔡镇鸿》。 [Markdown 全文](https://tzm1111.github.io/jamal-tzbaby/sources/now.md)
 - [唐哲马 Jamal｜AI 产品经理、智能客服与服务体验](https://tzm1111.github.io/jamal-tzbaby/): 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
 - [唐哲马是谁｜Jamal 的产品经历、AI PM 教学与音乐作品](https://tzm1111.github.io/jamal-tzbaby/about/): 唐哲马（Jamal），长期深耕电商智能客服与服务体验的 AI 产品经理。曾在拼多多参与鹦鹉智能客服早期建设，承担产品团队管理并独立负责高价值服务体验业务；现于阿里巴巴店小蜜做 AI 产品。
 

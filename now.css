@@ -1,0 +1,36 @@
+/* 近况沿用站点字体与暖色，只增加一个轻巧入口和独立阅读页。 */
+.now-entry { display:block; margin:24px 0; padding:20px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.now-entry-heading { display:flex; justify-content:space-between; align-items:center; gap:16px; color:var(--paper); font-size:18px; }
+.now-entry-arrow { color:var(--accent); transition:transform .18s ease; }
+.now-entry:hover .now-entry-arrow { transform:translate(3px,-3px); }
+.now-entry .now-entry-copy { display:block; margin:10px 0; color:var(--muted); font-size:14px; line-height:1.9; }
+.now-entry time { color:var(--muted); font-size:12px; }
+.now-entry:focus-visible { outline:2px solid var(--accent); outline-offset:6px; }
+.now-header { max-width:1180px; margin:auto; padding:28px; display:flex; align-items:center; justify-content:space-between; gap:24px; border-bottom:1px solid var(--line); }
+.now-header nav { display:flex; gap:24px; color:var(--muted); }
+.now-main { max-width:808px; margin:auto; padding:56px 24px 80px; }
+.now-back { display:inline-block; color:var(--muted); font-size:14px; margin-bottom:48px; }
+.now-head { margin-bottom:48px; }
+.now-head h1 { margin:16px 0 20px; font-size:clamp(36px,5vw,60px); line-height:1.2; letter-spacing:-.04em; }
+.now-intro { color:var(--muted); font-size:18px; line-height:1.9; max-width:620px; }
+.now-date { display:block; margin-top:24px; color:var(--muted); font-size:12px; }
+.now-section { padding:32px 0; border-top:1px solid var(--line); }
+.now-section h2 { font-size:24px; line-height:1.5; margin:0 0 20px; }
+.now-section p { font-size:17px; line-height:2; margin:0 0 16px; color:var(--muted); }
+.now-section p:last-of-type { margin-bottom:0; }
+.now-related { display:inline-block; margin-top:20px; font-size:14px; color:var(--accent); }
+.now-end { display:flex; justify-content:space-between; gap:24px; margin-top:40px; padding-top:24px; border-top:1px solid var(--line); color:var(--muted); font-size:14px; }
+.now-footer { max-width:1180px; margin:auto; padding:24px 28px; border-top:1px solid var(--line); display:flex; justify-content:space-between; gap:24px; color:var(--muted); font-size:12px; }
+@media(max-width:600px) {
+  .now-header { padding:24px 20px; }
+  .now-header nav { gap:20px; font-size:13px; }
+  .now-main { padding:40px 20px 56px; }
+  .now-back { margin-bottom:36px; }
+  .now-head { margin-bottom:36px; }
+  .now-intro { font-size:16px; }
+  .now-section { padding:28px 0; }
+  .now-section h2 { font-size:22px; }
+  .now-section p { font-size:16px; }
+  .now-footer { padding:24px 20px; }
+}
+@media(prefers-reduced-motion:reduce) { .now-entry-arrow { transition:none; } .now-entry:hover .now-entry-arrow { transform:none; } }
